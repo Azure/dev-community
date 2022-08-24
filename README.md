@@ -1,3 +1,10 @@
+# Curated Content List
+
+## Great Blogs
+[Techwiese](https://www.microsoft.com/de-de/techwiese/)
+
+## Training Materials
+[AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays)
 
 # Contributing
 
