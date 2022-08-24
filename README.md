@@ -4,7 +4,9 @@
 [Techwiese](https://www.microsoft.com/de-de/techwiese/)
 
 ## Training Materials
-[AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays)
+
+* [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays)
+* [AnyoneCanCode](https://github.com/microsoft/anyonecancode)
 
 # Contributing
 
