@@ -3,10 +3,10 @@
 ## Great Blogs
 [Techwiese](https://www.microsoft.com/de-de/techwiese/)
 
-## Training Materials
+## Trainings
 
-* [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays)
-* [AnyoneCanCode](https://github.com/microsoft/anyonecancode)
+* [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
+* [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginner without any Cloud experiance
 
 # Contributing
 
