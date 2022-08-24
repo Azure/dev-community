@@ -44,6 +44,10 @@
 * [Developer Training Events](https://reactor.microsoft.com/en-us/reactor/home/index/)
 * [MicrosoftReactor - Youtube Channel](https://www.youtube.com/c/MicrosoftReactor1)
 
+## Free Ebooks
+
+Cloud Native Infrastructure with Microsoft Azure [DE](https://azure.microsoft.com/de-de/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953) [EN](https://azure.microsoft.com/en-us/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953)
+
 ## Trainings
 
 * [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
