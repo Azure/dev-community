@@ -11,7 +11,7 @@
 ## Programming Languages
 
 * C#/Dotnet
-* Java
+* [Java](./lists/java.md)
 * Python
 * JavaScript/TypeScript
 * Rust
