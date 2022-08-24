@@ -1,9 +1,9 @@
 # Dev Community Intro
 
-## Community Call
+## Community Calls
 
-[Sign Up for Community Call](https://aka.ms/azure4devs)
-[Ask me Anything Call](https://aka.ms/azure4devs)
+* [Sign Up for Community Call](https://aka.ms/azure4devs)
+* [Ask me Anything Call](https://aka.ms/azure4devs)
 
 # Curated Content List
 
