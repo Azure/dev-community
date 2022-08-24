@@ -12,7 +12,7 @@
 
 * C#/Dotnet
 * [Java](./lists/java.md)
-* Python
+* [Python](./lists/python.md)
 * JavaScript/TypeScript
 * Rust
 * Go
