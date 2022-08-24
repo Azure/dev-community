@@ -31,6 +31,7 @@
 
 * [AzureGlobalBlackBelt - Youtube Channel](https://www.youtube.com/c/AzureGlobalBlackBelt)
 * [Twitch Microsoft Developer Livestream](https://www.twitch.tv/microsoftdeveloper)
+* [Developer Training Events](https://reactor.microsoft.com/en-us/reactor/home/index/)
 
 
 ## Trainings
