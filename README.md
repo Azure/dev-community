@@ -1,7 +1,37 @@
+# Dev Community Intro
+
+
+
 # Curated Content List
 
-## Great Blogs
-[Techwiese](https://www.microsoft.com/de-de/techwiese/)
+## Programming Languages
+
+* C#/Dotnet
+* Java
+* Python
+* JavaScript/TypeScript
+* Rust
+* Go
+* Ruby
+* PowerShell
+
+## Azure Hero Services
+
+* Azure Kubernetes Service
+* Azure Functions
+* Azure AppService
+* Azure Container Apps
+* Azure CosmosDB
+* API Management
+* Networking
+* Storage
+* Azure Spring Apps
+
+## Video Content
+
+* [AzureGlobalBlackBelt - Youtube Channel](https://www.youtube.com/c/AzureGlobalBlackBelt)
+* [Twitch Microsoft Developer Livestream](https://www.twitch.tv/microsoftdeveloper)
+
 
 ## Trainings
 
