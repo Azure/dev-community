@@ -7,7 +7,6 @@
 
 # Curated Content List
 
-
 ## Programming Languages
 
 * C#/Dotnet
@@ -30,6 +29,13 @@
 * Networking
 * Storage
 * Azure Spring Apps
+
+## Azure Architectures
+
+* Event Driven
+* Domain Driven
+* Microservices
+* Service Driven
 
 ## Video Content
 
