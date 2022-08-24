@@ -54,6 +54,12 @@ Cloud Native Infrastructure with Microsoft Azure [DE](https://azure.microsoft.co
 * [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginner without any Cloud experiance
 * [AzureAdventureDay](https://www.microsoft.com/de-de/techwiese/events/azure-adventure-day.aspx) - One Day Adventure Training for Azure Kubernetes Serivce
 
+## Dev Tools
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+### VS Code Extensions
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
