@@ -1,8 +1,12 @@
 # Dev Community Intro
 
+## Community Call
 
+[Sign Up for Community Call](https://aka.ms/azure4devs)
+[Ask me Anything Call](https://aka.ms/azure4devs)
 
 # Curated Content List
+
 
 ## Programming Languages
 
@@ -38,6 +42,7 @@
 
 * [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
 * [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginner without any Cloud experiance
+* [AzureAdventureDay](https://www.microsoft.com/de-de/techwiese/events/azure-adventure-day.aspx) - One Day Adventure Training for Azure Kubernetes Serivce
 
 # Contributing
 
