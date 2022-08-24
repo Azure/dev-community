@@ -21,7 +21,7 @@
 
 ## Azure Hero Services
 
-* Azure Kubernetes Service
+* [Azure Kubernetes Service](./lists/aks.md)
 * Azure Functions
 * Azure AppService
 * Azure Container Apps
