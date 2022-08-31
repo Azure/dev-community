@@ -9,7 +9,7 @@
 |  Oct 20 @ 4pm  | Azure Developer Community Call |  coming soon  | [Link](https://mktoevents.com/Microsoft+Event/358245/157-GQE-382) |   
 |  Nov 10 @ 4pm  | Azure Developer Community Call - Ask Me Anything |  tbd - [nominate a topic](https://github.com/Azure/dev-community/discussions/4)  | [Link](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
 |  Nov 17 @ 4pm  | Azure Developer Community Call | Java on Azure  | [Link](https://mktoevents.com/Microsoft+Event/358294/157-GQE-382) |   
-|  Dec 1 @ 4pm  | Azure Developer Community Call - Ask Me Anything | tbd - [nominate a topic](https://github.com/Azure/dev-community/discussions/2) | [Link](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
+|  Dec 1 @ 4pm  | Azure Developer Community Call - Ask Me Anything | Java on Azure | [Link](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
 |  Dec 15 @ 4pm  | Azure Developer Community Call |  tbd - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Link](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
 
 More info on the different formats [here](https://aka.ms/azure4devs)
