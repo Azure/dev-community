@@ -1,7 +1,5 @@
 # Java Programming Language - Curated Content
-| **Category**   ||  | |
-| :----:         | :----:         |:----:         |
-|  Ramp Up    |
+# Ramp Up
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
 |    |        |  [Java for Beginners - Youtube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM)     |
