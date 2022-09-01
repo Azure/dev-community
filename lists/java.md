@@ -14,6 +14,5 @@
 # In production
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
-|    |        |  [Java for Beginners - Youtube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM)     |
-|    |      |    [Static Web Apps - Youtube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG)  |
-|   |         | [Vue.js for Beginners - Youtube PLaylist](https://www.youtube.com/playlist?list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA)    |
+|  Discover how to use idiomatic libraries to connect and interact with your preferred cloud services to get the full power of Azure with your Java apps  |     4 HRS 40 MINS   |  [Expand the capabilities for Java apps on Azure - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/expand-capabilities-java-azure/)     |
+
