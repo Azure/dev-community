@@ -8,9 +8,9 @@
 # App development
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
-|  Find out how you can build, migrate, and scaleJava apps using Azure services   |     5 HRS   |  [Get started with Java on Azure - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-java-azure/)     |
-|  Explore best practices to secure your Java applications on Azure and apply them using Azure Key Vault  |  35 MINS    |    [Manage secrets in Java applications - Zero Trust and Zero Secrets - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-java-applications-zero-trust/)  |
-| Learn how you can build, monitor, automate, tune, autoscale, and secure access to and from Java apps  |   5 HRS      | [Best practices for Java apps on Azure - Self Paced Learning](https://docs.microsoft.com/en-us/learn/paths/best-practices-java-azure/)    |
+|  Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code and Node.js.  | 60 MINS |  [Build a Node.js app for Azure Cosmos DB in Visual Studio Code-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/)     |
+| Use Visual Studio Code and Azure Functions to rapidly create a serverless API, implement a RESTful architecture, and safely store secure information such as connection strings.  |  40 MINS    |    [Build Serverless APIs with Azure Functions - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/)  |
+|Explore Azure Static Web Apps, a modern web app service that offers streamlined, full-stack development from source code to global high availability  |  2 HRS 20 MINS      | [Azure Static Web Apps - Self Paced Learning](https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/)    |
 # In production
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
