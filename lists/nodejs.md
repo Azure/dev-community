@@ -4,7 +4,7 @@
 | :----:        |    :----:   |        :----:     |
 | Learn about what Node.js is, how it works, and when to use it  |    3 HRS   |  [Build JavaScript applications with Node.js - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/)     |
 |  Discover all the essential Node.js knowledge you need to get started on your project  |    2 HRS 30 MINS |    [Node.js for Beginners-YouTube Video](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg)  |
-|  Explore Vue.js, a progressive front-end JavaScript framework designed to allow you to add dynamic capabilities to your web pages  |   60 MINS      | [Vue.js for Beginners - Youtube PLaylist](https://www.youtube.com/playlist?list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA)    |
+
 # App development
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
