@@ -1,6 +1,6 @@
 # Java Programming Language - Curated Content
-| **Category**   |
-| :----:         |
+| **Category**   ||  | |
+| :----:         | :----:         |:----:         |
 |  Ramp Up    |
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
