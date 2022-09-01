@@ -9,8 +9,8 @@
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
 |  Find out how you can build, migrate, and scaleJava apps using Azure services   |     5 HRS   |  [Get started with Java on Azure - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-java-azure/)     |
-|  Explore best practices to secure your Java applications on Azure and apply them using Azure Key Vault  |  35 MINS    |    [Static Web Apps - Youtube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG)  |
-| Learn how you can build, monitor, automate, tune, autoscale, and secure access to and from Java apps  |   5 HRS      | [Vue.js for Beginners - Youtube PLaylist](https://www.youtube.com/playlist?list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA)    |
+|  Explore best practices to secure your Java applications on Azure and apply them using Azure Key Vault  |  35 MINS    |    [Manage secrets in Java applications - Zero Trust and Zero Secrets - Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/manage-secrets-java-applications-zero-trust/)  |
+| Learn how you can build, monitor, automate, tune, autoscale, and secure access to and from Java apps  |   5 HRS      | [Best practices for Java apps on Azure - Self Paced Learning](https://docs.microsoft.com/en-us/learn/paths/best-practices-java-azure/)    |
 # In production
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
