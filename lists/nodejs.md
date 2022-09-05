@@ -9,7 +9,7 @@
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
 |  Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code and Node.js.  | 60 MINS |  [Build a Node.js app with Cosmos DB as a data source-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/)     |
-| Use Visual Studio Code and Azure Functions to rapidly create a serverless API, implement a RESTful architecture, and safely store secure information such as connection strings.  |  40 MINS    |    [Build Serverless APIs with Azure Functions-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/)  |
+| Use Visual Studio Code and Azure Functions to rapidly create a serverless API, implement a RESTful architecture, and safely store secure information such as connection strings  |  40 MINS    |    [Build Serverless APIs with Azure Functions-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/)  |
 |Explore Azure Static Web Apps, a modern web app service that offers streamlined, full-stack development from source code to global high availability  |  2 HRS 20 MINS      | [Azure Static Web Apps-Self Paced Learning](https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/)    |
 # In production
 |**Description** |**Duration**|**Link**|
