@@ -82,7 +82,7 @@ Within minutes, you candevelop and run a job that tackles many scenarios.
 
 ---
 
-### Kubernetes Service
+### AKS / Kubernetes Service
 
 ##### :dizzy: GA
 
@@ -108,7 +108,14 @@ Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 
 ##### :flight_arrival: Updated/New Features
 
+AKS now supports key management system (KMS) plugin integration. 
+This generally available capability enables encryption at rest of your Kubernetes data in etcd using Azure Key Vault. 
+This means you can now store secrets in bring your own key (BYOK) encrypted etcd using KMS.
 
+Features:  
+- Use a key in Key Vault for etcd encryption
+- Bring your own keys
+- Provide encryption at rest for secrets stored in etcd
  
 ---
 
