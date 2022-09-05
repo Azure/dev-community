@@ -1,7 +1,7 @@
 # Azure Updates 09/2022 - Highlights
 
 ### API Management
-:dizzy: ##### General Availability 
+##### :dizzy: General Availability 
 
 Azure API Management support for the MSAL authorization library is now generally available.
 You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
