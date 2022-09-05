@@ -7,7 +7,8 @@ Azure API Management support for the MSAL authorization library is now generally
 You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
 in the developer portal through Azure Active Directory and Azure Active Directory B2C.
 
-Documentation: https://docs.microsoft.com/azure/api-management/api-management-howto-aad?WT.mc_id=wwc-aces#migrate-to-msal
+Documentation:
+https://docs.microsoft.com/azure/api-management/api-management-howto-aad?WT.mc_id=wwc-aces#migrate-to-msal
 
 ---
 
@@ -27,7 +28,8 @@ This delivers benefits including:
  - Optimize request distribution – Replicas and the configuration store have unique applicable request limits,
    enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
 
-Documentation: https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication?WT.mc_id=wwc-aces
+Documentation:
+https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication?WT.mc_id=wwc-aces
 
 ---
 
@@ -38,8 +40,11 @@ Documentation: https://docs.microsoft.com/azure/azure-app-configuration/concept-
 Azure Container Apps (ACA) support for Dapr release 1.8.3 is now generally available.
 All Container App Environments have been automatically upgraded to consume 1.8.3
 
-Dapr v1.8 release notes: https://github.com/dapr/dapr/releases/tag/v1.8.0
-Documentation: https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml?WT.mc_id=wwc-aces
+Dapr v1.8 release notes:
+https://github.com/dapr/dapr/releases/tag/v1.8.0
+
+Documentation:
+https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml?WT.mc_id=wwc-aces
 
 ---
 
@@ -50,4 +55,5 @@ Documentation: https://docs.microsoft.com/azure/container-apps/dapr-overview?tab
 - 3 Availability Zones in UAE North
 - New region: Qatar (with AZs)
               
-Documentation: https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations/
+Documentation:
+https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations
