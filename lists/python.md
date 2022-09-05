@@ -2,8 +2,8 @@
 # Ramp Up
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
-| Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions.  |    3 HRS.45 MINS   |  [Python for beginners- Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/beginner-python/)     |
-|  Explore the foundations of programming in Python, starting from common, everyday code and scenarios.  | 4 HRS.15 MINS |    [Python for beginners-YouTube Video](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)  |
+| Learn how to create programs and projects in Python. Work with strings, lists, loops, dictionaries, and functions.  |    3 HRS 45 MINS   |  [Python for beginners- Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/beginner-python/)     |
+|  Explore the foundations of programming in Python, starting from common, everyday code and scenarios.  | 4 HRS 15 MINS |    [Python for beginners-YouTube Video](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)  |
 
 # App development
 |**Description** |**Duration**|**Link**|
