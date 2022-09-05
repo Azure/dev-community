@@ -61,7 +61,9 @@ Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
 - 3 Availability Zones in UAE North
 - New region: Qatar (with AZs)
               
-[Documentation](https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations)[Azure Regions](https://azure.microsoft.com/global-infrastructure/geographies/#geographies)
+[Documentation](https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations)
+
+[Azure Regions](https://azure.microsoft.com/global-infrastructure/geographies/#geographies)
 
 ---
 
