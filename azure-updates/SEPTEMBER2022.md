@@ -1,5 +1,21 @@
 # Azure Updates 09/2022 - Highlights
 
+### Microsoft DevBox
+
+##### :boom: Preview
+
+Microsoft Dev Box is now in public preview. Microsoft Dev Box provides self-service access for developers to high-performance, 
+cloud-based workstations preconfigured and ready-to-code for specific projects—all while maintaining security and corporate governance.
+
+With Microsoft Dev Box, organizations can:
+- Maximize dev productivity with ready-to-code, self-service Dev Boxes.
+- Centralize governance of workstations running anywhere to maintain greater security, compliance, and cost efficiency.
+- Customize dev boxes with everything developers need for their current projects.
+
+[Documentation](https://azure.microsoft.com/blog/announcing-microsoft-dev-box-preview)
+
+---
+
 ### API Management
 ##### :dizzy: GA 
 
@@ -13,7 +29,7 @@ in the developer portal through Azure Active Directory and Azure Active Director
 
 ### App Service
 
-##### :boom: Preview Features
+##### :boom: Preview
 
 Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
 Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
