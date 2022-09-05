@@ -54,7 +54,8 @@ https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml
 
 Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
 
-Documentation:  https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746
+Documentation:  
+https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746
 
 ---
 
