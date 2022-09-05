@@ -22,7 +22,7 @@ More info on the different formats [here](https://aka.ms/azure4devs)
 * [Java](./lists/java.md)
 * [Python](./lists/python.md)
 * [Node.js](./lists/nodejs.md)
-* [.NET](.NET)
+* [.NET](./lists/.NET.md)
 * JavaScript/TypeScript
 * Rust
 * Go
