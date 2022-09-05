@@ -7,8 +7,7 @@ Azure API Management support for the MSAL authorization library is now generally
 You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
 in the developer portal through Azure Active Directory and Azure Active Directory B2C.
  
-Announcement: https://azure.microsoft.com/updates/generally-available-azure-api-management-support-for-msal-in-developer-portal/
-
+Announcement: https://azure.microsoft.com/updates/generally-available-azure-api-management-support-for-msal-in-developer-portal
 Documentation: https://docs.microsoft.com/azure/api-management/api-management-howto-aad?WT.mc_id=wwc-aces#migrate-to-msal
 
 ---
