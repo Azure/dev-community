@@ -48,6 +48,16 @@ https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml
 
 ---
 
+### Data Explorer
+
+##### General Availability
+
+Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
+
+Documentation:  https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746
+
+---
+
 ### Azure Regions
 
 ##### Region Updates
@@ -58,3 +68,6 @@ https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml
 Documentation:  
 https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations  
 https://azure.microsoft.com/global-infrastructure/geographies/#geographies
+
+---
+
