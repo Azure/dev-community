@@ -1,7 +1,7 @@
 # Azure Updates 09/2022 - Highlights
 
 ### API Management
-##### :dizzy: General Availability 
+##### :dizzy: GA 
 
 Azure API Management support for the MSAL authorization library is now generally available.
 You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
@@ -46,7 +46,7 @@ All Container App Environments have been automatically upgraded to consume 1.8.3
 
 ### Data Explorer
 
-##### :dizzy: General Availability
+##### :dizzy: GA
 
 Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
 
