@@ -57,8 +57,7 @@ Documentation: https://docs.microsoft.com/azure/container-apps/dapr-overview?tab
 - 3 Availability Zones in UAE North
 - New region: Qatar (with AZs)
 
-Announcements: 
-https://azure.microsoft.com/updates/generally-available-uae-north-availability-zones/
-https://azure.microsoft.com/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/
+Announcements: https://azure.microsoft.com/updates/generally-available-uae-north-availability-zones/
+               https://azure.microsoft.com/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/
               
 Documentation: https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations/
