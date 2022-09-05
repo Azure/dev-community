@@ -17,5 +17,4 @@
 |**Description** |**Duration**|**Link**|
 | :----:        |    :----:   |        :----:     |
 |  Set up Azure Monitor for your Python app | 15 MINS  |  [Working with Azure Monitor-Article](https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python)     |
-| Find out how to work with Azure identity from an SDK perspective to assign an app identity and grant permissions  |  10 MINS  |  [How to authenticatePython apps on Azure-Article](https://docs.microsoft.com/en-us/azure/developer/python/sdk/authentication-overview)     |
-
+| Find out how to work with Azure identity from an SDK perspective to assign an app identity and grant permissions  |  10 MINS  |  [How to authenticatePython apps on Azure-Article](https://docs.microsoft.com/en-us/azure/developer/python/sdk/authentication-overview)     
