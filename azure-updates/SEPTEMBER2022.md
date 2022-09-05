@@ -1,7 +1,7 @@
 # Azure Updates 09/2022 - Highlights
 
 ### API Management
-##### General Availability
+##### General Availability :dizzy:
 
 Azure API Management support for the MSAL authorization library is now generally available.
 You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
@@ -13,7 +13,7 @@ in the developer portal through Azure Active Directory and Azure Active Director
 
 ### App Service
 
-##### Preview Features
+##### Preview Features :boom:
 
 Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
 Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
@@ -33,7 +33,7 @@ This delivers benefits including:
 
 ### Container Apps
 
-##### Updated Features
+##### Updated Features :flight_arrival:
 
 Azure Container Apps (ACA) support for Dapr release 1.8.3 is now generally available.
 All Container App Environments have been automatically upgraded to consume 1.8.3
@@ -46,7 +46,7 @@ All Container App Environments have been automatically upgraded to consume 1.8.3
 
 ### Data Explorer
 
-##### General Availability
+##### General Availability :dizzy:
 
 Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
 
@@ -56,7 +56,7 @@ Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
 
 ### Azure Regions
 
-##### Region Updates
+##### Region Updates :earth_africa:
 
 - 3 Availability Zones in UAE North
 - New region: Qatar (with AZs)
