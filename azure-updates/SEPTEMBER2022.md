@@ -91,7 +91,7 @@ This release includes new changes such as the removal of Dockershim.
 
 [Documentation](https://kubernetes.io/blog/2022/04/07/upcoming-changes-in-kubernetes-1-24)
 
-- - - 
++++
 
 ##### :dizzy: GA
 
@@ -108,7 +108,7 @@ Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 
 [Documentation](https://docs.microsoft.com/azure/aks/use-azure-dedicated-hosts)
 
-- - - 
++++
 
 ##### :flight_arrival: Updated/New Features
 
