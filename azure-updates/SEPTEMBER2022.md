@@ -91,6 +91,8 @@ This release includes new changes such as the removal of Dockershim.
 
 [Documentation](https://kubernetes.io/blog/2022/04/07/upcoming-changes-in-kubernetes-1-24)
 
+----
+
 ##### :dizzy: GA
 
 Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, 
