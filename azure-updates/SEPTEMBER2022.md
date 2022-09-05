@@ -23,7 +23,7 @@ Azure API Management support for the MSAL authorization library is now generally
 You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
 in the developer portal through Azure Active Directory and Azure Active Directory B2C.
 
-[Documentation](https://docs.microsoft.com/azure/api-management/api-management-howto-aad?WT.mc_id=wwc-aces#migrate-to-msal)
+[Documentation](https://docs.microsoft.com/azure/api-management/api-management-howto-aad#migrate-to-msal)
 
 ---
 
@@ -43,20 +43,20 @@ This delivers benefits including:
  - Optimize request distribution – Replicas and the configuration store have unique applicable request limits,
    enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
 
-[Documentation](https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication?WT.mc_id=wwc-aces)
+[Documentation](https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication)
 
 ---
 
 ### Container Apps
 
-##### :flight_arrival: Updated Features
+##### :flight_arrival: Updated/New Features
 
 Azure Container Apps (ACA) support for Dapr release 1.8.3 is now generally available.
 All Container App Environments have been automatically upgraded to consume 1.8.3
 
 [Dapr v1.8 release notes](https://github.com/dapr/dapr/releases/tag/v1.8.0)
 
-[Documentation](https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml?WT.mc_id=wwc-aces)
+[Documentation](https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml)
 
 ---
 
@@ -78,7 +78,7 @@ Process your real time data streams in Azure Event Hubs using Azure Stream Analy
 The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. 
 Within minutes, you candevelop and run a job that tackles many scenarios.
 
-[Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing?WT.mc_id=wwc-aces)
+[Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing)
 
 ---
 
@@ -90,6 +90,25 @@ AKS support for Kubernetes release 1.24 is now generally available. Kubernetes 1
 This release includes new changes such as the removal of Dockershim.
 
 [Documentation](https://kubernetes.io/blog/2022/04/07/upcoming-changes-in-kubernetes-1-24)
+
+##### :dizzy: GA
+
+Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, 
+dedicated to one Azure subscription. Dedicated hosts are the same physical servers used in our data centers,
+provided as a resource.
+You can provision dedicated hosts within a region, availability zone, and fault domain. 
+Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.
+
+Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
+- Hardware isolation at the physical server level. No other VMs will be placed on your hosts.
+- Control over maintenance events initiated by the Azure platform. 
+- With dedicated hosts, you can opt-in to a maintenance window to reduce the impact to your service.
+
+[Documentation](https://docs.microsoft.com/azure/aks/use-azure-dedicated-hosts)
+
+##### :flight_arrival: Updated/New Features
+
+
  
 ---
 
