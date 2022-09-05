@@ -82,6 +82,17 @@ Within minutes, you candevelop and run a job that tackles many scenarios.
 
 ---
 
+### Kubernetes Service
+
+##### :dizzy: GA
+
+AKS support for Kubernetes release 1.24 is now generally available. Kubernetes 1.24 delivers 46 enhancements.
+This release includes new changes such as the removal of Dockershim.
+
+[Documentation](https://kubernetes.io/blog/2022/04/07/upcoming-changes-in-kubernetes-1-24)
+ 
+---
+
 ### Azure Regions
 
 ##### :earth_africa: Region Updates
