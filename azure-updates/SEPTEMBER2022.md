@@ -70,6 +70,18 @@ Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
 
 ---
 
+### Event Hub
+
+##### :boom: Preview
+
+Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. 
+The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. 
+Within minutes, you candevelop and run a job that tackles many scenarios.
+
+[Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing?WT.mc_id=wwc-aces)
+
+---
+
 ### Azure Regions
 
 ##### :earth_africa: Region Updates
