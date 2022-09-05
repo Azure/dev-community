@@ -116,6 +116,8 @@ Features:
 - Use a key in Key Vault for etcd encryption
 - Bring your own keys
 - Provide encryption at rest for secrets stored in etcd
+
+[Documentation](https://docs.microsoft.com/azure/aks/use-kms-etcd-encryption)
  
 ---
 
