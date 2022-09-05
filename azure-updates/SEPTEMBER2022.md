@@ -56,4 +56,5 @@ https://docs.microsoft.com/azure/container-apps/dapr-overview?tabs=bicep1%2Cyaml
 - New region: Qatar (with AZs)
               
 Documentation:  
-https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations
+https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations  
+https://azure.microsoft.com/global-infrastructure/geographies/#geographies
