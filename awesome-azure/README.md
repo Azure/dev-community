@@ -1,5 +1,5 @@
 <br/>
-<p align="center">
+<p align="center" width="200" height="200">
   <img src="../assets/azure.png">
 </p>
 <br/>
