@@ -8,6 +8,24 @@ Azure Storage lifecycle management offers a rule-based policy that you can use t
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/)
 
++++
+
+##### :dizzy: GA 
+
+Resizing a disk on Azure can provide increased storage capacity and better performance for your applications. As part of our commitment to continuously add new capabilities to our Azure Disk Storage portfolio, live resize for Premium SSD and Standard SSD Disk Storage is now generally available.
+
+With live resize, you can dynamically increase the storage capacity of your Premium SSD and Standard SSD disks without causing any disruption to your applications. To reduce costs, you can start with smaller disks and gradually increase their storage capacity without experiencing any downtime.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
+
++++
+
+##### :boom: Preview
+
+Today we are releasing the ability to encrypt storage account with customer-managed keys (CMK) using an Azure Key Vault hosted on a different Azure Active Directory tenant. You can use this solution to encrypt your customers’ data using an encryption key managed by your customers.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
+
 ---
 
 ### Virtual Machines
