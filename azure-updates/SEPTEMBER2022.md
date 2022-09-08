@@ -72,6 +72,26 @@ This means that with appropriate permissions,you can add, edit, or delete the ke
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
 
+### Functions
+
+##### :dizzy: GA 
+
+The Event Grid blob trigger handles events raised by a storage account and is now generally available.
+
+The extension allows you to reduce latency by triggering on an event subscription to the same blob container. The event subscription uses Event Grid to forward changes in the blob container as events for your function to consume.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
+
+### App Configuration
+
+##### :boom: Preview
+
+App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service. App Configuration provides central management of configuration key-values that can span resources and deployment environments. When defining an application setting or connection string within App Service and Azure Functions, instead of providing a direct value, you can now specify a key-value in an external Azure App Configuration store. The app uses its managed identity to resolve the value from the store and expose it as an environment variable to your application.
+
+This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault. Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
+
 ### Microsoft DevBox
 
 ##### :boom: Preview
