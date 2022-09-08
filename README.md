@@ -19,10 +19,10 @@ More info on the different formats [here](https://aka.ms/azure4devs)
 ## Programming Languages
 
 * C#/Dotnet
-* [Java](./lists/java.md)
-* [Python](./lists/python.md)
-* [Node.js](./lists/nodejs.md)
-* [.NET](./lists/.NET.md)
+* [Java](./awesome-azure/java.md)
+* [Python](./awesome-azure/python.md)
+* [Node.js](./awesome-azure/nodejs.md)
+* [.NET](./awesome-azure/.NET.md)
 * JavaScript/TypeScript
 * Rust
 * Go
