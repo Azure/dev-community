@@ -1,7 +1,6 @@
 
   <img src="./assets/azure_developer_community_hub.png">
 
-# Dev Community Intro
 
 ## Community Calls in CY22
 
