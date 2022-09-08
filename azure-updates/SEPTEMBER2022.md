@@ -92,6 +92,26 @@ You can configure data export rules in Azure Monitor Logs and export data for ap
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-azure-monitor-logs-data-export-supports-application-insights-tables-2/)
 
++++
+
+##### :flight_arrival: Updated/New Features
+
+Azure Monitor container insights allow you to monitor your container and Kubernetes workloads. When enabling container insights, Azure Monitor deploys a containerized collection agent. This agent is being renamed from OMSAgent to Azure Monitor agent. The current OMSAgent name is a legacy name from the OMS product and does not reflect the branding for Azure Monitor. The Azure Monitor agent is being standardized as the single collection agent for Azure Monitor. The name change brings the agent’s name in line with these updates.
+
+The changes will roll out in early September. There are no feature updates or functional changes to the agent in this release. You will see a new pod name in your clusters. Alongside that, several other related resources have also been renamed. See the “List of renamed resources” and “List of renamed labels" tables in the linked blog post for more details. Customers who use the “omsagent” string in their alerts, queries, and script must update them to avoid any issues.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-azure-monitor-container-insights-agent-renaming/)
+
++++
+
+##### :boom: Preview
+
+Container insights now supports integration with Azure Monitor agent for AKS clusters and Arc-enabled clusters. This integration is now generally available for Linux nodes in AKS and Arc-enabled clusters. This specialized agent collects performance and event data from all nodes in the cluster, and the agent is automatically deployed and registered with the specified log analytics workspace during deployment. 
+
+With the Azure Monitor agent, container insights also supports authentication using managed identity for AKS and Arc-enabled clusters. This is a secure and simplified authentication model where the monitoring agent uses the cluster’s managed identity to send data to Azure Monitor. It replaces the existing legacy certificate-based local authentication and removes the requirement of adding a monitoring metrics publisher role to the cluster. System-assigned identity and user-assigned identity are supported.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-use-managed-identitybased-authentication-to-enable-azure-monitor-container-insights/)
+
 ---
 
 ### Communications Services
@@ -192,6 +212,17 @@ App Service and Azure Functions now support referencing configuration key-values
 This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault. Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
+
+
+##### :boom: Preview
+
+Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized, using an eventual consistency model. This delivers benefits including:
+
+Increased resiliency – Replication across regions means that your configuration data will still be accessible should a service outage impact your store or any one of the replicas.
+Minimize latency – Now your applications can consume the data locally rather than issuing cross-region requests. 
+Optimize request distribution – Replicas and the configuration store have unique applicable request limits, enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-geo-replication-support/)
 
 ---
 
@@ -374,7 +405,76 @@ Features:
 - Provide encryption at rest for secrets stored in etcd
 
 [Documentation](https://docs.microsoft.com/azure/aks/use-kms-etcd-encryption)
+
++++
+
+##### :boom: Preview
+
+Automated deployments simplify the process of setting up a GitHub Action and creating an automated workflow for your code releases to your Azure Kubernetes Service (AKS) cluster. Once connected, every new commit will kick off the workflow, resulting in your application being updated.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-automated-deployments-in-aks/)
+
++++
+
+##### :boom: Preview
+
+Azure offers a unique capability of mounting Blob Storage (or object storage) as a file system to a Kubernetes pod or application using BlobFuse or NFS 3.0 options. This allows you to use blob storage with a number of stateful Kubernetes applications including HPC, Analytics, image processing, and audio or video streaming. Not only that, if your application ingests data into Data Lake storage on Azure Blobs, you can now directly mount and use it with AKS. Previously, you had to manually install and manage the lifecycle of the open-source Azure Blob CSI driver including deployment, versioning, and upgrades. 
+
+With this preview, you can use the Azure Blob CSI driver as a managed addon in AKS with built in storage classes for NFS and BlobFuse, reducing the operational overhead and maximizing time to value.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-blob-csi-support-in-aks-2/)
+
+ +++
+
+##### :flight_arrival: Updated/New Features
+
+AKS now supports key management system (KMS) plugin integration. This generally available capability enables encryption at rest of your Kubernetes data in etcd using Azure Key Vault. This means you can now store secrets in bring your own key (BYOK) encrypted etcd using KMS.
+
+From the Kubernetes documentation on Encrypting Secret Data at Rest:
+
+KMS plugin for Key Vault is the recommended choice for using a third-party tool for key management. KMS plugin simplifies key rotation, with a new data encryption key (DEK) generated for each encryption, and key encryption key (KEK) rotation controlled by the user.
+
+Features:
+
+Use a key in Key Vault for etcd encryption
+Bring your own keys
+Provide encryption at rest for secrets stored in etcd
  
+ [Documentation](https://azure.microsoft.com/updates/generally-available-key-management-system-integration-with-aks/)
+ 
+ +++
+  
+  ##### :dizzy: GA
+  
+Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, dedicated to one Azure subscription. Dedicated hosts are the same physical servers used in our data centers, provided as a resource. 
+
+You can provision dedicated hosts within a region, availability zone, and fault domain. Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.  
+
+Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
+
+Hardware isolation at the physical server level. No other VMs will be placed on your hosts. 
+Control over maintenance events initiated by the Azure platform. With dedicated hosts, you can opt-in to a maintenance window to reduce the impact to your service.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-azure-dedicated-host-support/)
+
+ +++
+  
+  ##### :dizzy: GA
+    
+AKS support for Kubernetes release 1.24 is now generally available. Kubernetes 1.24 delivers 46 enhancements. This release includes new changes such as the removal of Dockershim.  
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-kubernetes-124-support/)
+
+ +++
+ 
+##### :boom: Preview 
+
+The AKS DevX extension for Visual Studio Code is in public preview. This extension enhances your day-to-day life as a developer on Azure Kubernetes Service and is focused on non-cluster developer experiences. 
+
+The first feature to be added to the DevX extension is Draft, allowing you to create Dockerfiles, deployment files, and GitHub Actions easily through Visual Studio Code.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-aks-devx-extension-for-visual-studio-code/)
+
 ---
 
 ### Virtual Network
@@ -430,4 +530,24 @@ AutoML in Pipelines Allows you to utilize the full power of AutoML in your MLOps
 
 ---
 
+### Database for MySQL
+##### :flight_arrival: Updated/New Features
+
+ Use server logs for Azure Database for MySQL - Flexible Server to enable logging for your server and save the results to a file. If you enable server logs and select the log type, you can download the logs from your server. Use the information in these logs to get detailed insights about the activities executed on your server, and then identify and troubleshoot potential issues.
  
+[Documentation](https://azure.microsoft.com/updates/general-availability-server-logs-for-azure-database-for-mysql-flexible-server/)
+
+---
+
+### Redis Cache
+##### :flight_arrival: Pricing Updates
+
+Save up to 55 percent on your usage of the Enterprise and Enterprise Flash tiers of Azure Cache for Redis by purchasing reserved instances. The reservation discount will automatically apply to your matching cache resources so the process of purchasing a reservation is streamlined. Reservations are available on a one-year basis for up to a 35 percent discount or on a three-year basis for a 55 percent discount. This is a great way to maximize the cost efficiency of your Azure deployment and ensure you get the best deal.
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-reserved-instance-pricing-for-azure-cache-for-redis-enterprise/)
+
+---
+
+
+
+
