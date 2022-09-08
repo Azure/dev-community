@@ -377,4 +377,57 @@ Features:
  
 ---
 
+### Virtual Network
+##### :flight_arrival: Updated/New Features
 
+Network security groups (NSGs) support for private endpoints is now generally available. This feature enhancement provides you with the ability to enable advanced security controls on traffic destined to a private endpoint. In order to leverage this feature, you will need to set a specific subnet level property, called PrivateEndpointNetworkPolicies, to enabled on the subnet containing private endpoint resources.
+
+At this time, Private Link network security group support is available in most public regions.
+
+Regional availability:
+
+This feature will be available in the following regions at this time:
+
+US East, US West, US North, US South, US Central, US East 2, Europe North, Europe West, Asia East, Asia South East, Japan East, Japan West, Brazil South, Australia East, Australia South East, India Central, India South, Canada Central, Canada East, US West 2, US West Central, UK West, UK South, Korea South, Korea Central, France South, France Central, Australia Central, South Africa North, United Arab Emirates Central, United Arab Emirates North, Switzerland North, Switzerland West, Germany North, Germany West Central, Norway East, Norway West, US West 3, Jio India Central, Jio India West, Sweden South, Sweden Central, Qatar Central, US Central Early Updates Access Program, US East 2 Early Updates Access Program
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
+
+---
+
+### Load Testing
+##### :boom: Preview
+
+Azure Load Testing now supports load testing for private endpoints. You can create an Azure Load Testing resource and enable it to generate load from within your virtual network (VNET injection).
+
+This functionality enables the following usage scenarios:
+
+Generate load to an endpoint that is deployed in an Azure virtual network
+Generate load to a public endpoint with access restrictions, such as restricting client IP addresses
+Generate load to an on-premises service, not publicly accessible, that is connected to Azure via ExpressRoute
+This functionality is available in the following Azure regions: Australia East, East US, East US 2, and North Europe. This will soon be available in South Central US and West US 2.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-microsoft-azure-load-testing-supports-private-endpoints-testing/)
+ 
+---
+
+### Machine Learning
+##### :flight_arrival: Updated/New Features
+
+Hierarchical forecasting eliminates the need for you to manually create individual models to produce forecasts for your hierarchy data, aiming to generate hierarchy-aware and consistent forecasts at all levels of your hierarchy.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/)
+
+
++++
+
+##### :boom: Preview
+
+AutoML Code Generation is now available for all 10 AutoML tasks across tabular, images & text data. This feature makes AutoML a transparent solution by allowing you to select any AutoML-trained model and generate the Python training code to explore, customize, and retrain before deploying.
+
+AutoML in Pipelines Allows you to utilize the full power of AutoML in your MLOps process.  You can prep data, funnel it into AutoML, register the resulting best model, and set up an endpoint for scoring all within one pipeline.
+
+[Documentation](https://azure.microsoft.com/updates/azure-machine-learning-public-preview-updates-for-august-2022/)
+
+---
+
+ 
