@@ -300,27 +300,6 @@ Within minutes, you candevelop and run a job that tackles many scenarios.
 ---
 
 ### Azure Regions
-
-##### :earth_africa: Region Updates
-
-Availability Zones in UAE North are made up of three unique physically separated locations or “zones” within a single region to bring higher availability and asynchronous replication across Azure regions for disaster recovery protection.
-
-Availability Zones give you additional options for high availability for your most demanding applications and services as well as confidence and protection from potential hardware and software failures by providing three or more unique physical locations within an Azure region.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-uae-north-availability-zones/)
-
-+++
-
-##### :earth_africa: Region Updates
-
-We are launching our newest datacenter region in Qatar. The new datacenter region includes Azure Availability Zones, which offer you additional resiliency for your applications by designing the region with unique physical datacenter locations with independent power, network, and cooling for additional tolerance to datacenter failures.
-
-
-[Documentation](https://azure.microsoft.com/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
-
-+++
-
-
 ##### :earth_africa: Region Updates
 
 - 3 Availability Zones in UAE North
