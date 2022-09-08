@@ -19,10 +19,10 @@ More info on the different formats [here](https://aka.ms/azure4devs)
 ## Programming Languages
 
 * C#/Dotnet
-* [Java](./awesome-azure/java.md)
-* [Python](./awesome-azure/python.md)
-* [Node.js](./awesome-azure/nodejs.md)
-* [.NET](./awesome-azure/.NET.md)
+* [Java](./java.md)
+* [Python](./python.md)
+* [Node.js](./nodejs.md)
+* [.NET](./.NET.md)
 * JavaScript/TypeScript
 * Rust
 * Go
@@ -31,7 +31,7 @@ More info on the different formats [here](https://aka.ms/azure4devs)
 
 ## Azure Hero Services
 
-* [Azure Kubernetes Service](./lists/aks.md)
+* [Azure Kubernetes Service](./aks.md)
 * Azure Functions
 * Azure AppService
 * Azure Container Apps
