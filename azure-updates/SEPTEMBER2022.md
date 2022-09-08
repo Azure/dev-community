@@ -26,6 +26,25 @@ With live resize, you can dynamically increase the storage capacity of your Prem
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
 
+### Monitor
+
+##### :dizzy: GA 
+
+Change analysis is an observability tool that enables efficient issue triaging and root causing by centrally showing changes inside and outside of Azure web applications. Built on top of Azure resource graph, the capability securely stores resource and application configuration change data with added role-based access control (RBAC) rules on viewing sensitive information. Change analysis supports scalable queries across multiple subscriptions.
+
+Several key change analysis capabilities and integrations have been released into general availability (GA).
+
+Fully integrated into the Azure Monitor portal as a key data source for observability
+Performance and scalability improvement for large queries on change data
+Simplified change data presentations aggregated by subscription and resource-groups
+Single pane of glass observability by integrating with existing workflows and tools:
+Diagnose and solve problems
+Activity log change history
+Metrics drill-into-changelogs
+Azure workbook
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-enterpriseready-azure-monitor-change-analysis-capability-released/)
+
 ### Microsoft DevBox
 
 ##### :boom: Preview
