@@ -104,6 +104,24 @@ Supporting these capabilities in the managed developer portal provides you with 
 
 ---
 
+### App Services
+
+##### :flight_arrival: Updated/New Features 
+
+Enterprise-grade edge for Azure Static Web Apps is now generally available. Enable faster page loads, enhance security, and optimize reliability for your global applications. Enterprise-grade edge combines the capabilities of Azure Static Web Apps, Azure Front Door, and Azure Content Delivery Network (CDN) into a single secure cloud CDN platform.
+
+Key features:
+
+Global presence in 118+ edge locations across 100 metro cities
+Caching assets at the edge
+Proactive protection against Distributed Denial of Service (DDoS) attacks
+Native support of end-to-end IPv6 connectivity and HTTP/2 protocol.
+Optimized file compression.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/)
+
+---
+
 ### App Configuration
 
 ##### :boom: Preview
