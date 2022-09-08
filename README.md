@@ -1,6 +1,11 @@
+<br/>
+<p align="center">
+  <img src="./assets/MSFT_DevCommunityCall_Registry_Header_1920x300_v4.png">
+</p>
+
 # Dev Community Intro
 
-## Upcoming Community Calls
+## Community Calls in CY22
 
 | Date   | Topic                                 | Action |   
 |--------|---------------------------------------|--------------|
