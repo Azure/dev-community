@@ -3,7 +3,6 @@
 
 Welcome Text
 
-## Awesome Azure
 
 ## Community Calls in CY22
 
@@ -19,7 +18,15 @@ Welcome Text
 
 More info on the different formats [here](https://aka.ms/azure4devs)
 
+
+## Awesome Azure
+
+## Azure Updates
+
 ## Trainings & Events
+
+[Overview](./trainings_and_events.md)
+
 
 
 ## More Content
