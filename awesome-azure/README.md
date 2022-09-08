@@ -24,6 +24,8 @@ Contributions are welcome!
 
 Review the [Contributing Guidelines](./CONTRIBUTING.md).
 
+# Index
+
 ## Programming Languages
 
 * C#/Dotnet
