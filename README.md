@@ -1,7 +1,5 @@
-<br/>
-<p align="center">
-  <img src="./assets/MSFT_DevCommunityCall_Registry_Header_1920x300_v4.png">
-</p>
+
+  <img src="./assets/azure_developer_community_hub.png">
 
 # Dev Community Intro
 
