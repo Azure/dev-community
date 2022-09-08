@@ -2,7 +2,7 @@
 
 ### Storage
 
-##### :flight_arrival: New Features
+##### :flight_arrival: Updated/New Features
 
 Azure Storage lifecycle management offers a rule-based policy that you can use to transition blob data to the appropriate access tiers or to expire data at the end of the data lifecycle. You can configure rules to move a blob to archive tier based on last modified condition. If you rehydrate a blob by changing its tier, this rule may move the blob back to the archive tier. This can happen if the last modified time is beyond the threshold set for the policy. Now you can add a new condition, daysAfterLastTierChangeGreaterThan, in your rules, to skip the archiving action if the blobs are newly rehydrated.
 
@@ -91,6 +91,41 @@ App Service and Azure Functions now support referencing configuration key-values
 This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault. Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
+
+### CosmosDB
+
+##### :flight_arrival: Updated/New Features
+
+Use Azure Cosmos DB integrated cache to optimize read costs and latency for both point reads and queries. The Azure Cosmos DB integrated cache is an in-memory cache built-in to the Azure Cosmos DB dedicated gateway. The dedicated gateway is optional front-end compute that stores cached data and routes requests to the backend database. There’s no need to make code changes in your application to use the dedicated gateway and utilize the integrated cache. Integrated cache is currently available for Core (SQL) API only.
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-azure-cosmos-db-integrated-cache/)
+
+### Databricks
+
+##### :flight_arrival: Updated/New Features
+
+Unity Catalog is a unified and fine-grained governance solution for all data assets including files, tables, and machine learning models in your Lakehouse.  
+
+Unity Catalog helps simplify security and governance of your data with the following key features: 
+
+Define once, secure everywhere: Unity Catalog offers a single place to administer data access policies that apply across all workspaces and personas. 
+Standards-compliant security model: Unity Catalog’s security model is based on standard ANSI SQL and allows administrators to grant permissions at the level of catalogs, databases (also called schemas), tables, and views in their existing data lake using familiar syntax. 
+Built-in auditing: Unity Catalog automatically captures user-level audit logs that record access to your data
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-unity-catalog-for-azure-databricks/)
+
+
+### SQL Database
+
+##### :boom: Preview
+
+In late August 2022, the following updates and enhancements were made to Azure SQL:
+
+Enable automatic key rotation for Customer Managed Key in Azure SQL Database and Azure SQL Managed Instance.
+Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
+
+[Documentation](https://azure.microsoft.com/updates/azure-sql-public-preview-updates-for-late-august-2022/)
+
 
 ### Microsoft DevBox
 
