@@ -2,15 +2,15 @@
 
 ## Upcoming Community Calls
 
-| Date   | Topic                                 | Registration |   
+| Date   | Topic                                 | Action |   
 |--------|---------------------------------------|--------------|
-| Sep 15 @ 4pm | News & Hot Topics - Microsoft DevBox | [Link](https://mktoevents.com/Microsoft+Event/358221/157-GQE-382)         |   
-| Oct 6 @ 4pm | Ask Me Anything - Cloud Native Application Development  |  [Link](https://mktoevents.com/Microsoft+Event/358196/157-GQE-382)             |   
-|  Oct 20 @ 4pm  | News & Hot Topics - BestSecret on Azure  | [Link](https://mktoevents.com/Microsoft+Event/358245/157-GQE-382) |   
-|  Nov 10 @ 4pm  | Ask Me Anything - tbd - [nominate a topic](https://github.com/Azure/dev-community/discussions/4)  | [Link](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
-|  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Link](https://mktoevents.com/Microsoft+Event/358294/157-GQE-382) |   
-|  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure | [Link](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
-|  Dec 15 @ 4pm  | News & Hot Topics -  tbd - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Link](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
+| Sep 15 @ 4pm | News & Hot Topics - Microsoft DevBox | [Register](https://mktoevents.com/Microsoft+Event/358221/157-GQE-382)         |   
+| Oct 6 @ 4pm | Ask Me Anything - Cloud Native Application Development  |  [Register](https://mktoevents.com/Microsoft+Event/358196/157-GQE-382)             |   
+|  Oct 20 @ 4pm  | News & Hot Topics - BestSecret on Azure  | [Register](https://mktoevents.com/Microsoft+Event/358245/157-GQE-382) |   
+|  Nov 10 @ 4pm  | Ask Me Anything - [nominate a topic](https://github.com/Azure/dev-community/discussions/4)  | [Register](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
+|  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Register](https://mktoevents.com/Microsoft+Event/358294/157-GQE-382) |   
+|  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure | [Register](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
+|  Dec 15 @ 4pm  | News & Hot Topics - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
 
 More info on the different formats [here](https://aka.ms/azure4devs)
 
