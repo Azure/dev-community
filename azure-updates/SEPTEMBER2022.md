@@ -1,5 +1,22 @@
 # Azure Updates 09/2022 - Highlights
 
+
+### Microsoft DevBox
+
+##### :boom: Preview
+
+Microsoft Dev Box is now in public preview. Microsoft Dev Box provides self-service access for developers to high-performance, 
+cloud-based workstations preconfigured and ready-to-code for specific projects—all while maintaining security and corporate governance.
+
+With Microsoft Dev Box, organizations can:
+- Maximize dev productivity with ready-to-code, self-service Dev Boxes.
+- Centralize governance of workstations running anywhere to maintain greater security, compliance, and cost efficiency.
+- Customize dev boxes with everything developers need for their current projects.
+
+[Documentation](https://azure.microsoft.com/blog/announcing-microsoft-dev-box-preview)
+
+---
+
 ### Storage
 
 ##### :flight_arrival: Updated/New Features
@@ -38,18 +55,6 @@ Ephemeral OS disk customers can choose encryption type between platform managed 
 
 ---
 
-### Storage
-
-##### :dizzy: GA 
-
-Resizing a disk on Azure can provide increased storage capacity and better performance for your applications. As part of our commitment to continuously add new capabilities to our Azure Disk Storage portfolio, live resize for Premium SSD and Standard SSD Disk Storage is now generally available.
-
-With live resize, you can dynamically increase the storage capacity of your Premium SSD and Standard SSD disks without causing any disruption to your applications. To reduce costs, you can start with smaller disks and gradually increase their storage capacity without experiencing any downtime.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
-
----
-
 ### Monitor
 
 ##### :dizzy: GA 
@@ -68,6 +73,24 @@ Metrics drill-into-changelogs
 Azure workbook
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-enterpriseready-azure-monitor-change-analysis-capability-released/)
+
++++
+
+##### :dizzy: GA 
+
+As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform. With Azure Managed Grafana, you can seamlessly and securely connect with and scale to businesses’ existing Azure services, enhancing observability and cloud management.
+
+In addition to the features announced during preview, with general availability, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.
+
+[Documentation](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
+
++++
+
+##### :flight_arrival: Updated/New Features
+
+You can configure data export rules in Azure Monitor Logs and export data for application insights tables, storage accounts, and event hubs. When linking multiple applications insights components to a workspace, data export applies to data coming from all linked applications.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-azure-monitor-logs-data-export-supports-application-insights-tables-2/)
 
 ---
 
@@ -102,6 +125,16 @@ Supporting these capabilities in the managed developer portal provides you with 
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
 
++++
+
+##### :dizzy: GA 
+
+Azure API Management support for the MSAL authorization library is now generally available.
+You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
+in the developer portal through Azure Active Directory and Azure Active Directory B2C.
+
+[Documentation](https://docs.microsoft.com/azure/api-management/api-management-howto-aad#migrate-to-msal)
+
 ---
 
 ### App Services
@@ -120,198 +153,7 @@ Optimized file compression.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/)
 
----
-
-### App Configuration
-
-##### :boom: Preview
-
-Azure Storage Explorer now offers an extension for Azure App Configuration–you can now work with Azure App Configuration resources under your Azure subscriptions directly in Storage Explorer. 
-
-This means that with appropriate permissions,you can add, edit, or delete the key-values in your App Configuration store directly from the Storage Explorer.
-
-[Documentation](https://azure.microsoft.com/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
-
----
-
-### Functions
-
-##### :dizzy: GA 
-
-The Event Grid blob trigger handles events raised by a storage account and is now generally available.
-
-The extension allows you to reduce latency by triggering on an event subscription to the same blob container. The event subscription uses Event Grid to forward changes in the blob container as events for your function to consume.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
-
----
-
-### App Configuration
-
-##### :boom: Preview
-
-App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service. App Configuration provides central management of configuration key-values that can span resources and deployment environments. When defining an application setting or connection string within App Service and Azure Functions, instead of providing a direct value, you can now specify a key-value in an external Azure App Configuration store. The app uses its managed identity to resolve the value from the store and expose it as an environment variable to your application.
-
-This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault. Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
-
-[Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
-
----
-
-### CosmosDB
-
-##### :flight_arrival: Updated/New Features
-
-Use Azure Cosmos DB integrated cache to optimize read costs and latency for both point reads and queries. The Azure Cosmos DB integrated cache is an in-memory cache built-in to the Azure Cosmos DB dedicated gateway. The dedicated gateway is optional front-end compute that stores cached data and routes requests to the backend database. There’s no need to make code changes in your application to use the dedicated gateway and utilize the integrated cache. Integrated cache is currently available for Core (SQL) API only.
-
-[Documentation](https://azure.microsoft.com/updates/general-availability-azure-cosmos-db-integrated-cache/)
-
-### Databricks
-
-##### :flight_arrival: Updated/New Features
-
-Unity Catalog is a unified and fine-grained governance solution for all data assets including files, tables, and machine learning models in your Lakehouse.  
-
-Unity Catalog helps simplify security and governance of your data with the following key features: 
-
-Define once, secure everywhere: Unity Catalog offers a single place to administer data access policies that apply across all workspaces and personas. 
-Standards-compliant security model: Unity Catalog’s security model is based on standard ANSI SQL and allows administrators to grant permissions at the level of catalogs, databases (also called schemas), tables, and views in their existing data lake using familiar syntax. 
-Built-in auditing: Unity Catalog automatically captures user-level audit logs that record access to your data
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-unity-catalog-for-azure-databricks/)
-
-
-### SQL Database
-
-##### :boom: Preview
-
-In late August 2022, the following updates and enhancements were made to Azure SQL:
-
-Enable automatic key rotation for Customer Managed Key in Azure SQL Database and Azure SQL Managed Instance.
-Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
-
-[Documentation](https://azure.microsoft.com/updates/azure-sql-public-preview-updates-for-late-august-2022/)
-
-### Functions
-
-##### :boom: Preview
-
-Azure Functions support for Node.js 18 is now in public preview. This version of Node.js is supported by Functions runtime v4.x. 
-
-Node.js 18 is currently in the initial release stage.
-
-[Documentation](https://azure.microsoft.com/updates/public-preview-nodejs-18-in-azure-functions/)
-
-### Storage
-
-##### :boom: Preview
-
-Today we are releasing the ability to encrypt storage account with customer-managed keys (CMK) using an Azure Key Vault hosted on a different Azure Active Directory tenant. You can use this solution to encrypt your customers’ data using an encryption key managed by your customers.
-
-[Documentation](https://azure.microsoft.com/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
-
-### Virtual Machines
-
-##### :dizzy: GA 
-
-The general purpose Dps v5 and Dpds v5 Azure Virtual Machines series can run popular Linux enterprise workloads such as web and application servers, open-source databases, Java and .Net applications, gaming, and media servers, and more. The new VMs provide up to 4GiBs of memory per vCPU in sizes with up to 64 vCPUs, 208GiB of memory, and 40Gbps networking, with and without local temporary storage.
-
-The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points within the general-purpose Azure Virtual Machines portfolio, providing 2GiBs per vCPU in sizes up to 64vCPUs, 128GiBs of memory, and up to 40Gbps networking with and without local temporary storage options.
-
-Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
-
-All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency. The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
-
-### Monitor
-
-##### :dizzy: GA 
-
-As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform. With Azure Managed Grafana, you can seamlessly and securely connect with and scale to businesses’ existing Azure services, enhancing observability and cloud management.
-
-In addition to the features announced during preview, with general availability, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.
-
-[Documentation](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
-
-### Event Hub
-
-##### :boom: Preview
-
-Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. Within minutes, you can develop and run a job that tackles many scenarios.
-
-There are four new features which will help you build and monitor your jobs:
-
-Managed identity: You can now use ‘managed identity’ as authentication mode in Event Hub streaming input, Cosmos DB streaming output and Azure Data Lake Storage Gen2. Managed identities eliminate the limitations of user-based authentication methods, like the need to reauthenticate because of password changes or user token expirations that occur every 90 days.
-Azure Data Lake StorageGen2 reference data: You can now use Azure Data Lake Storage Gen2 as reference data in the query. Reference data is either static or changes slowly over time. It is typically used to enrich incoming streaming and do lookups in your job.
-Metrics: You can now monitor the health of your job by viewing metrics within no code editor. The metrics shown are for the last one hour by default. You can select any time ranging from last 1 hour to 30 hours to view metrics for the job.
-Save job: You can now save your job anytime while creating it. For starting the job, you have to configure the Event Hub, transformations, and streaming outputs for the job.
-
-[Documentation](https://azure.microsoft.com/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
-
----
-
-### Azure Regions
-
-##### :earth_africa: Region Updates
-
-Availability Zones in UAE North are made up of three unique physically separated locations or “zones” within a single region to bring higher availability and asynchronous replication across Azure regions for disaster recovery protection.
-
-Availability Zones give you additional options for high availability for your most demanding applications and services as well as confidence and protection from potential hardware and software failures by providing three or more unique physical locations within an Azure region.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-uae-north-availability-zones/)
-
----
-
-### Azure Regions
-
-##### :earth_africa: Region Updates
-
-We are launching our newest datacenter region in Qatar. The new datacenter region includes Azure Availability Zones, which offer you additional resiliency for your applications by designing the region with unique physical datacenter locations with independent power, network, and cooling for additional tolerance to datacenter failures.
-
-
-[Documentation](https://azure.microsoft.com/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
-
----
-
-### Monitor
-
-##### :flight_arrival: Updated/New Features
-
-You can configure data export rules in Azure Monitor Logs and export data for application insights tables, storage accounts, and event hubs. When linking multiple applications insights components to a workspace, data export applies to data coming from all linked applications.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-azure-monitor-logs-data-export-supports-application-insights-tables-2/)
-
----
-
-### Microsoft DevBox
-
-##### :boom: Preview
-
-Microsoft Dev Box is now in public preview. Microsoft Dev Box provides self-service access for developers to high-performance, 
-cloud-based workstations preconfigured and ready-to-code for specific projects—all while maintaining security and corporate governance.
-
-With Microsoft Dev Box, organizations can:
-- Maximize dev productivity with ready-to-code, self-service Dev Boxes.
-- Centralize governance of workstations running anywhere to maintain greater security, compliance, and cost efficiency.
-- Customize dev boxes with everything developers need for their current projects.
-
-[Documentation](https://azure.microsoft.com/blog/announcing-microsoft-dev-box-preview)
-
----
-
-### API Management
-##### :dizzy: GA 
-
-Azure API Management support for the MSAL authorization library is now generally available.
-You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
-in the developer portal through Azure Active Directory and Azure Active Directory B2C.
-
-[Documentation](https://docs.microsoft.com/azure/api-management/api-management-howto-aad#migrate-to-msal)
-
----
-
-### App Service
++++
 
 ##### :boom: Preview
 
@@ -328,6 +170,165 @@ This delivers benefits including:
    enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
 
 [Documentation](https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication)
+
+---
+
+### App Configuration
+
+##### :boom: Preview
+
+Azure Storage Explorer now offers an extension for Azure App Configuration–you can now work with Azure App Configuration resources under your Azure subscriptions directly in Storage Explorer. 
+
+This means that with appropriate permissions,you can add, edit, or delete the key-values in your App Configuration store directly from the Storage Explorer.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
+
++++
+
+##### :boom: Preview
+
+App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service. App Configuration provides central management of configuration key-values that can span resources and deployment environments. When defining an application setting or connection string within App Service and Azure Functions, instead of providing a direct value, you can now specify a key-value in an external Azure App Configuration store. The app uses its managed identity to resolve the value from the store and expose it as an environment variable to your application.
+
+This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault. Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
+
+---
+
+### Functions
+
+##### :dizzy: GA 
+
+The Event Grid blob trigger handles events raised by a storage account and is now generally available.
+
+The extension allows you to reduce latency by triggering on an event subscription to the same blob container. The event subscription uses Event Grid to forward changes in the blob container as events for your function to consume.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
+
++++
+
+##### :boom: Preview
+
+Azure Functions support for Node.js 18 is now in public preview. This version of Node.js is supported by Functions runtime v4.x. 
+
+Node.js 18 is currently in the initial release stage.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-nodejs-18-in-azure-functions/)
+
+---
+
+### CosmosDB
+
+##### :flight_arrival: Updated/New Features
+
+Use Azure Cosmos DB integrated cache to optimize read costs and latency for both point reads and queries. The Azure Cosmos DB integrated cache is an in-memory cache built-in to the Azure Cosmos DB dedicated gateway. The dedicated gateway is optional front-end compute that stores cached data and routes requests to the backend database. There’s no need to make code changes in your application to use the dedicated gateway and utilize the integrated cache. Integrated cache is currently available for Core (SQL) API only.
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-azure-cosmos-db-integrated-cache/)
+
+---
+
+### Databricks
+
+##### :flight_arrival: Updated/New Features
+
+Unity Catalog is a unified and fine-grained governance solution for all data assets including files, tables, and machine learning models in your Lakehouse.  
+
+Unity Catalog helps simplify security and governance of your data with the following key features: 
+
+Define once, secure everywhere: Unity Catalog offers a single place to administer data access policies that apply across all workspaces and personas. 
+Standards-compliant security model: Unity Catalog’s security model is based on standard ANSI SQL and allows administrators to grant permissions at the level of catalogs, databases (also called schemas), tables, and views in their existing data lake using familiar syntax. 
+Built-in auditing: Unity Catalog automatically captures user-level audit logs that record access to your data
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-unity-catalog-for-azure-databricks/)
+
+---
+
+### SQL Database
+
+##### :boom: Preview
+
+In late August 2022, the following updates and enhancements were made to Azure SQL:
+
+Enable automatic key rotation for Customer Managed Key in Azure SQL Database and Azure SQL Managed Instance.
+Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
+
+[Documentation](https://azure.microsoft.com/updates/azure-sql-public-preview-updates-for-late-august-2022/)
+
+---
+
+### Virtual Machines
+
+##### :dizzy: GA 
+
+The general purpose Dps v5 and Dpds v5 Azure Virtual Machines series can run popular Linux enterprise workloads such as web and application servers, open-source databases, Java and .Net applications, gaming, and media servers, and more. The new VMs provide up to 4GiBs of memory per vCPU in sizes with up to 64 vCPUs, 208GiB of memory, and 40Gbps networking, with and without local temporary storage.
+
+The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points within the general-purpose Azure Virtual Machines portfolio, providing 2GiBs per vCPU in sizes up to 64vCPUs, 128GiBs of memory, and up to 40Gbps networking with and without local temporary storage options.
+
+Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
+
+All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency. The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+
+---
+
+### Event Hub
+
+##### :boom: Preview
+
+Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. Within minutes, you can develop and run a job that tackles many scenarios.
+
+There are four new features which will help you build and monitor your jobs:
+
+Managed identity: You can now use ‘managed identity’ as authentication mode in Event Hub streaming input, Cosmos DB streaming output and Azure Data Lake Storage Gen2. Managed identities eliminate the limitations of user-based authentication methods, like the need to reauthenticate because of password changes or user token expirations that occur every 90 days.
+Azure Data Lake StorageGen2 reference data: You can now use Azure Data Lake Storage Gen2 as reference data in the query. Reference data is either static or changes slowly over time. It is typically used to enrich incoming streaming and do lookups in your job.
+Metrics: You can now monitor the health of your job by viewing metrics within no code editor. The metrics shown are for the last one hour by default. You can select any time ranging from last 1 hour to 30 hours to view metrics for the job.
+Save job: You can now save your job anytime while creating it. For starting the job, you have to configure the Event Hub, transformations, and streaming outputs for the job.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
+
++++
+
+##### :boom: Preview
+
+Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. 
+The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. 
+Within minutes, you candevelop and run a job that tackles many scenarios.
+
+[Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing)
+
+---
+
+### Azure Regions
+
+##### :earth_africa: Region Updates
+
+Availability Zones in UAE North are made up of three unique physically separated locations or “zones” within a single region to bring higher availability and asynchronous replication across Azure regions for disaster recovery protection.
+
+Availability Zones give you additional options for high availability for your most demanding applications and services as well as confidence and protection from potential hardware and software failures by providing three or more unique physical locations within an Azure region.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-uae-north-availability-zones/)
+
++++
+
+##### :earth_africa: Region Updates
+
+We are launching our newest datacenter region in Qatar. The new datacenter region includes Azure Availability Zones, which offer you additional resiliency for your applications by designing the region with unique physical datacenter locations with independent power, network, and cooling for additional tolerance to datacenter failures.
+
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
+
++++
+
+
+##### :earth_africa: Region Updates
+
+- 3 Availability Zones in UAE North
+- New region: Qatar (with AZs)
+              
+[Documentation](https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations)
+
+[Azure Regions](https://azure.microsoft.com/global-infrastructure/geographies/#geographies)
 
 ---
 
@@ -351,18 +352,6 @@ All Container App Environments have been automatically upgraded to consume 1.8.3
 Azure Data Explorer (ADX) now supports ingesting data from S3 natively. Prior to the S3 ingestion support in Azure Data Explorer, you had to rely on complex ETL pipelines, or orchestrators to ingest data from S3. The new feature simplifies the process and allows data ingestion from S3 in a cost effective and scalable manner.
 
 [Documentation](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746)
-
----
-
-### Event Hub
-
-##### :boom: Preview
-
-Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. 
-The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. 
-Within minutes, you candevelop and run a job that tackles many scenarios.
-
-[Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing)
 
 ---
 
@@ -409,16 +398,4 @@ Features:
  
 ---
 
-### Azure Regions
-
-##### :earth_africa: Region Updates
-
-- 3 Availability Zones in UAE North
-- New region: Qatar (with AZs)
-              
-[Documentation](https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations)
-
-[Azure Regions](https://azure.microsoft.com/global-infrastructure/geographies/#geographies)
-
----
 
