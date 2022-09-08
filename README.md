@@ -25,8 +25,12 @@ More info on the different formats [here](https://aka.ms/azure4devs)
 
 ## Trainings & Events
 
-[Overview](./trainings_and_events.md)
+If you're looking for ... 
+- free, instructor-led training opportunities for developing on Azure
+- an overview of upcoming Microsoft hosted events
+- an overview of conferences where we have a booth presence
 
+then have a look at our [Trainings & Events overview](./trainings_and_events.md).
 
 
 ## More Content
