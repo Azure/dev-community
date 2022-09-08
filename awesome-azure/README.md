@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="../assets/azure.png" width="600" height="600">
+  <img src="../assets/azure.png" width="300" height="300">
 </p>
 <br/>
 
