@@ -202,6 +202,56 @@ In addition to the features announced during preview, with general availability,
 
 [Documentation](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
 
+### Event Hub
+
+##### :boom: Preview
+
+Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. Within minutes, you can develop and run a job that tackles many scenarios.
+
+There are four new features which will help you build and monitor your jobs:
+
+Managed identity: You can now use ‘managed identity’ as authentication mode in Event Hub streaming input, Cosmos DB streaming output and Azure Data Lake Storage Gen2. Managed identities eliminate the limitations of user-based authentication methods, like the need to reauthenticate because of password changes or user token expirations that occur every 90 days.
+Azure Data Lake StorageGen2 reference data: You can now use Azure Data Lake Storage Gen2 as reference data in the query. Reference data is either static or changes slowly over time. It is typically used to enrich incoming streaming and do lookups in your job.
+Metrics: You can now monitor the health of your job by viewing metrics within no code editor. The metrics shown are for the last one hour by default. You can select any time ranging from last 1 hour to 30 hours to view metrics for the job.
+Save job: You can now save your job anytime while creating it. For starting the job, you have to configure the Event Hub, transformations, and streaming outputs for the job.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
+
+---
+
+### Azure Regions
+
+##### :earth_africa: Region Updates
+
+Availability Zones in UAE North are made up of three unique physically separated locations or “zones” within a single region to bring higher availability and asynchronous replication across Azure regions for disaster recovery protection.
+
+Availability Zones give you additional options for high availability for your most demanding applications and services as well as confidence and protection from potential hardware and software failures by providing three or more unique physical locations within an Azure region.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-uae-north-availability-zones/)
+
+---
+
+### Azure Regions
+
+##### :earth_africa: Region Updates
+
+We are launching our newest datacenter region in Qatar. The new datacenter region includes Azure Availability Zones, which offer you additional resiliency for your applications by designing the region with unique physical datacenter locations with independent power, network, and cooling for additional tolerance to datacenter failures.
+
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
+
+---
+
+### Monitor
+
+##### :flight_arrival: Updated/New Features
+
+You can configure data export rules in Azure Monitor Logs and export data for application insights tables, storage accounts, and event hubs. When linking multiple applications insights components to a workspace, data export applies to data coming from all linked applications.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-azure-monitor-logs-data-export-supports-application-insights-tables-2/)
+
+---
+
 ### Microsoft DevBox
 
 ##### :boom: Preview
