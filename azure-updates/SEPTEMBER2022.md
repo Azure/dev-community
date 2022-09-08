@@ -45,6 +45,23 @@ Azure workbook
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-enterpriseready-azure-monitor-change-analysis-capability-released/)
 
+### Communications Services
+
+##### :dizzy: GA 
+
+Azure Communication Services now supports communication experiences for Teams identities. With this capability developers can build custom standalone applications that integrate audio, video, and telephony for Teams users. 
+
+For example, developers can build specialized line of business applications that enable calling experiences for Teams users directly into the app, develop new workflows for apps that require custom management of incoming and outgoing Teams phone calls, or even bring Teams calling capabilities into devices that are not supported with the standard Teams client. 
+
+With this functionality developers can now start creating custom apps that: 
+
+Make and receive Teams calls as a Teams user
+Join Teams meeting as a Teams user
+Manage incoming and outgoing phone calls based on Teams Phone System and integration with Teams auto attendants and call queues
+Honor assigned Teams user policies
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
+
 ### Microsoft DevBox
 
 ##### :boom: Preview
