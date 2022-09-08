@@ -348,7 +348,7 @@ All Container App Environments have been automatically upgraded to consume 1.8.3
 
 ##### :dizzy: GA
 
-Azure Data Explorer (ADX) now supports ingesting data from S3 natively.
+Azure Data Explorer (ADX) now supports ingesting data from S3 natively. Prior to the S3 ingestion support in Azure Data Explorer, you had to rely on complex ETL pipelines, or orchestrators to ingest data from S3. The new feature simplifies the process and allows data ingestion from S3 in a cost effective and scalable manner.
 
 [Documentation](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746)
 
