@@ -90,6 +90,20 @@ Honor assigned Teams user policies
 
 ---
 
+### API Management
+
+##### :flight_arrival: Updated/New Features 
+
+Azure API Management support for custom widgets in the developer portal is now generally available. Custom widgets make it easier to integrate with external systems and they provide a different way to represent data (e.g., a modified API reference or user profile pages) in the developer portal.  
+
+This release also enhances custom widget development by providing “scaffolding code" in Vue, React, and native TypeScript as well as an open source npm package - removing the need to write code from scratch.
+
+Supporting these capabilities in the managed developer portal provides you with an alternative to maintaining self-hosted portals, while offering more advanced extensibility options and better manageability and source control than available previously through the “Custom HTML” widget.
+
+[Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
+
+---
+
 ### App Configuration
 
 ##### :boom: Preview
