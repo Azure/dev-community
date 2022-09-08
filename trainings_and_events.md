@@ -1,6 +1,6 @@
 # Trainings & Events
 
-## Overview of training formats
+## Overview of available training formats
 
 |        | Format   | Level |Description                          |   
 |--------|---------|--------|-------------------------------------|
@@ -12,43 +12,43 @@
 ## Microsoft hosted
 
 ### [VIRTUAL] Training Events
-* Sep 13 @ 9 - 12.15am | **Microsoft Azure Virtual Training Day: Linux OSS Database Migration**<br/>[Register now](https://mktoevents.com/Microsoft+Event/354789/157-GQE-382)
+* Sep 13 @ 9 - 12.15am | **Microsoft Azure Virtual Training Day: Linux OSS Database Migration** | DE <br/>[Register now](https://mktoevents.com/Microsoft+Event/354789/157-GQE-382)
 
-* Sep 14 & 15 @ 9 - 11.15am | **Microsoft Azure Virtual Training Day: Fundamentals**<br/>[Register now](https://mktoevents.com/Microsoft+Event/354547/157-GQE-382)
+* Sep 14 & 15 @ 9 - 11.15am | **Microsoft Azure Virtual Training Day: Fundamentals** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/354547/157-GQE-382)
 
-* Sep 14 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: DevOps with GitHub**<br/>[Register now](https://mktoevents.com/Microsoft+Event/354057/157-GQE-382)
+* Sep 14 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: DevOps with GitHub** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/354057/157-GQE-382)
 
-* Sep 22 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Modernize Java Apps**<br/>[Register now](https://mktoevents.com/Microsoft+Event/354345/157-GQE-382)
+* Sep 22 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Modernize Java Apps** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/354345/157-GQE-382)
 
-* Sep 23 @ 9am - 5pm | **Azure Adventure Day** <br/>[Register now](https://mktoevents.com/Microsoft+Event/360386/157-GQE-382)
+* Sep 23 @ 9am - 5pm | **Azure Adventure Day** | EN<br/>[Register now](https://mktoevents.com/Microsoft+Event/360386/157-GQE-382)
 
-* Sep 29 & 30 @ 9 - 12.15am | **Microsoft Azure Virtual Training Day: DevOps with GitHub**<br/>[Register now](https://mktoevents.com/Microsoft+Event/355365/157-GQE-382)
+* Sep 29 & 30 @ 9 - 12.15am | **Microsoft Azure Virtual Training Day: DevOps with GitHub** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/355365/157-GQE-382)
 
-* Oct 6 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: .NET App Modernization**<br/>[Register now](https://mktoevents.com/Microsoft+Event/357310/157-GQE-382)
+* Oct 6 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: .NET App Modernization** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/357310/157-GQE-382)
 
-* Oct 17 & 18 @ 9 - 11.15am | **Microsoft Azure Virtual Training Day: Fundamentals**<br/>[Register now](https://mktoevents.com/Microsoft+Event/357817/157-GQE-382)
+* Oct 17 & 18 @ 9 - 11.15am | **Microsoft Azure Virtual Training Day: Fundamentals** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/357817/157-GQE-382)
 
-* Oct 18 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Cloud Native Apps**<br/>[Register now](https://mktoevents.com/Microsoft+Event/357572/157-GQE-382)
+* Oct 18 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Cloud Native Apps** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/357572/157-GQE-382)
 
-* Oct 20 & 21 @ 9 - 11.30am | **Microsoft Azure Virtual Training Day: Cloud-Native Apps**<br/>[Register now](https://mktoevents.com/Microsoft+Event/358566/157-GQE-382)
+* Oct 20 & 21 @ 9 - 11.30am | **Microsoft Azure Virtual Training Day: Cloud-Native Apps** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/358566/157-GQE-382)
 
-* Oct 27 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: DevOps with GitHub**<br/>[Register now](https://mktoevents.com/Microsoft+Event/360315/157-GQE-382)
+* Oct 27 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: DevOps with GitHub** | DE<br/>[Register now](https://mktoevents.com/Microsoft+Event/360315/157-GQE-382)
 
-* Nov 17 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Cloud Native Apps**<br/>Registration opens soon
+* Nov 17 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Cloud Native Apps** | DE<br/>Registration opens soon
 
-* Nov 28 & 29 @ 9 - 11.15am | **Microsoft Azure Virtual Training Day: Fundamentals**<br/>Registration opens soon
+* Nov 28 & 29 @ 9 - 11.15am | **Microsoft Azure Virtual Training Day: Fundamentals** | DE<br/>Registration opens soon
 
-* Nov 30 & Dec 1 | **Microsoft Azure Virtual Training Day: Modernize Enterprise Applications**<br/>Registration opens soon
+* Nov 30 & Dec 1 | **Microsoft Azure Virtual Training Day: Modernize Enterprise Applications** | DE<br/>Registration opens soon
 
-* Dec 1 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: DevOps with GitHub**<br/>Registration opens soon
+* Dec 1 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: DevOps with GitHub** | DE<br/>Registration opens soon
 
-* Dec 8 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Modernize Java Apps**<br/>Registration opens soon
+* Dec 8 @ 9am - 4pm | **Microsoft Azure Immersion Workshop: Modernize Java Apps** | DE<br/>Registration opens soon
 
 ---
 
 
 ### [IN-PERSON] Training Events
-* Dec 2 @ 9.30am - 5pm| **Azure Adventure Day** | Munich (Microsoft Office) <br/>Registration opens soon ([contact us](mailto:azureadvday@microsoft.com) to reserver your spot now)
+* Dec 2 @ 9.30am - 5pm| **Azure Adventure Day** | Munich (Microsoft Office) | EN<br/>Registration opens soon ([contact us](mailto:azureadvday@microsoft.com) to reserver your spot now)
 
 
 ### [HYBRID] Reactor - coming soon!
