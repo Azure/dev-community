@@ -62,6 +62,16 @@ Honor assigned Teams user policies
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
 
+### App Configuration
+
+##### :boom: Preview
+
+Azure Storage Explorer now offers an extension for Azure App Configuration–you can now work with Azure App Configuration resources under your Azure subscriptions directly in Storage Explorer. 
+
+This means that with appropriate permissions,you can add, edit, or delete the key-values in your App Configuration store directly from the Storage Explorer.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
+
 ### Microsoft DevBox
 
 ##### :boom: Preview
