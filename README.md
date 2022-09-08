@@ -33,7 +33,7 @@ If you're looking for ...
 then have a look at our [Trainings & Events overview](./trainings_and_events.md).
 
 
-## More Content
+## More Developer Content
 * [TechWiese](https://aka.ms/techwiese)
 * [Twitter](https://twitter.com/msdev_de)
 
