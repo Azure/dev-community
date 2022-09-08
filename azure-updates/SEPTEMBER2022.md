@@ -8,6 +8,14 @@ Azure Storage lifecycle management offers a rule-based policy that you can use t
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/)
 
+### Virtual Machines
+
+##### :boom: Preview
+
+Ephemeral OS disk customers can choose encryption type between platform managed keys or customer managed keys for host-based encryption. The default is platform managed keys. This feature would enable our customers to meet your organization's compliance needs.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/)
+
 ### Microsoft DevBox
 
 ##### :boom: Preview
