@@ -4,7 +4,10 @@ Contributions are welcome!
 
 Please ensure your pull request adheres to the following guidelines.
 
-## A Note on Awesome Azure
+
+## Awesome Azure
+
+### A Note on Awesome Azure
 
 Each repo listed meets at least one of the following requirements:
 
@@ -16,7 +19,7 @@ Each repo listed meets at least one of the following requirements:
 
 Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [Azure](https://github.com/Azure) or [Microsoft](https://github.com/microsoft) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
-## Pull Requests
+### Pull Requests
 
 * Search previous suggestions before making a new one, as yours may be a duplicate.
 * Add one link per pull request.
@@ -34,7 +37,7 @@ Pull requests might be left open for a period of time to let the community chime
 * Use the following format for your pull request title:
     * Add user/repo - Short repo description
 
-## Updates to Existing Links or Sections
+### Updates to Existing Links or Sections
 
 * Improvements to the existing sections are welcome.
 * If you think a listed link is **not** awesome, feel free to submit an issue or pull request to begin the discussion.
