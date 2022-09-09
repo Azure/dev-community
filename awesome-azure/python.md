@@ -1,6 +1,6 @@
 # Python
-- [Python for beginners-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) - Getting started with Python
-- [Python for beginners-YouTube Video](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - Explore the foundations of programming in Python, starting from common, everyday code and scenarios
+- [Python for beginners](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) - Getting started with Python (Self-Paced Learning)
+- [Python for beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)  - Getting started with Python (YouTube Video)
 - [Build an AI web app using Python and Flask-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/) - Use Python, Flask, and Azure Cognitive Services to build a web app that incorporates AI
 - [Deploy a Django appto the cloud-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/modules/django-get-started/) - Explore the benefits of Django, how to install it, and how to create your first project
 - [Deploy a Django appto the cloud-Self Paced Learning](https://docs.microsoft.com/en-us/learn/modules/django-deployment/) - Deploy your app to Azure and create a databasefor the data
