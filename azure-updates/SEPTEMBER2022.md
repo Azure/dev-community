@@ -540,7 +540,7 @@ AutoML in Pipelines Allows you to utilize the full power of AutoML in your MLOps
 ---
 
 ### Redis Cache
-##### :flight_arrival: Pricing Updates
+##### :euro: Pricing Updates
 
 Save up to 55 percent on your usage of the Enterprise and Enterprise Flash tiers of Azure Cache for Redis by purchasing reserved instances. The reservation discount will automatically apply to your matching cache resources so the process of purchasing a reservation is streamlined. Reservations are available on a one-year basis for up to a 35 percent discount or on a three-year basis for a 55 percent discount. This is a great way to maximize the cost efficiency of your Azure deployment and ensure you get the best deal.
 
