@@ -10,7 +10,7 @@ A curated list of awesome Azure libraries, open source repos, guides, blogs, and
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-## The Fiery Meter of AWSome
+## The Fiery Meter of Awesome
 
 * Repo with 0100+ Stars: :fire:
 * Repo with 0200+ Stars: :fire::fire:
@@ -64,6 +64,9 @@ Review the [Contributing Guidelines](./CONTRIBUTING.md).
 * [Twitch Microsoft Developer Livestream](https://www.twitch.tv/microsoftdeveloper)
 * [Developer Training Events](https://reactor.microsoft.com/en-us/reactor/home/index/)
 * [MicrosoftReactor - Youtube Channel](https://www.youtube.com/c/MicrosoftReactor1)
+
+## Cheat Sheets
+
 
 ## Free Ebooks
 
