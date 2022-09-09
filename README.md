@@ -30,7 +30,7 @@ More info on the different formats on [aka.ms/azure4devs](https://aka.ms/azure4d
 
 If you're looking for ... 
 - free, instructor-led training opportunities for developing on Azure
-- an overview of upcoming Microsoft hosted events
+- an overview of upcoming [Microsoft hosted events](./trainings_and_events.md#microsoft-hosted)
 - an overview of conferences where we have a booth presence
 
 then have a look at our [Trainings & Events overview](./trainings_and_events.md).
