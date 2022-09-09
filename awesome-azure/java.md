@@ -1,5 +1,5 @@
 # Java
-- [Java for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM)(YouTube Playlist) - Explore what you can do with Java 
+- [Java for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM) (YouTube Playlist) - Explore what you can do with Java 
 -   [Static Web Apps-YouTube Playlist](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG) - Find tips and tricks to quickly get up to speed on Azure Static Web Apps 
 -   [Vue.js for Beginners-YouTube PLaylist](https://www.youtube.com/playlist?list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA) - Explore Vue.js, a progressive front-end JavaScript framework designed to allow you to add dynamic capabilities to your web pages
 -   [Get started with Java on Azure-Self-Paced Learning](https://docs.microsoft.com/en-us/learn/paths/get-started-java-azure/) - Find out how you can build, migrate, and scaleJava apps using Azure services 
