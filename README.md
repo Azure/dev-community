@@ -1,7 +1,7 @@
 
 <img src="./assets/azure_developer_community_hub.png">
 
-Welcome Text
+:mega: Welcome Text
 
 
 ## Community Calls in CY22
