@@ -34,6 +34,7 @@ How to start:
 |  Dec 15 @ 4pm  | News & Hot Topics - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
 
 More info on the different formats on [aka.ms/azure4devs](https://aka.ms/azure4devs)
+Find the archive of past calls [here](./community-calls).
 
 </div>
 
