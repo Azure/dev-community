@@ -1,7 +1,23 @@
 
 <img src="./assets/azure_developer_community_hub.png">
 
-:mega: Welcome Text
+
+### :mega: Hey developer friends!
+Welcome to the Azure Developer Community Hub with loads of content around developing on and for Azure.
+
+What you can expect:
+- [Awesome Azure](./README.md#awesome-azure): A curated list of content and resources for Azure developers
+- [Azure Updates](./README.md#azure-updates): Monthly highlights of new Azure announcements and service updates 
+- [Trainings & Events](./README.md#trainings--events): Regular updates of available trainings and conferences
+- [Digital swag](./README.md#digital-swag): Get nerdy wallpapers and other digital assets
+- [Further resources](./README.md#more-developer-content): Visit our official developer websites and social channels  
+  
+How to start:
+- 👋 [Say hello](https://github.com/Azure/dev-community/discussions/categories/say-hello) to the community
+- 💻 Join our bi-weekly [community calls](./README.md#community-calls-in-cy22)
+- 🚀 [Contribute](./README.md#contributing) to the content
+- ⭐ Star this repo
+  
 
 
 ## Community Calls in CY22
@@ -36,11 +52,13 @@ If you're looking for ...
 then have a look at our [Trainings & Events overview](./trainings_and_events.md).
 
 
+## Digital Swag
+
+
 ## More Developer Content
 * [TechWiese](https://aka.ms/techwiese)
 * [Twitter](https://twitter.com/msdev_de)
 
-## Digital Swag
 
 
 ## Contributing
