@@ -44,6 +44,10 @@ Pull requests might be left open for a period of time to let the community chime
 Thank you for your suggestions!
 
 
+## Trainings and Events
+
+
+
 
 --- 
 
