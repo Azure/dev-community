@@ -22,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 Contributions are welcome!
 
-Review the [Contributing Guidelines](../CONTRIBUTING.md#AwesomeAzure).
+Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 # Index
 
