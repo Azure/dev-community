@@ -265,7 +265,7 @@ Use Azure Cosmos DB integrated cache to optimize read costs and latency for both
 
 ### Databricks
 
-##### :flight_arrival: Updated/New Features
+##### :boom: Preview
 
 Unity Catalog is a unified and fine-grained governance solution for all data assets including files, tables, and machine learning models in your Lakehouse.  
 
