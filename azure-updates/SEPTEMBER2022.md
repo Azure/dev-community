@@ -142,10 +142,10 @@ For example, developers can build specialized line of business applications that
 
 With this functionality developers can now start creating custom apps that: 
 
-- Make and receive Teams calls as a Teams user.
-- Join Teams meeting as a Teams user.
-- Manage incoming and outgoing phone calls based on Teams Phone System and integration with Teams auto attendants and call queues.
-- Honor assigned Teams user policies.
+- Make and receive Teams calls as a Teams user
+- Join Teams meeting as a Teams user
+- Manage incoming and outgoing phone calls based on Teams Phone System and integration with Teams auto attendants and call queues
+- Honor assigned Teams user policies
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
 
