@@ -408,24 +408,6 @@ With this preview, you can use the Azure Blob CSI driver as a managed addon in A
 [Documentation](https://azure.microsoft.com/updates/public-preview-blob-csi-support-in-aks-2/)
 
  +++
-
-##### :flight_arrival: Updated/New Features
-
-AKS now supports key management system (KMS) plugin integration. This generally available capability enables encryption at rest of your Kubernetes data in etcd using Azure Key Vault. This means you can now store secrets in bring your own key (BYOK) encrypted etcd using KMS.
-
-From the Kubernetes documentation on Encrypting Secret Data at Rest:
-
-KMS plugin for Key Vault is the recommended choice for using a third-party tool for key management. KMS plugin simplifies key rotation, with a new data encryption key (DEK) generated for each encryption, and key encryption key (KEK) rotation controlled by the user.
-
-Features:
-
-Use a key in Key Vault for etcd encryption
-Bring your own keys
-Provide encryption at rest for secrets stored in etcd
- 
- [Documentation](https://azure.microsoft.com/updates/generally-available-key-management-system-integration-with-aks/)
- 
- +++
   
   ##### :dizzy: GA
   
