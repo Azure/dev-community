@@ -163,16 +163,6 @@ Supporting these capabilities in the managed developer portal provides you with 
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
 
-+++
-
-##### :dizzy: GA 
-
-Azure API Management support for the MSAL authorization library is now generally available.
-You can provide a more secure OAuth 2.0 authorization code flow using PKCE when implementing user sign-in and sign-up actions 
-in the developer portal through Azure Active Directory and Azure Active Directory B2C.
-
-[Documentation](https://docs.microsoft.com/azure/api-management/api-management-howto-aad#migrate-to-msal)
-
 ---
 
 ### App Services
