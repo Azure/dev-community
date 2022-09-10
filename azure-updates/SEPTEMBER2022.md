@@ -310,8 +310,6 @@ There are four new features which will help you build and monitor your jobs:
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
 
-[Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing)
-
 ---
 
 ### Container Apps
