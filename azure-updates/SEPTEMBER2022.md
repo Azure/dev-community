@@ -271,9 +271,9 @@ Unity Catalog is a unified and fine-grained governance solution for all data ass
 
 Unity Catalog helps simplify security and governance of your data with the following key features: 
 
-Define once, secure everywhere: Unity Catalog offers a single place to administer data access policies that apply across all workspaces and personas. 
-Standards-compliant security model: Unity Catalog’s security model is based on standard ANSI SQL and allows administrators to grant permissions at the level of catalogs, databases (also called schemas), tables, and views in their existing data lake using familiar syntax. 
-Built-in auditing: Unity Catalog automatically captures user-level audit logs that record access to your data
+- Define once, secure everywhere: Unity Catalog offers a single place to administer data access policies that apply across all workspaces and personas. 
+- Standards-compliant security model: Unity Catalog’s security model is based on standard ANSI SQL and allows administrators to grant permissions at the level of catalogs, databases (also called schemas), tables, and views in their existing data lake using familiar syntax. 
+- Built-in auditing: Unity Catalog automatically captures user-level audit logs that record access to your data.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-unity-catalog-for-azure-databricks/)
 
