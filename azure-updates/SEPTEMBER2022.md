@@ -59,6 +59,17 @@ Ephemeral OS disk customers can choose encryption type between platform managed 
 
 ##### :dizzy: GA 
 
+As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform. With Azure Managed Grafana, you can seamlessly and securely connect with and scale to businesses’ existing Azure services, enhancing observability and cloud management.
+
+In addition to the features announced during preview, with general availability, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.
+
+[Documentation](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
+
++++
+
+
+##### :dizzy: GA 
+
 Change analysis is an observability tool that enables efficient issue triaging and root causing by centrally showing changes inside and outside of Azure web applications. Built on top of Azure resource graph, the capability securely stores resource and application configuration change data with added role-based access control (RBAC) rules on viewing sensitive information. Change analysis supports scalable queries across multiple subscriptions.
 
 Several key change analysis capabilities and integrations have been released into general availability (GA).
@@ -76,15 +87,6 @@ Azure workbook
 
 +++
 
-##### :dizzy: GA 
-
-As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform. With Azure Managed Grafana, you can seamlessly and securely connect with and scale to businesses’ existing Azure services, enhancing observability and cloud management.
-
-In addition to the features announced during preview, with general availability, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.
-
-[Documentation](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
-
-+++
 
 ##### :flight_arrival: Updated/New Features
 
