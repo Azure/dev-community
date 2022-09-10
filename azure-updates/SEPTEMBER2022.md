@@ -203,6 +203,8 @@ This initial preview does not yet include support for network-restricted configu
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
 
++++
+
 ##### :boom: Preview
 
 Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
