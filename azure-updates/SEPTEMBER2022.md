@@ -40,9 +40,8 @@ With live resize, you can dynamically increase the storage capacity of your Prem
 ##### :boom: Preview
 
 
-•	Today we are releasing the ability to encrypt storage account with customer-managed keys (CMK) using an Azure Key Vault hosted on a different Azure Active Directory tenant. 
-
-•	You can use this solution to encrypt your customers’ data using an encryption key managed by your customers.
+- Today we are releasing the ability to encrypt storage account with customer-managed keys (CMK) using an Azure Key Vault hosted on a different Azure Active Directory tenant. 
+- You can use this solution to encrypt your customers’ data using an encryption key managed by your customers.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
 
@@ -143,13 +142,10 @@ For example, developers can build specialized line of business applications that
 
 With this functionality developers can now start creating custom apps that: 
 
-•	Make and receive Teams calls as a Teams user.
-
-•	Join Teams meeting as a Teams user.
-
-•	Manage incoming and outgoing phone calls based on Teams Phone System and integration with Teams auto attendants and call queues.
-
-•	Honor assigned Teams user policies.
+- Make and receive Teams calls as a Teams user.
+- Join Teams meeting as a Teams user.
+- Manage incoming and outgoing phone calls based on Teams Phone System and integration with Teams auto attendants and call queues.
+- Honor assigned Teams user policies.
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
 
@@ -289,9 +285,8 @@ Built-in auditing: Unity Catalog automatically captures user-level audit logs th
 
 In late August 2022, the following updates and enhancements were made to Azure SQL:
 
-•	Enable automatic key rotation for Customer Managed Key in Azure SQL Database and Azure SQL Managed Instance.
-
-•	Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
+- Enable automatic key rotation for Customer Managed Key in Azure SQL Database and Azure SQL Managed Instance.
+- Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
 
 [Documentation](https://azure.microsoft.com/updates/azure-sql-public-preview-updates-for-late-august-2022/)
 
@@ -301,9 +296,8 @@ In late August 2022, the following updates and enhancements were made to Azure S
 
 In late August 2022, the following updates and enhancements were made to Azure SQL: 
 
-•	Leverage an assignment of a server or instance identity with user-assigned managed Identity in Azure Active Directory for Azure SQL Database and Managed Instance.
-
-•	Increase resiliency of Azure SQL Database Hyperscale by enabling zone redundant configuration.
+- Leverage an assignment of a server or instance identity with user-assigned managed Identity in Azure Active Directory for Azure SQL Database and Managed Instance.
+- Increase resiliency of Azure SQL Database Hyperscale by enabling zone redundant configuration.
 
 [Documentation](https://azure.microsoft.com/updates/azure-sql-general-availability-updates-for-late-august-2022/)
 
