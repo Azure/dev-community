@@ -358,16 +358,15 @@ This release includes new changes such as the removal of Dockershim.
 
 ##### :dizzy: GA
 
-Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, 
+- Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, 
 dedicated to one Azure subscription. Dedicated hosts are the same physical servers used in our data centers,
 provided as a resource.
-You can provision dedicated hosts within a region, availability zone, and fault domain. 
+- You can provision dedicated hosts within a region, availability zone, and fault domain. 
 Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.
 
 Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 - Hardware isolation at the physical server level. No other VMs will be placed on your hosts.
-- Control over maintenance events initiated by the Azure platform. 
-- With dedicated hosts, you can opt-in to a maintenance window to reduce the impact to your service.
+- Control over maintenance events initiated by the Azure platform. With dedicated hosts, you can opt-in to a maintenance window to reduce the impact to your service.
 
 [Documentation](https://docs.microsoft.com/azure/aks/use-azure-dedicated-hosts)
 
