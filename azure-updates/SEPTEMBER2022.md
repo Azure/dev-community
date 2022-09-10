@@ -437,10 +437,10 @@ Azure Load Testing now supports load testing for private endpoints. You can crea
 
 This functionality enables the following usage scenarios:
 
-Generate load to an endpoint that is deployed in an Azure virtual network
-Generate load to a public endpoint with access restrictions, such as restricting client IP addresses
-Generate load to an on-premises service, not publicly accessible, that is connected to Azure via ExpressRoute
-This functionality is available in the following Azure regions: Australia East, East US, East US 2, and North Europe. This will soon be available in South Central US and West US 2.
+- Generate load to an endpoint that is deployed in an Azure virtual network
+- Generate load to a public endpoint with access restrictions, such as restricting client IP addresses
+- Generate load to an on-premises service, not publicly accessible, that is connected to Azure via ExpressRoute
+- This functionality is available in the following Azure regions: Australia East, East US, East US 2, and North Europe. This will soon be available in South Central US and West US 2.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-microsoft-azure-load-testing-supports-private-endpoints-testing/)
  
