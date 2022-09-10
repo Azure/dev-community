@@ -39,7 +39,10 @@ With live resize, you can dynamically increase the storage capacity of your Prem
 
 ##### :boom: Preview
 
-Today we are releasing the ability to encrypt storage account with customer-managed keys (CMK) using an Azure Key Vault hosted on a different Azure Active Directory tenant. You can use this solution to encrypt your customers’ data using an encryption key managed by your customers.
+
+•	Today we are releasing the ability to encrypt storage account with customer-managed keys (CMK) using an Azure Key Vault hosted on a different Azure Active Directory tenant. 
+
+•	You can use this solution to encrypt your customers’ data using an encryption key managed by your customers.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
 
