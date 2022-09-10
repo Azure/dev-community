@@ -408,29 +408,6 @@ With this preview, you can use the Azure Blob CSI driver as a managed addon in A
 [Documentation](https://azure.microsoft.com/updates/public-preview-blob-csi-support-in-aks-2/)
 
  +++
-  
-  ##### :dizzy: GA
-  
-Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, dedicated to one Azure subscription. Dedicated hosts are the same physical servers used in our data centers, provided as a resource. 
-
-You can provision dedicated hosts within a region, availability zone, and fault domain. Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.  
-
-Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
-
-Hardware isolation at the physical server level. No other VMs will be placed on your hosts. 
-Control over maintenance events initiated by the Azure platform. With dedicated hosts, you can opt-in to a maintenance window to reduce the impact to your service.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-azure-dedicated-host-support/)
-
- +++
-  
-  ##### :dizzy: GA
-    
-AKS support for Kubernetes release 1.24 is now generally available. Kubernetes 1.24 delivers 46 enhancements. This release includes new changes such as the removal of Dockershim.  
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-kubernetes-124-support/)
-
- +++
  
 ##### :boom: Preview 
 
