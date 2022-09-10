@@ -175,24 +175,6 @@ Optimized file compression.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/)
 
-+++
-
-##### :boom: Preview
-
-Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
-Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
-using an eventual consistency model.
-
-This delivers benefits including:
- - Increased resiliency:
-   Replication across regions means that your configuration data will still be accessible should a service outage impact your store or 
-   any one of the replicas.
- - Minimize latency – Now your applications can consume the data locally rather than issuing cross-region requests.
- - Optimize request distribution – Replicas and the configuration store have unique applicable request limits,
-   enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
-
-[Documentation](https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication)
-
 ---
 
 ### App Configuration
@@ -215,16 +197,21 @@ This initial preview does not yet include support for network-restricted configu
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
 
-
 ##### :boom: Preview
 
-Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized, using an eventual consistency model. This delivers benefits including:
+Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
+Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
+using an eventual consistency model.
 
-Increased resiliency – Replication across regions means that your configuration data will still be accessible should a service outage impact your store or any one of the replicas.
-Minimize latency – Now your applications can consume the data locally rather than issuing cross-region requests. 
-Optimize request distribution – Replicas and the configuration store have unique applicable request limits, enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
+This delivers benefits including:
+ - Increased resiliency:
+   Replication across regions means that your configuration data will still be accessible should a service outage impact your store or 
+   any one of the replicas.
+ - Minimize latency – Now your applications can consume the data locally rather than issuing cross-region requests.
+ - Optimize request distribution – Replicas and the configuration store have unique applicable request limits,
+   enabling you to distribute requests efficiently to avoid exhausting the request limits on either the replicas or the configuration store.
 
-[Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-geo-replication-support/)
+[Documentation](https://docs.microsoft.com/azure/azure-app-configuration/concept-geo-replication)
 
 ---
 
