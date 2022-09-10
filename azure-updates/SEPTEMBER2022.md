@@ -459,12 +459,6 @@ Network security groups (NSGs) support for private endpoints is now generally av
 
 At this time, Private Link network security group support is available in most public regions.
 
-Regional availability:
-
-This feature will be available in the following regions at this time:
-
-US East, US West, US North, US South, US Central, US East 2, Europe North, Europe West, Asia East, Asia South East, Japan East, Japan West, Brazil South, Australia East, Australia South East, India Central, India South, Canada Central, Canada East, US West 2, US West Central, UK West, UK South, Korea South, Korea Central, France South, France Central, Australia Central, South Africa North, United Arab Emirates Central, United Arab Emirates North, Switzerland North, Switzerland West, Germany North, Germany West Central, Norway East, Norway West, US West 3, Jio India Central, Jio India West, Sweden South, Sweden Central, Qatar Central, US Central Early Updates Access Program, US East 2 Early Updates Access Program
-
 [Documentation](https://azure.microsoft.com/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
 
 ---
