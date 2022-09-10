@@ -90,14 +90,14 @@ Change analysis is an observability tool that enables efficient issue triaging a
 
 Several key change analysis capabilities and integrations have been released into general availability (GA).
 
-Fully integrated into the Azure Monitor portal as a key data source for observability
-Performance and scalability improvement for large queries on change data
-Simplified change data presentations aggregated by subscription and resource-groups
-Single pane of glass observability by integrating with existing workflows and tools:
-Diagnose and solve problems
-Activity log change history
-Metrics drill-into-changelogs
-Azure workbook
+- Fully integrated into the Azure Monitor portal as a key data source for observability
+- Performance and scalability improvement for large queries on change data
+- Simplified change data presentations aggregated by subscription and resource-groups
+- Single pane of glass observability by integrating with existing workflows and tools
+- Diagnose and solve problems
+- Activity log change history
+- Metrics drill-into-changelogs
+- Azure workbook
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-enterpriseready-azure-monitor-change-analysis-capability-released/)
 
