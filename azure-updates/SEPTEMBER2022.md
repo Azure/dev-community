@@ -53,6 +53,20 @@ Ephemeral OS disk customers can choose encryption type between platform managed 
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/)
 
++++
+
+##### :dizzy: GA 
+
+The general purpose Dps v5 and Dpds v5 Azure Virtual Machines series can run popular Linux enterprise workloads such as web and application servers, open-source databases, Java and .Net applications, gaming, and media servers, and more. The new VMs provide up to 4GiBs of memory per vCPU in sizes with up to 64 vCPUs, 208GiB of memory, and 40Gbps networking, with and without local temporary storage.
+
+The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points within the general-purpose Azure Virtual Machines portfolio, providing 2GiBs per vCPU in sizes up to 64vCPUs, 128GiBs of memory, and up to 40Gbps networking with and without local temporary storage options.
+
+Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
+
+All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency. The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.
+
+[Documentation](https://azure.microsoft.com/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+
 ---
 
 ### Monitor
@@ -273,22 +287,6 @@ Enable automatic key rotation for Customer Managed Key in Azure SQL Database and
 Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
 
 [Documentation](https://azure.microsoft.com/updates/azure-sql-public-preview-updates-for-late-august-2022/)
-
----
-
-### Virtual Machines
-
-##### :dizzy: GA 
-
-The general purpose Dps v5 and Dpds v5 Azure Virtual Machines series can run popular Linux enterprise workloads such as web and application servers, open-source databases, Java and .Net applications, gaming, and media servers, and more. The new VMs provide up to 4GiBs of memory per vCPU in sizes with up to 64 vCPUs, 208GiB of memory, and 40Gbps networking, with and without local temporary storage.
-
-The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points within the general-purpose Azure Virtual Machines portfolio, providing 2GiBs per vCPU in sizes up to 64vCPUs, 128GiBs of memory, and up to 40Gbps networking with and without local temporary storage options.
-
-Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
-
-All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency. The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.
-
-[Documentation](https://azure.microsoft.com/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
 ---
 
