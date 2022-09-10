@@ -317,18 +317,6 @@ Within minutes, you candevelop and run a job that tackles many scenarios.
 
 ---
 
-### Azure Regions
-##### :earth_africa: Region Updates
-
-- 3 Availability Zones in UAE North
-- New region: Qatar (with AZs)
-              
-[Documentation](https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations)
-
-[Azure Regions](https://azure.microsoft.com/global-infrastructure/geographies/#geographies)
-
----
-
 ### Container Apps
 
 ##### :flight_arrival: Updated/New Features
@@ -535,6 +523,17 @@ Save up to 55 percent on your usage of the Enterprise and Enterprise Flash tiers
 
 ---
 
+### Azure Regions
+##### :earth_africa: Region Updates
+
+- 3 Availability Zones in UAE North
+- New region: Qatar (with AZs)
+              
+[Documentation](https://news.microsoft.com/en-xm/2022/08/23/microsoft-launches-azure-availability-zones-to-heighten-competitiveness-of-uae-organizations)
+
+[Azure Regions](https://azure.microsoft.com/global-infrastructure/geographies/#geographies)
+
+---
 
 
 
