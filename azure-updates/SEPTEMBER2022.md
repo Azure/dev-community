@@ -183,11 +183,11 @@ Enterprise-grade edge for Azure Static Web Apps is now generally available. Enab
 
 Key features:
 
-Global presence in 118+ edge locations across 100 metro cities
-Caching assets at the edge
-Proactive protection against Distributed Denial of Service (DDoS) attacks
-Native support of end-to-end IPv6 connectivity and HTTP/2 protocol.
-Optimized file compression.
+- Global presence in 118+ edge locations across 100 metro cities
+- Caching assets at the edge
+- Proactive protection against Distributed Denial of Service (DDoS) attacks
+- Native support of end-to-end IPv6 connectivity and HTTP/2 protocol
+- Optimized file compression.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/)
 
