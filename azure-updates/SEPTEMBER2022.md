@@ -311,20 +311,12 @@ Process your real time data streams in Azure Event Hubs using Azure Stream Analy
 
 There are four new features which will help you build and monitor your jobs:
 
-Managed identity: You can now use ‘managed identity’ as authentication mode in Event Hub streaming input, Cosmos DB streaming output and Azure Data Lake Storage Gen2. Managed identities eliminate the limitations of user-based authentication methods, like the need to reauthenticate because of password changes or user token expirations that occur every 90 days.
-Azure Data Lake StorageGen2 reference data: You can now use Azure Data Lake Storage Gen2 as reference data in the query. Reference data is either static or changes slowly over time. It is typically used to enrich incoming streaming and do lookups in your job.
-Metrics: You can now monitor the health of your job by viewing metrics within no code editor. The metrics shown are for the last one hour by default. You can select any time ranging from last 1 hour to 30 hours to view metrics for the job.
-Save job: You can now save your job anytime while creating it. For starting the job, you have to configure the Event Hub, transformations, and streaming outputs for the job.
+- Managed identity: You can now use ‘managed identity’ as authentication mode in Event Hub streaming input, Cosmos DB streaming output and Azure Data Lake Storage Gen2. Managed identities eliminate the limitations of user-based authentication methods, like the need to reauthenticate because of password changes or user token expirations that occur every 90 days.
+- Azure Data Lake StorageGen2 reference data: You can now use Azure Data Lake Storage Gen2 as reference data in the query. Reference data is either static or changes slowly over time. It is typically used to enrich incoming streaming and do lookups in your job.
+- Metrics: You can now monitor the health of your job by viewing metrics within no code editor. The metrics shown are for the last one hour by default. You can select any time ranging from last 1 hour to 30 hours to view metrics for the job.
+- Save job: You can now save your job anytime while creating it. For starting the job, you have to configure the Event Hub, transformations, and streaming outputs for the job.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
-
-+++
-
-##### :boom: Preview
-
-Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. 
-The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. 
-Within minutes, you candevelop and run a job that tackles many scenarios.
 
 [Documentation](https://docs.microsoft.com/azure/stream-analytics/no-code-stream-processing)
 
