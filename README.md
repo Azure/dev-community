@@ -56,9 +56,13 @@ then have a look at our [Trainings & Events overview](./trainings_and_events.md)
 
 
 ## More Developer Content
-* [TechWiese](https://aka.ms/techwiese)
-* [Twitter](https://twitter.com/msdev_de)
+#### Landing pages
+* [TechWiese](https://aka.ms/techwiese) - Overview of motions for developers in the German market
+* [Microsoft UK Developers](https://microsoft.com/en-gb/developers) - Overview of motions for developers in the UK market
 
+#### Social media
+* [Twitter](https://twitter.com/msdev_de) - Microsoft Developers Germany Twitter channel
+* [Facebook](https://www.facebook.com/MSFTDev.Germany) - Microsoft Developers Germany Facebook channel
 
 
 ## Contributing
