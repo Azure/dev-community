@@ -28,7 +28,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 ## Programming Languages
 
-* C#/Dotnet
+* [.NET](#.NET)
 * [Java](./java.md)
 * [Python](./python.md)
 * [Node.js](./nodejs.md)
@@ -84,3 +84,10 @@ Cloud Native Infrastructure with Microsoft Azure [DE](https://azure.microsoft.co
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ### VS Code Extensions
+
+# Programming Languages
+
+## .NET
+
+* [.NET Microservices Sample Reference Application](https://github.com/dotnet-architecture/eShopOnContainers) :fire::fire::fire::fire::fire:
+
