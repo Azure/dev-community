@@ -64,7 +64,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Dev Tools](#devtools)
   * [VS Code}(#vscode)
 
-# Programming Languages
+## Programming Languages
 
 ## .NET
 * [.NET Microservices Sample Reference Application](https://github.com/dotnet-architecture/eShopOnContainers) :fire::fire::fire::fire::fire:
@@ -80,7 +80,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Secure a .NET app via Identityframework](https://docs.microsoft.com/en-us/learn/modules/secure-aspnet-core-identity/) - Add authentication and authorization to a web app using ASP.NET Core Identity (Self-Paced Learning)
 * [Migrate an ASP.NET web appto Azure with Visual Studio](https://docs.microsoft.com/en-us/learn/paths/migrate-aspnet-web-application/) - Find out how to take a .NET Framework web app and migrate it to Azure, solving a very common set of app migration challenges (Self-Paced Learning)
 
-## Java
+### Java
 * [Java for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM) - Explore what you can do with Java (YouTube Playlist)
 * [Static Web Apps](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG) - Find tips and tricks to quickly get up to speed on Azure Static Web Apps (YouTube Playlist)
 * [Vue.js for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA) - Explore Vue.js, a progressive front-end JavaScript framework designed to allow you to add dynamic capabilities to your web pages (YouTube Playlist)
@@ -89,7 +89,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Best practices for Java apps on Azure](https://docs.microsoft.com/en-us/learn/paths/best-practices-java-azure/) - Learn how you can build, monitor, automate, tune, autoscale, and secure access to and from Java apps (Self-Paced Learning)
 * [Expand the capabilities for Java apps on Azure](https://docs.microsoft.com/en-us/learn/paths/expand-capabilities-java-azure/) - Discover how to use idiomatic libraries to connect and interact with your preferred cloud services to get the full power of Azure with your Java apps (Self-Paced Learning)
 
-## JavaScript/TypeScript/Node.js
+### JavaScript/TypeScript/Node.js
 * [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/) - Learn about what Node.js is, how it works, and when to use it (Self-Paced Learning)
 * [Node.js for Beginners](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Discover all the essential Node.js knowledge you need to get started on your project (YouTube Video)
 * [Build a Node.js app with Cosmos DB as a data source](https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/) - Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code and Node.js. (Self-Paced Learning)
@@ -98,7 +98,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Capture page load times in  with Application Insights](https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/) * Learn about Application Insights, an Azure service that you can use to monitor the behavior and performance of a web app (Self-Paced Learning)
 * [Use Azure AD in your app](https://docs.microsoft.com/en-us/learn/modules/cna-set-up-azure-ad-use-scale/) - Become familiar with Azure AD, which enables you to improve the functionality of cloud-native apps in multitenant scenarios (Self-Paced Learning)
 
-## Python
+### Python
 * [Python for beginners](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) - Explore what you can do with Python (Self-Paced Learning)
 * [Python for beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - Explore what you can do with Python (YouTube Video)
 * [Build an AI web app using Python and Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/) - Use Python, Flask, and Azure Cognitive Services to build a web app (Self-Paced Learning)
@@ -109,26 +109,26 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Working with Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python) - Set up Azure Monitor for your Python app (Article)
 * [How to authenticate Python apps on Azure](https://docs.microsoft.com/en-us/azure/developer/python/sdk/authentication-overview) - Find out how to work with Azure identity from an SDK perspective (Article)
 
-# Guides, Books, Videos
+## Guides, Books, Videos
 
-## Videos
+### Videos
 * [AzureGlobalBlackBelt - Youtube Channel](https://www.youtube.com/c/AzureGlobalBlackBelt)
 * [Twitch Microsoft Developer Livestream](https://www.twitch.tv/microsoftdeveloper)
 * [Developer Training Events](https://reactor.microsoft.com/en-us/reactor/home/index/)
 * [MicrosoftReactor - Youtube Channel](https://www.youtube.com/c/MicrosoftReactor1)
 
-## Free ebooks
+### Free ebooks
 * Cloud Native Infrastructure with Microsoft Azure [DE](https://azure.microsoft.com/de-de/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953)/[EN](https://azure.microsoft.com/en-us/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953)
 
-# Cheat Sheets
+## Cheat Sheets
 * [Azure CosmosDb Queries](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet)
 
-# Trainings
+## Trainings
 * [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
 * [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginner without any Cloud experiance
 * [AzureAdventureDay](https://www.microsoft.com/de-de/techwiese/events/azure-adventure-day.aspx) - One Day Adventure Training for Azure Kubernetes Serivce
 
-# Dev Tools
+## Dev Tools
 
-## VS Code
+### VS Code
 * [Visual Studio Code](https://code.visualstudio.com/)
