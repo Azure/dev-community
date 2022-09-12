@@ -80,8 +80,13 @@ Check out our swag folder if you're looking for cool, fresh, or retro digital re
 
 
 ## More Developer Content
-* [TechWiese](https://aka.ms/techwiese)
-* [Twitter](https://twitter.com/msdev_de)
+#### Landing pages
+* [TechWiese](https://aka.ms/techwiese) - Overview of motions for developers in the German market
+* [Microsoft UK Developers](https://microsoft.com/en-gb/developers) - Overview of motions for developers in the UK market
+
+#### Social media
+* [Twitter](https://twitter.com/msdev_de) - Microsoft Developers Germany Twitter channel
+* [Facebook](https://www.facebook.com/MSFTDev.Germany) - Microsoft Developers Germany Facebook channel
 
 
 ## Contributing
