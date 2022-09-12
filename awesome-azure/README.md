@@ -29,7 +29,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Programming Languages](#programming-languages)
   * [.NET](#net)
   * [Java](#java)  
-  * [JavaScript/TypeScript/Node.js](#nodejs)
+  * [JavaScript/TypeScript/Node.js](#javascripttypescriptnodejs)
   * [Python](#python)
   * Rust
   * Go
