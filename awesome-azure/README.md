@@ -62,7 +62,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Trainings](#trainings)
 
 * [Dev Tools](#dev-tools)
-  * [VS Code}(#vscode)
+  * [VS Code](#vscode)
 
 ## Programming Languages
 
