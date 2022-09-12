@@ -32,7 +32,6 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Java](./java.md)
 * [Python](./python.md)
 * [Node.js](./nodejs.md)
-* [.NET](./.NET.md)
 * JavaScript/TypeScript
 * Rust
 * Go
