@@ -28,7 +28,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 ## Programming Languages
 
-* [.NET](#.NET)
+* [.NET](#net)
 * [Java](./java.md)
 * [Python](./python.md)
 * [Node.js](./nodejs.md)
