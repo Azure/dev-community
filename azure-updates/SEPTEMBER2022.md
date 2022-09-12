@@ -33,9 +33,11 @@ With Microsoft Dev Box, organizations can:
 
 ##### :dizzy: GA 
 
-Resizing a disk on Azure can provide increased storage capacity and better performance for your applications. As part of our commitment to continuously add new capabilities to our Azure Disk Storage portfolio, live resize for Premium SSD and Standard SSD Disk Storage is now generally available.
-
-With live resize, you can dynamically increase the storage capacity of your Premium SSD and Standard SSD disks without causing any disruption to your applications. To reduce costs, you can start with smaller disks and gradually increase their storage capacity without experiencing any downtime.
+ **As part of our commitment to continuously add new capabilities to our Azure Disk Storage portfolio, live resize for Premium SSD and Standard SSD Disk Storage is now generally available.**
+ 
+- Resizing a disk on Azure can provide increased storage capacity and better performance for your applications.
+- With live resize, you can dynamically increase the storage capacity of your Premium SSD and Standard SSD disks without causing any disruption to your applications.
+- To reduce costs, you can start with smaller disks and gradually increase their storage capacity without experiencing any downtime.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
 
