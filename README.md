@@ -40,9 +40,9 @@ Find the archive (slides, recordings, demos) of previous calls [here](./communit
 
 ## Awesome Azure
 
-If you're looking for awesome content about Azure check out our [Awesome Azure](./awesome-azure/README.md#awesome-azure-) list of curated content. Browse through tons of tutorials, demos, blog articles, libraries, helper tools or learning resources. 
+If you're looking for awesome content about Azure check out our [Awesome Azure](./awesome-azure/README.md#awesome-azure-) list of curated content.
+Browse through tons of tutorials, demos, blog articles, libraries, helper tools or learning resources for topics like:
 
-The [Awesome Azure](./awesome-azure/README.md#awesome-azure-) list has endless resources for 
 - [Programming Languages](./awesome-azure/README.md#programming-languages)
 - [Azure Hero Services](./awesome-azure/README.md#azure-hero-services)
 - [Azure Architectures](./awesome-azure/README.md#azure-architectures)
