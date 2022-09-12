@@ -24,12 +24,12 @@ Contributions are welcome!
 
 Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
-# Index
+## Index
 
-## Programming Languages
+* Programming Languages
 
-* [.NET](#net)
-* [Java](./java.md)
+  * [.NET](#net)
+  * [Java](./java.md)
 * [Python](./python.md)
 * [Node.js](./nodejs.md)
 * JavaScript/TypeScript
