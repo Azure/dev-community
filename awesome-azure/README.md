@@ -55,7 +55,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 * [Guides, Books, Videos](#guides-books-videos)
   * [Videos](#videos)
-  * [Free Ebooks](#freee-books)
+  * [Free Ebooks](#free-ebooks)
 
 * [Cheat Sheets](#cheat-sheets)
  
