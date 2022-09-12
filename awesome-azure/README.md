@@ -53,7 +53,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
   * Microservices
   * Service Driven
 
-* [Guides, Books, Videos](#guidesbooksvideos)
+* [Guides, Books, Videos](#guides-books-videos)
   * [Videos](#videos)
   * [Free Ebooks](#freee-books)
 
