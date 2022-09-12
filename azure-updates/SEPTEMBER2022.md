@@ -58,7 +58,10 @@ With Microsoft Dev Box, organizations can:
 
 ##### :boom: Preview
 
-Ephemeral OS disk customers can choose encryption type between platform managed keys or customer managed keys for host-based encryption. The default is platform managed keys. This feature would enable our customers to meet your organization's compliance needs.
+**Ephemeral OS disk customers can choose encryption type between platform managed keys or customer managed keys for host-based encryption.** 
+
+- The default is platform managed keys. 
+- This feature would enable our customers to meet your organization's compliance needs.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/)
 
@@ -72,7 +75,8 @@ The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points
 
 Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
 
-All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency. The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.
+- **All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency. 
+- **The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.**
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 
