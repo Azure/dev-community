@@ -54,6 +54,10 @@ Browse through tons of tutorials, demos, blog articles, libraries, helper tools 
 
 ## Azure Updates
 
+Each month we are going to pick the hottest and most interesting announcements and service updates to highlight them in our [Azure updates section](./azure-updates).
+
+Check out [September 2022's hot picks](./azure-updates/SEPTEMBER2022.md)!
+
 ## Trainings & Events
 
 If you're looking for ... 
