@@ -67,6 +67,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 ## Cheat Sheets
 
+* [Azure CosmosDb Queries](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet) 
 
 ## Free Ebooks
 
