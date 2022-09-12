@@ -55,13 +55,13 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 * [Guides, Books, Videos](#guidesbooksvideos)
   * [Videos](#videos)
-  * [Free Ebooks](#freeebooks)
+  * [Free Ebooks](#freee-books)
 
-* [Cheat Sheets](#cheatsheets)
+* [Cheat Sheets](#cheat-sheets)
  
 * [Trainings](#trainings)
 
-* [Dev Tools](#devtools)
+* [Dev Tools](#dev-tools)
   * [VS Code}(#vscode)
 
 ## Programming Languages
