@@ -66,11 +66,18 @@ then have a look at our [Trainings & Events overview](./trainings_and_events.md)
 
 ## Digital Swag
 
+Check out our swag folder if you're looking for cool, fresh, or retro digital resources for different purposes like:
+
+[Teams Backgrounds / Wallpapers](./assets/swag/teams)
+[Phones - Lock Screens](./assets/swag/phone)
+[Watch - Lock Screens](./assets/swag/watch)
+[Stickers](./assets/swag/stickers)
+[Social assets](./assets/swag/social)
+
 
 ## More Developer Content
 * [TechWiese](https://aka.ms/techwiese)
 * [Twitter](https://twitter.com/msdev_de)
-
 
 
 ## Contributing
