@@ -1,9 +1,0 @@
-# Node.js
-
-- [Build JavaScript applications with Node.js](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/) - Learn about what Node.js is, how it works, and when to use it (Self-Paced Learning)
-- [Node.js for Beginners](https://www.youtube.com/watch?v=FeJVdCz_uco&list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Discover all the essential Node.js knowledge you need to get started on your project (YouTube Video)
-- [Build a Node.js app with Cosmos DB as a data source](https://docs.microsoft.com/en-us/learn/modules/build-node-cosmos-app-vscode/) - Build a database app to store and query data in Azure Cosmos DB by using Visual Studio Code and Node.js. (Self-Paced Learning)
-- [Build Serverless APIs with Azure Functions](https://docs.microsoft.com/en-us/learn/modules/build-api-azure-functions/) - Use Visual Studio Code and Azure Functions to rapidly create a serverless API, implement a RESTful architecture, and safely store secure information such as connection strings (Self-Paced Learning)
-- [Azure Static Web Apps](https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/) - Explore Azure Static Web Apps, a modern web app service that offers streamlined, full-stack development from source code to global high availability (Self-Paced Learning)
-- [Capture page load times in  with Application Insights](https://docs.microsoft.com/en-us/learn/modules/capture-page-load-times-application-insights/) - Learn about Application Insights, an Azure service that you can use to monitor the behavior and performance of a web app (Self-Paced Learning)
-- [Use Azure AD in your app](https://docs.microsoft.com/en-us/learn/modules/cna-set-up-azure-ad-use-scale/) - Become familiar with Azure AD, which enables you to improve the functionality of cloud-native apps in multitenant scenarios (Self-Paced Learning)
