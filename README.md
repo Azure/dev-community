@@ -41,6 +41,7 @@ Find the archive (slides, recordings, demos) of previous calls [here](./communit
 ## Awesome Azure
 
 If you're looking for awesome content about Azure check out our [Awesome Azure](./awesome-azure/README.md#awesome-azure-) list of curated content. 
+
 We are still working on the first draft of it, though. And you're invited to contribute!
 
 Browse through tons of tutorials, demos, blog articles, libraries, helper tools or learning resources for topics like:
