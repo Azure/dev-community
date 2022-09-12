@@ -5,8 +5,8 @@
 
 ##### :boom: Preview
 
-Microsoft Dev Box is now in public preview. Microsoft Dev Box provides self-service access for developers to high-performance, 
-cloud-based workstations preconfigured and ready-to-code for specific projects—all while maintaining security and corporate governance.
+**Microsoft Dev Box is now in public preview. Microsoft Dev Box provides self-service access for developers to high-performance, 
+cloud-based workstations preconfigured and ready-to-code for specific projects—all while maintaining security and corporate governance.**
 
 With Microsoft Dev Box, organizations can:
 - Maximize dev productivity with ready-to-code, self-service Dev Boxes.
@@ -21,11 +21,11 @@ With Microsoft Dev Box, organizations can:
 
 ##### :flight_arrival: Updated/New Features
 
-- Azure Storage lifecycle management offers a rule-based policy that you can use to transition blob data to the appropriate access tiers or to expire data at the end of the data lifecycle. 
-- You can configure rules to move a blob to archive tier based on last modified condition. 
-- If you rehydrate a blob by changing its tier, this rule may move the blob back to the archive tier. This can happen if the last modified time is beyond the threshold set for the policy. 
-
 **Now you can add a new condition, daysAfterLastTierChangeGreaterThan, in your rules, to skip the archiving action if the blobs are newly rehydrated.**
+
+- Azure Storage lifecycle management offers a rule-based policy to transition blob data to the appropriate access tiers or to expire data at the end of the data lifecycle. 
+- Configure rules to move a blob to archive tier based on last modified condition. 
+- Rehydrating a blob by changing its tier may move the blob back to the archive tier. This can happen if the last modified time is beyond the threshold set for the policy. 
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/)
 
@@ -35,8 +35,8 @@ With Microsoft Dev Box, organizations can:
 
  **As part of our commitment to continuously add new capabilities to our Azure Disk Storage portfolio, live resize for Premium SSD and Standard SSD Disk Storage is now generally available.**
  
-- Resizing a disk on Azure can provide increased storage capacity and better performance for your applications.
-- With live resize, you can dynamically increase the storage capacity of your Premium SSD and Standard SSD disks without causing any disruption to your applications.
+- Resizing a disk on Azure can provide increased storage capacity and better performance for applications.
+- Live resizing, can dynamically increase the storage capacity of Premium SSD and Standard SSD disks without causing any disruption to your applications.
 - To reduce costs, you can start with smaller disks and gradually increase their storage capacity without experiencing any downtime.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
