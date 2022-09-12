@@ -40,6 +40,18 @@ Find the archive (slides, recordings, demos) of previous calls [here](./communit
 
 ## Awesome Azure
 
+If you're looking for awesome content about Azure check out our [Awesome Azure](./awesome-azure/README.md#awesome-azure-) list of curated content. Browse through tons of tutorials, demos, blog articles, libraries, helper tools or learning resources. 
+
+The [Awesome Azure](./awesome-azure/README.md#awesome-azure-) list has endless resources for 
+- [Programming Languages](./awesome-azure/README.md#programming-languages)
+- [Azure Hero Services](./awesome-azure/README.md#azure-hero-services)
+- [Azure Architectures](./awesome-azure/README.md#azure-architectures)
+- [Video Content](./awesome-azure/README.md#video-content)
+- [Cheat Sheets](./awesome-azure/README.md#cheat-sheets)
+- [Free Ebooks](./awesome-azure/README.md#free-ebooks)
+- [Trainings](./awesome-azure/README.md#trainings)
+- [Dev Tools](./awesome-azure/README.md#dev-tools)
+
 ## Azure Updates
 
 ## Trainings & Events
@@ -56,13 +68,9 @@ then have a look at our [Trainings & Events overview](./trainings_and_events.md)
 
 
 ## More Developer Content
-#### Landing pages
-* [TechWiese](https://aka.ms/techwiese) - Overview of motions for developers in the German market
-* [Microsoft UK Developers](https://microsoft.com/en-gb/developers) - Overview of motions for developers in the UK market
+* [TechWiese](https://aka.ms/techwiese)
+* [Twitter](https://twitter.com/msdev_de)
 
-#### Social media
-* [Twitter](https://twitter.com/msdev_de) - Microsoft Developers Germany Twitter channel
-* [Facebook](https://www.facebook.com/MSFTDev.Germany) - Microsoft Developers Germany Facebook channel
 
 
 ## Contributing
