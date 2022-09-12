@@ -21,7 +21,10 @@ With Microsoft Dev Box, organizations can:
 
 ##### :flight_arrival: Updated/New Features
 
-Azure Storage lifecycle management offers a rule-based policy that you can use to transition blob data to the appropriate access tiers or to expire data at the end of the data lifecycle. You can configure rules to move a blob to archive tier based on last modified condition. If you rehydrate a blob by changing its tier, this rule may move the blob back to the archive tier. This can happen if the last modified time is beyond the threshold set for the policy. Now you can add a new condition, daysAfterLastTierChangeGreaterThan, in your rules, to skip the archiving action if the blobs are newly rehydrated.
+- Azure Storage lifecycle management offers a rule-based policy that you can use to transition blob data to the appropriate access tiers or to expire data at the end of the data lifecycle. 
+- You can configure rules to move a blob to archive tier based on last modified condition. 
+- If you rehydrate a blob by changing its tier, this rule may move the blob back to the archive tier. This can happen if the last modified time is beyond the threshold set for the policy. 
+- **Now you can add a new condition, daysAfterLastTierChangeGreaterThan, in your rules, to skip the archiving action if the blobs are newly rehydrated.**
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/)
 
