@@ -128,10 +128,7 @@ With Microsoft Dev Box, organizations can:
 
 Azure Monitor container insights allow you to monitor your container and Kubernetes workloads. When enabling container insights, Azure Monitor deploys a containerized collection agent. 
 
-- **This agent is being renamed from OMSAgent to Azure Monitor agent.** 
-- **The current OMSAgent name is a legacy name from the OMS product and does not reflect the branding for Azure Monitor.**
-- **The Azure Monitor agent is being standardized as the single collection agent for Azure Monitor.**
-- **The name change brings the agent’s name in line with these updates.**
+**This agent is being renamed from OMSAgent to Azure Monitor agent. The current OMSAgent name is a legacy name from the OMS product and does not reflect the branding for Azure Monitor. The Azure Monitor agent is being standardized as the single collection agent for Azure Monitor. The name change brings the agent’s name in line with these updates.**
 
 
 - The changes will roll out in early September. There are no feature updates or functional changes to the agent in this release. You will see a new pod name in your clusters and several other related resources have also been renamed. 
@@ -143,10 +140,7 @@ Azure Monitor container insights allow you to monitor your container and Kuberne
 
 ##### :boom: Preview
 
-- **Container insights now supports integration with Azure Monitor agent for AKS clusters and Arc-enabled clusters.** 
-- **This integration is now generally available for Linux nodes in AKS and Arc-enabled clusters.** 
-- **This specialized agent collects performance and event data from all nodes in the cluster, and the agent is automatically deployed and registered with the specified log analytics workspace during deployment.** 
-
+- **Container insights now supports integration with Azure Monitor agent for AKS clusters and Arc-enabled clusters. This integration is now generally available for Linux nodes in AKS and Arc-enabled clusters.This specialized agent collects performance and event data from all nodes in the cluster, and the agent is automatically deployed and registered with the specified log analytics workspace during deployment.** 
 
 - With the Azure Monitor agent, container insights also supports authentication using managed identity for AKS and Arc-enabled clusters. 
 - Secure and simplified authentication model where the monitoring agent uses the cluster’s managed identity to send data to Azure Monitor.
