@@ -155,12 +155,9 @@ Azure Monitor container insights allow you to monitor your container and Kuberne
 
 ##### :dizzy: GA 
 
-Azure Communication Services now supports communication experiences for Teams identities. With this capability developers can build custom standalone applications that integrate audio, video, and telephony for Teams users. 
+**Azure Communication Services now supports communication experiences for Teams identities. Developers can build custom standalone applications that integrate audio, video, and telephony for Teams users.**
 
-For example, developers can build specialized line of business applications that enable calling experiences for Teams users directly into the app, develop new workflows for apps that require custom management of incoming and outgoing Teams phone calls, or even bring Teams calling capabilities into devices that are not supported with the standard Teams client. 
-
-With this functionality developers can now start creating custom apps that: 
-
+- For example, developers can build specialized line of business applications that enable calling experiences for Teams users directly into the app, develop new workflows for apps that require custom management of incoming and outgoing Teams phone calls, or even bring Teams calling capabilities into devices that are not supported with the standard Teams client. 
 - Make and receive Teams calls as a Teams user
 - Join Teams meeting as a Teams user
 - Manage incoming and outgoing phone calls based on Teams Phone System and integration with Teams auto attendants and call queues
@@ -174,11 +171,11 @@ With this functionality developers can now start creating custom apps that:
 
 ##### :flight_arrival: Updated/New Features 
 
-Azure API Management support for custom widgets in the developer portal is now generally available. Custom widgets make it easier to integrate with external systems and they provide a different way to represent data (e.g., a modified API reference or user profile pages) in the developer portal.  
+**Azure API Management support for custom widgets in the developer portal is now generally available.** 
 
-This release also enhances custom widget development by providing “scaffolding code" in Vue, React, and native TypeScript as well as an open source npm package - removing the need to write code from scratch.
-
-Supporting these capabilities in the managed developer portal provides you with an alternative to maintaining self-hosted portals, while offering more advanced extensibility options and better manageability and source control than available previously through the “Custom HTML” widget.
+- Custom widgets make it easier to integrate with external systems and they provide a different way to represent data (e.g., a modified API reference or user profile pages) in the developer portal.  
+- Enhance custom widget development by providing “scaffolding code" in Vue, React, and native TypeScript as well as an open source npm package - removing the need to write code from scratch.
+- Supporting these capabilities in the managed developer portal provides you with an alternative to maintaining self-hosted portals, while offering more advanced extensibility options and better manageability and source control than available previously through the “Custom HTML” widget.
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-communication-services-support-for-teams-identities/)
 
@@ -188,7 +185,10 @@ Supporting these capabilities in the managed developer portal provides you with 
 
 ##### :flight_arrival: Updated/New Features 
 
-Enterprise-grade edge for Azure Static Web Apps is now generally available. Enable faster page loads, enhance security, and optimize reliability for your global applications. Enterprise-grade edge combines the capabilities of Azure Static Web Apps, Azure Front Door, and Azure Content Delivery Network (CDN) into a single secure cloud CDN platform.
+**Enterprise-grade edge for Azure Static Web Apps is now generally available.**
+
+- Enable faster page loads, enhance security, and optimize reliability for your global applications.
+- Enterprise-grade edge combines the capabilities of Azure Static Web Apps, Azure Front Door, and Azure Content Delivery Network (CDN) into a single secure cloud CDN platform.
 
 Key features:
 
