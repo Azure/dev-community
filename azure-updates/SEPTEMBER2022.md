@@ -206,9 +206,9 @@ Key features:
 
 ##### :boom: Preview
 
-Azure Storage Explorer now offers an extension for Azure App Configuration–you can now work with Azure App Configuration resources under your Azure subscriptions directly in Storage Explorer. 
+**Azure Storage Explorer now offers an extension for Azure App Configuration–you can now work with Azure App Configuration resources under your Azure subscriptions directly in Storage Explorer.** 
 
-This means that with appropriate permissions,you can add, edit, or delete the key-values in your App Configuration store directly from the Storage Explorer.
+- With appropriate permissions,you can add, edit, or delete the key-values in your App Configuration store directly from the Storage Explorer.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
 
@@ -216,9 +216,13 @@ This means that with appropriate permissions,you can add, edit, or delete the ke
 
 ##### :boom: Preview
 
-App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service. App Configuration provides central management of configuration key-values that can span resources and deployment environments. When defining an application setting or connection string within App Service and Azure Functions, instead of providing a direct value, you can now specify a key-value in an external Azure App Configuration store. The app uses its managed identity to resolve the value from the store and expose it as an environment variable to your application.
+**App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service.**
 
-This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault. Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
+- App Configuration provides central management of configuration key-values that can span resources and deployment environments. 
+- When defining an application setting or connection string within App Service and Azure Functions, instead of providing a direct value, you can now specify a key-value in an external Azure App Configuration store. 
+- The app uses its managed identity to resolve the value from the store and expose it as an environment variable to your application.
+- This initial preview does not yet include support for network-restricted configuration stores or for resolution of configuration store references to Key Vault.
+- Referenced key-values are not yet refreshed automatically, and new values will only be pulled in when the app restarts as the result of another config change such as modifying an app setting.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
 
@@ -226,9 +230,9 @@ This initial preview does not yet include support for network-restricted configu
 
 ##### :boom: Preview
 
-Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
+**Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
 Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
-using an eventual consistency model.
+using an eventual consistency model.**
 
 This delivers benefits including:
  - Increased resiliency:
@@ -246,9 +250,10 @@ This delivers benefits including:
 
 ##### :dizzy: GA 
 
-The Event Grid blob trigger handles events raised by a storage account and is now generally available.
+**The Event Grid blob trigger handles events raised by a storage account and is now generally available.**
 
-The extension allows you to reduce latency by triggering on an event subscription to the same blob container. The event subscription uses Event Grid to forward changes in the blob container as events for your function to consume.
+- The extension allows to reduce latency by triggering on an event subscription to the same blob container. 
+- The event subscription uses Event Grid to forward changes in the blob container as events for your function to consume.
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
 
@@ -256,9 +261,9 @@ The extension allows you to reduce latency by triggering on an event subscriptio
 
 ##### :boom: Preview
 
-Azure Functions support for Node.js 18 is now in public preview. This version of Node.js is supported by Functions runtime v4.x. 
+**Azure Functions support for Node.js 18 is now in public preview. This version of Node.js is supported by Functions runtime v4.x.** 
 
-Node.js 18 is currently in the initial release stage.
+- Node.js 18 is currently in the initial release stage.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-nodejs-18-in-azure-functions/)
 
@@ -268,7 +273,11 @@ Node.js 18 is currently in the initial release stage.
 
 ##### :flight_arrival: Updated/New Features
 
-Use Azure Cosmos DB integrated cache to optimize read costs and latency for both point reads and queries. The Azure Cosmos DB integrated cache is an in-memory cache built-in to the Azure Cosmos DB dedicated gateway. The dedicated gateway is optional front-end compute that stores cached data and routes requests to the backend database. There’s no need to make code changes in your application to use the dedicated gateway and utilize the integrated cache. Integrated cache is currently available for Core (SQL) API only.
+- Use Azure Cosmos DB integrated cache to optimize read costs and latency for both point reads and queries. 
+- The Azure Cosmos DB integrated cache is an in-memory cache built-in to the Azure Cosmos DB dedicated gateway. 
+- The dedicated gateway is optional front-end compute that stores cached data and routes requests to the backend database. 
+- There’s no need to make code changes in your application to use the dedicated gateway and utilize the integrated cache. 
+- Integrated cache is currently available for Core (SQL) API only.
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-azure-cosmos-db-integrated-cache/)
 
@@ -278,9 +287,9 @@ Use Azure Cosmos DB integrated cache to optimize read costs and latency for both
 
 ##### :boom: Preview
 
-Unity Catalog is a unified and fine-grained governance solution for all data assets including files, tables, and machine learning models in your Lakehouse.  
+- Unity Catalog is a unified and fine-grained governance solution for all data assets including files, tables, and machine learning models in your Lakehouse.  
 
-Unity Catalog helps simplify security and governance of your data with the following key features: 
+  Unity Catalog helps simplify security and governance of your data with the following key features: 
 
 - Define once, secure everywhere: Unity Catalog offers a single place to administer data access policies that apply across all workspaces and personas. 
 - Standards-compliant security model: Unity Catalog’s security model is based on standard ANSI SQL and allows administrators to grant permissions at the level of catalogs, databases (also called schemas), tables, and views in their existing data lake using familiar syntax. 
@@ -294,7 +303,7 @@ Unity Catalog helps simplify security and governance of your data with the follo
 
 ##### :boom: Preview
 
-In late August 2022, the following updates and enhancements were made to Azure SQL:
+**In late August 2022, the following updates and enhancements were made to Azure SQL:**
 
 - Enable automatic key rotation for Customer Managed Key in Azure SQL Database and Azure SQL Managed Instance.
 - Expand support to standard editions of SQL Server 2019 with link feature for Azure SQL Managed Instance.
@@ -305,7 +314,7 @@ In late August 2022, the following updates and enhancements were made to Azure S
 
 ##### :dizzy: GA 
 
-In late August 2022, the following updates and enhancements were made to Azure SQL: 
+**In late August 2022, the following updates and enhancements were made to Azure SQL:**
 
 - Leverage an assignment of a server or instance identity with user-assigned managed Identity in Azure Active Directory for Azure SQL Database and Managed Instance.
 - Increase resiliency of Azure SQL Database Hyperscale by enabling zone redundant configuration.
