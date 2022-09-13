@@ -71,10 +71,8 @@ With Microsoft Dev Box, organizations can:
 
 - The general purpose Dps v5 and Dpds v5 Azure Virtual Machines series can run popular Linux enterprise workloads such as web and application servers, open-source databases, Java and .Net applications, gaming, and media servers, and more. 
 - The new VMs provide up to 4GiBs of memory per vCPU in sizes with up to 64 vCPUs, 208GiB of memory, and 40Gbps networking, with and without local temporary storage.
-
-The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points within the general-purpose Azure Virtual Machines portfolio, providing 2GiBs per vCPU in sizes up to 64vCPUs, 128GiBs of memory, and up to 40Gbps networking with and without local temporary storage options.
-
-Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
+- The Dpls v5 and Dplds v5 VM series offer one of the lowest starting price points within the general-purpose Azure Virtual Machines portfolio, providing 2GiBs per vCPU in sizes up to 64vCPUs, 128GiBs of memory, and up to 40Gbps networking with and without local temporary storage options.
+- The memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of memory per vCPU in sizes with up to 32 vCPUs, 208GiBs of memory, 40Gbps networking, with and without local temporary storage options, and are designed to meet the requirements associated with memory-intensive Linux-based workloads including open-source databases, in-memory caching applications, and data analytics engines. 
 
 - **All the VM series listed above are now generally available in multiple regions and feature the Ampere Altra Arm-based processor operating at up to 3.0GHz frequency.**
 - **The Altra Arm-based processor was architected for scale-out cloud environments to deliver efficient performance and help reduce overall environmental impact of computing operations.**
@@ -87,23 +85,24 @@ Lastly, the memory optimized Eps v5 and Epds v5 VM series feature up to 8GiBs of
 
 ##### :dizzy: GA 
 
-As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform. With Azure Managed Grafana, you can seamlessly and securely connect with and scale to businesses’ existing Azure services, enhancing observability and cloud management.
+- **As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform. 
+- **Additionally, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.**
 
-In addition to the features announced during preview, with general availability, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.
+- With Azure Managed Grafana, you can seamlessly and securely connect with and scale to businesses’ existing Azure services, enhancing observability and cloud management.
 
 [Documentation](https://azure.microsoft.com/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/)
 
 +++
 
-
 ##### :dizzy: GA 
 
-Change analysis is an observability tool that enables efficient issue triaging and root causing by centrally showing changes inside and outside of Azure web applications. Built on top of Azure resource graph, the capability securely stores resource and application configuration change data with added role-based access control (RBAC) rules on viewing sensitive information. Change analysis supports scalable queries across multiple subscriptions.
+ - Change analysis is an observability tool that enables efficient issue triaging and root causing by centrally showing changes inside and outside of Azure web applications. Built on top of Azure resource graph, the capability securely stores resource and application configuration change data with added role-based access control (RBAC) rules on viewing sensitive information. 
+ - Change analysis supports scalable queries across multiple subscriptions.
 
-Several key change analysis capabilities and integrations have been released into general availability (GA).
+**Several key change analysis capabilities and integrations have been released into general availability (GA).**
 
-- Fully integrated into the Azure Monitor portal as a key data source for observability
-- Performance and scalability improvement for large queries on change data
+- **Fully integrated into the Azure Monitor portal as a key data source for observability**
+- **Performance and scalability improvement for large queries on change data**
 - Simplified change data presentations aggregated by subscription and resource-groups
 - Single pane of glass observability by integrating with existing workflows and tools
 - Diagnose and solve problems
