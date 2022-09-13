@@ -327,7 +327,7 @@ This delivers benefits including:
 
 ##### :boom: Preview
 
-Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. Within minutes, you can develop and run a job that tackles many scenarios.
+**Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. Within minutes, you can develop and run a job that tackles many scenarios.**
 
 There are four new features which will help you build and monitor your jobs:
 
@@ -344,8 +344,9 @@ There are four new features which will help you build and monitor your jobs:
 
 ##### :flight_arrival: Updated/New Features
 
-Azure Container Apps (ACA) support for Dapr release 1.8.3 is now generally available.
-All Container App Environments have been automatically upgraded to consume 1.8.3
+**Azure Container Apps (ACA) support for Dapr release 1.8.3 is now generally available.**
+
+- All Container App Environments have been automatically upgraded to consume 1.8.3
 
 [Dapr v1.8 release notes](https://github.com/dapr/dapr/releases/tag/v1.8.0)
 
@@ -357,7 +358,7 @@ All Container App Environments have been automatically upgraded to consume 1.8.3
 
 ##### :dizzy: GA
 
-Azure Data Explorer (ADX) now supports ingesting data from S3 natively. Prior to the S3 ingestion support in Azure Data Explorer, you had to rely on complex ETL pipelines, or orchestrators to ingest data from S3. The new feature simplifies the process and allows data ingestion from S3 in a cost effective and scalable manner.
+**Azure Data Explorer (ADX) now supports ingesting data from S3 natively in a cost effective and scalable manner. Previously, you had to rely on complex ETL pipelines, or orchestrators to ingest data from S3.**
 
 [Documentation](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746)
 
@@ -367,8 +368,10 @@ Azure Data Explorer (ADX) now supports ingesting data from S3 natively. Prior to
 
 ##### :dizzy: GA
 
-AKS support for Kubernetes release 1.24 is now generally available. Kubernetes 1.24 delivers 46 enhancements.
-This release includes new changes such as the removal of Dockershim.
+**AKS support for Kubernetes release 1.24 is now generally available.**
+
+- Kubernetes 1.24 delivers 46 enhancements.
+- This release includes new changes such as the removal of Dockershim.
 
 [Documentation](https://kubernetes.io/blog/2022/04/07/upcoming-changes-in-kubernetes-1-24)
 
@@ -376,11 +379,9 @@ This release includes new changes such as the removal of Dockershim.
 
 ##### :dizzy: GA
 
-- Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, 
-dedicated to one Azure subscription. Dedicated hosts are the same physical servers used in our data centers,
-provided as a resource.
-- You can provision dedicated hosts within a region, availability zone, and fault domain. 
-Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.
+- Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, dedicated to one Azure subscription.
+-  Dedicated hosts are the same physical servers used in our data centers, provided as a resource.
+- You can provision dedicated hosts within a region, availability zone, and fault domain. Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.
 
 Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 - Hardware isolation at the physical server level. No other VMs will be placed on your hosts.
@@ -392,9 +393,7 @@ Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 
 ##### :flight_arrival: Updated/New Features
 
-AKS now supports key management system (KMS) plugin integration. 
-This generally available capability enables encryption at rest of your Kubernetes data in etcd using Azure Key Vault. 
-This means you can now store secrets in bring your own key (BYOK) encrypted etcd using KMS.
+**AKS now supports key management system (KMS) plugin integration enabling encryption at rest of your Kubernetes data in etcd using Azure Key Vault allowing you to store secrets in bring your own key (BYOK) encrypted etcd using KMS.**
 
 From the Kubernetes documentation on Encrypting Secret Data at Rest:
 
@@ -411,7 +410,8 @@ Features:
 
 ##### :boom: Preview
 
-Automated deployments simplify the process of setting up a GitHub Action and creating an automated workflow for your code releases to your Azure Kubernetes Service (AKS) cluster. Once connected, every new commit will kick off the workflow, resulting in your application being updated.
+- Automated deployments simplify the process of setting up a GitHub Action and creating an automated workflow for your code releases to your Azure Kubernetes Service (AKS) cluster. 
+- Once connected, every new commit will kick off the workflow, resulting in your application being updated.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-automated-deployments-in-aks/)
 
@@ -419,9 +419,11 @@ Automated deployments simplify the process of setting up a GitHub Action and cre
 
 ##### :boom: Preview
 
-Azure offers a unique capability of mounting Blob Storage (or object storage) as a file system to a Kubernetes pod or application using BlobFuse or NFS 3.0 options. This allows you to use blob storage with a number of stateful Kubernetes applications including HPC, Analytics, image processing, and audio or video streaming. Not only that, if your application ingests data into Data Lake storage on Azure Blobs, you can now directly mount and use it with AKS. Previously, you had to manually install and manage the lifecycle of the open-source Azure Blob CSI driver including deployment, versioning, and upgrades. 
+- Azure offers a unique capability of mounting Blob Storage (or object storage) as a file system to a Kubernetes pod or application using BlobFuse or NFS 3.0 options.
+- Allowing you to use blob storage with a number of stateful Kubernetes applications including HPC, Analytics, image processing, and audio or video streaming. 
+- If your application ingests data into Data Lake storage on Azure Blobs, you can now directly mount and use it with AKS. Earlier, you had to manually install and manage the lifecycle of the open-source Azure Blob CSI driver including deployment, versioning, and upgrades. 
 
-With this preview, you can use the Azure Blob CSI driver as a managed addon in AKS with built in storage classes for NFS and BlobFuse, reducing the operational overhead and maximizing time to value.
+**With this preview, you can use the Azure Blob CSI driver as a managed addon in AKS with built in storage classes for NFS and BlobFuse, reducing the operational overhead and maximizing time to value.**
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-blob-csi-support-in-aks-2/)
 
@@ -429,9 +431,9 @@ With this preview, you can use the Azure Blob CSI driver as a managed addon in A
  
 ##### :boom: Preview 
 
-The AKS DevX extension for Visual Studio Code is in public preview. This extension enhances your day-to-day life as a developer on Azure Kubernetes Service and is focused on non-cluster developer experiences. 
+**The AKS DevX extension for Visual Studio Code is in public preview. This extension enhances your day-to-day life as a developer on Azure Kubernetes Service and is focused on non-cluster developer experiences.**
 
-The first feature to be added to the DevX extension is Draft, allowing you to create Dockerfiles, deployment files, and GitHub Actions easily through Visual Studio Code.
+- The first feature to be added to the DevX extension is Draft, allowing you to create Dockerfiles, deployment files, and GitHub Actions easily through Visual Studio Code.
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-aks-devx-extension-for-visual-studio-code/)
 
@@ -440,7 +442,10 @@ The first feature to be added to the DevX extension is Draft, allowing you to cr
 ### Virtual Network
 ##### :flight_arrival: Updated/New Features
 
-Network security groups (NSGs) support for private endpoints is now generally available. This feature enhancement provides you with the ability to enable advanced security controls on traffic destined to a private endpoint. In order to leverage this feature, you will need to set a specific subnet level property, called PrivateEndpointNetworkPolicies, to enabled on the subnet containing private endpoint resources.
+**Network security groups (NSGs) support for private endpoints is now generally available.**
+
+- This feature provides you with the ability to enable advanced security controls on traffic destined to a private endpoint. 
+- To leverage this feature, you will need to set a specific subnet level property, called PrivateEndpointNetworkPolicies, to enabled on the subnet containing private endpoint resources.
 
 At this time, Private Link network security group support is available in most public regions.
 
@@ -451,7 +456,9 @@ At this time, Private Link network security group support is available in most p
 ### Load Testing
 ##### :boom: Preview
 
-Azure Load Testing now supports load testing for private endpoints. You can create an Azure Load Testing resource and enable it to generate load from within your virtual network (VNET injection).
+**Azure Load Testing now supports load testing for private endpoints.**
+
+- You can create an Azure Load Testing resource and enable it to generate load from within your virtual network (VNET injection).
 
 This functionality enables the following usage scenarios:
 
@@ -467,7 +474,7 @@ This functionality enables the following usage scenarios:
 ### Machine Learning
 ##### :flight_arrival: Updated/New Features
 
-Hierarchical forecasting eliminates the need for you to manually create individual models to produce forecasts for your hierarchy data, aiming to generate hierarchy-aware and consistent forecasts at all levels of your hierarchy.
+**Hierarchical forecasting eliminates the need for you to manually create individual models to produce forecasts for your hierarchy data, aiming to generate hierarchy-aware and consistent forecasts at all levels of your hierarchy.**
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/)
 
@@ -476,9 +483,11 @@ Hierarchical forecasting eliminates the need for you to manually create individu
 
 ##### :boom: Preview
 
-AutoML Code Generation is now available for all 10 AutoML tasks across tabular, images & text data. This feature makes AutoML a transparent solution by allowing you to select any AutoML-trained model and generate the Python training code to explore, customize, and retrain before deploying.
+**AutoML Code Generation is now available for all 10 AutoML tasks across tabular, images & text data.**
 
-AutoML in Pipelines Allows you to utilize the full power of AutoML in your MLOps process.  You can prep data, funnel it into AutoML, register the resulting best model, and set up an endpoint for scoring all within one pipeline.
+- This feature makes AutoML a transparent solution by allowing you to select any AutoML-trained model and generate the Python training code to explore, customize, and retrain before deploying.
+- AutoML in Pipelines allows you to utilize the full power of AutoML in your MLOps process.  
+- You can prep data, funnel it into AutoML, register the resulting best model, and set up an endpoint for scoring all within one pipeline.
 
 [Documentation](https://azure.microsoft.com/updates/azure-machine-learning-public-preview-updates-for-august-2022/)
 
@@ -487,7 +496,9 @@ AutoML in Pipelines Allows you to utilize the full power of AutoML in your MLOps
 ### Database for MySQL
 ##### :flight_arrival: Updated/New Features
 
- Use server logs for Azure Database for MySQL - Flexible Server to enable logging for your server and save the results to a file. If you enable server logs and select the log type, you can download the logs from your server. Use the information in these logs to get detailed insights about the activities executed on your server, and then identify and troubleshoot potential issues.
+- Use server logs for Azure Database for MySQL - Flexible Server to enable logging for your server and save the results to a file. 
+- If you enable server logs and select the log type, you can download the logs from your server. 
+- Use the information in these logs to get detailed insights about the activities executed on your server to identify and troubleshoot potential issues.
  
 [Documentation](https://azure.microsoft.com/updates/general-availability-server-logs-for-azure-database-for-mysql-flexible-server/)
 
@@ -496,7 +507,11 @@ AutoML in Pipelines Allows you to utilize the full power of AutoML in your MLOps
 ### Redis Cache
 ##### :moneybag: Pricing Updates
 
-Save up to 55 percent on your usage of the Enterprise and Enterprise Flash tiers of Azure Cache for Redis by purchasing reserved instances. The reservation discount will automatically apply to your matching cache resources so the process of purchasing a reservation is streamlined. Reservations are available on a one-year basis for up to a 35 percent discount or on a three-year basis for a 55 percent discount. This is a great way to maximize the cost efficiency of your Azure deployment and ensure you get the best deal.
+**Save up to 55 percent on your usage of the Enterprise and Enterprise Flash tiers of Azure Cache for Redis by purchasing reserved instances.**
+
+- The reservation discount will automatically apply to your matching cache resources so the process of purchasing a reservation is streamlined. 
+- Reservations are available on a one-year basis for up to a 35 percent discount or on a three-year basis for a 55 percent discount. 
+- Great way to maximize the cost efficiency of your Azure deployment and ensure you get the best deal.
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-reserved-instance-pricing-for-azure-cache-for-redis-enterprise/)
 
