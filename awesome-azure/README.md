@@ -117,16 +117,50 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Developer Training Events](https://reactor.microsoft.com/en-us/reactor/home/index/)
 * [MicrosoftReactor - Youtube Channel](https://www.youtube.com/c/MicrosoftReactor1)
 
+
+### On-demand Webinars
+* [Build Fast, Secure and Globally Distributed Web Apps](https://info.microsoft.com/ww-ondemand-build-fast-secure-and-globally-distributed-web-apps.html?lcid=en-us)
+* [Building a Web API with Azure Functions and Node.js](https://info.microsoft.com/ww-ondemand-building-a-web-api-with-azure-functions-and-nodejs.html?lcid=en-us)
+* [Grow Faster by Building Cloud Native SaaS Apps with Azure](https://info.microsoft.com/ww-ondemand-grow-faster-by-building-cloud-native-saas-apps-with-azure.html?lcid=en-us)
+* [Kubernetes on Azure: Lessons from Real-World Deployments](https://info.microsoft.com/ww-ondemand-kubernetes-on-azure-lessons-from-real-world-deployments.html?lcid=en-us)
+* [Operate Kubernetes Clusters Like a Pro - Updated](https://info.microsoft.com/ww-ondemand-operate-kubernetes-clusters-like-a-pro-wbnr.html?lcid=en-us)
+* [Run Apps on Serverless Containers with Azure Container Apps](https://info.microsoft.com/ww-ondemand-run-apps-on-serverless-containers-with-azure-container-apps.html?lcid=en-us)
+* [Using servers(less): Cloud Native Apps with Azure Functions](https://info.microsoft.com/ww-ondemand-cloud-native-apps-with-azure-functions.html?lcid=en-us)
+* [Build Cloud Applications for a Remote World](https://info.microsoft.com/ww-landing-build-cloud-applications-for-a-remote-world.html?lcid=en-us)
+* [Get Your App Up and Running with Kubernetes and KEDA](https://info.microsoft.com/ww-ondemand-get-your-app-up-and-running-with-kubernetes-and-keda.html?lcid=en-us)
+* [Build Smarter and Faster .NET Web Apps with Azure](https://info.microsoft.com/ww-ondemand-build-smarter-and-faster-dotnet-web-apps-with-azure.html?lcid=en-us)
+* [Modernize Business-Critical Applications with Cloud](https://info.microsoft.com/ww-ondemand-modernize-business-critical-applications-with-cloud.html?lcid=en-us)
+* [Delivering Java to the Cloud with Azure and GitHub](https://info.microsoft.com/ww-ondemand-delivering-java-to-the-cloud-with-azure-and-github.html?lcid=en-us)
+* [Modernize Java Applications on Azure](https://info.microsoft.com/ww-ondemand-modernize-java-applications-on-azure.html?lcid=en-us)
+* [Take Your Java to the Cloud with Azure Kubernetes Service](https://info.microsoft.com/ww-ondemand-take-your-java-to-the-cloud-with-azure-kubernetes-service.html?lcid=en-us)
+* [Modernize and Scale Java Web Apps with Azure App Service](https://info.microsoft.com/ww-ondemand-modernize-and-scale-java-web-apps-with-azure-app-service.html?lcid=en-us)
+* [Simplify and Scale Enterprise Spring Apps in the Cloud](https://info.microsoft.com/ww-ondemand-simplify-and-scale-enterprise-spring-apps-in-the-cloud.html?lcid=en-us)
+* [Transform Your Apps with Vision Based AI](https://info.microsoft.com/ww-ondemand-transform-your-apps-with-vision-based-ai.html?lcid=en-us)
+
+
 ### Free ebooks
-* Cloud Native Infrastructure with Microsoft Azure [DE](https://azure.microsoft.com/de-de/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953)/[EN](https://azure.microsoft.com/en-us/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953)
+* [DE](https://azure.microsoft.com/de-de/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953) | [EN](https://azure.microsoft.com/en-us/resources/cloud-native-infrastructure-with-microsoft-azure/?WT.mc_id=AID3051920_EML_8080953) - Cloud Native Infrastructure with Microsoft Azure (2022) 
+* [DE](https://azure.microsoft.com/de-de/resources/azure-cloud-native-architecture-mapbook/) | [EN](https://azure.microsoft.com/en-us/resources/azure-cloud-native-architecture-mapbook/) - The Azure Cloud-Native Architecture Mapbook (2021)
+* [DE](https://azure.microsoft.com/de-de/resources/get-started-with-kubernetes-on-azure/) | [EN](https://azure.microsoft.com/en-us/resources/get-started-with-kubernetes-on-azure/) - Hands-on Kubernetes on Azure, Third edition (2021)
+* [DE](https://azure.microsoft.com/de-de/resources/azure-for-architects/) | [EN](https://azure.microsoft.com/en-us/resources/azure-for-architects/) - Azure for Architects, Third edition (2020)
+
+
+### Free guides
+* [DE](https://azure.microsoft.com/de-de/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/) | [EN](https://azure.microsoft.com/en-us/resources/how-to-choose-the-right-azure-services-for-your-applicationsits-not-a-or-e-book-series/) - How to Choose the Right Azure Services for Your Applications: It's Not A or B (2022)
+* [DE](https://clouddamcdnprodep.azureedge.net/gdc/1979830/original) | [EN](https://clouddamcdnprodep.azureedge.net/gdc/1862177/original) - The Developer's Guide to Azure (2021)
+* [DE](https://azure.microsoft.com/de-de/resources/minimize-risks-and-costs-with-the-azure-developer-proof-of-concept-guide/) | [EN](https://azure.microsoft.com/en-us/resources/minimize-risks-and-costs-with-the-azure-developer-proof-of-concept-guide/) - Azure Proof of Concept Guide for Developers (2020)
+* [DE](https://azure.microsoft.com/de-de/resources/modernize-your-java-apps/) | [EN](https://azure.microsoft.com/en-us/resources/modernize-your-java-apps/) - Modernize Your Java Apps (2021)
+
 
 ## Cheat Sheets
 * [Azure CosmosDb Queries](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet)
 
 ## Trainings
 * [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
-* [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginner without any Cloud experiance
+* [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginners without any Cloud experiance
 * [AzureAdventureDay](https://www.microsoft.com/de-de/techwiese/events/azure-adventure-day.aspx) - One Day Adventure Training for Azure Kubernetes Serivce
+
+Also see [Trainings & Events](../trainings_and_events.md) for more details and dates. 
 
 ## Dev Tools
 
