@@ -140,7 +140,7 @@ Azure Monitor container insights allow you to monitor your container and Kuberne
 
 ##### :boom: Preview
 
-- **Container insights now supports integration with Azure Monitor agent for AKS clusters and Arc-enabled clusters. This integration is now generally available for Linux nodes in AKS and Arc-enabled clusters.This specialized agent collects performance and event data from all nodes in the cluster, and the agent is automatically deployed and registered with the specified log analytics workspace during deployment.** 
+**Container insights now supports integration with Azure Monitor agent for AKS clusters and Arc-enabled clusters. This integration is now generally available for Linux nodes in AKS and Arc-enabled clusters.This specialized agent collects performance and event data from all nodes in the cluster, and the agent is automatically deployed and registered with the specified log analytics workspace during deployment.** 
 
 - With the Azure Monitor agent, container insights also supports authentication using managed identity for AKS and Arc-enabled clusters. 
 - Secure and simplified authentication model where the monitoring agent uses the cluster’s managed identity to send data to Azure Monitor.
