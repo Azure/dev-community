@@ -1,7 +1,7 @@
 # Azure Updates 09/2022 - Highlights
 
 
-### Microsoft DevBox
+### Microsoft DevBox :star:
 
 ##### :boom: Preview
 
@@ -31,7 +31,7 @@ With Microsoft Dev Box, organizations can:
 
 +++
 
-##### :dizzy: GA 
+##### :dizzy: GA  :star:
 
  **As part of our commitment to continuously add new capabilities to our Azure Disk Storage portfolio, live resize for Premium SSD and Standard SSD Disk Storage is now generally available.**
  
@@ -54,7 +54,7 @@ With Microsoft Dev Box, organizations can:
 
 +++
 
-##### :flight_arrival: Updated/New Features
+##### :flight_arrival: Updated/New Features ❓
 
 - Resource instance rules enable secure connectivity to a storage account by restricting access to specific resources of select Azure services.
 - Azure Storage provides a layered security model that enables you to secure and control access to your storage account. 
@@ -69,9 +69,9 @@ With Microsoft Dev Box, organizations can:
 
 ---
 
-### Virtual Machines
+### Virtual Machines :star:
 
-##### :boom: Preview
+##### :boom: Preview 
 
 **Ephemeral OS disk customers can choose encryption type between platform managed keys or customer managed keys for host-based encryption.** 
 
@@ -96,9 +96,9 @@ With Microsoft Dev Box, organizations can:
 
 ---
 
-### Monitor
+### Monitor 
 
-##### :dizzy: GA 
+##### :dizzy: GA :star:
 
 **As part of our continued commitment to open source solutions, we are announcing the general availability of Azure Managed Grafana, a managed service that enables you to run Grafana natively within the Azure cloud platform.** 
 **Additionally, we’re introducing new capabilities that include the latest Grafana v9.0 features with its improved alerting experience as well as zone redundancy (in preview) and API key support.**
@@ -109,7 +109,7 @@ With Microsoft Dev Box, organizations can:
 
 +++
 
-##### :dizzy: GA 
+##### :dizzy: GA :star:
 
  - Change analysis is an observability tool that enables efficient issue triaging and root causing by centrally showing changes inside and outside of Azure web applications. Built on top of Azure resource graph, the capability securely stores resource and application configuration change data with added role-based access control (RBAC) rules on viewing sensitive information. 
  - Change analysis supports scalable queries across multiple subscriptions.
@@ -139,7 +139,7 @@ With Microsoft Dev Box, organizations can:
 
 +++
 
-##### :flight_arrival: Updated/New Features
+##### :flight_arrival: Updated/New Features :star:
 
 Azure Monitor container insights allow you to monitor your container and Kubernetes workloads. When enabling container insights, Azure Monitor deploys a containerized collection agent. 
 
@@ -196,7 +196,7 @@ Azure Monitor container insights allow you to monitor your container and Kuberne
 
 ---
 
-### App Services
+### App Services :question:
 
 ##### :flight_arrival: Updated/New Features 
 
@@ -229,7 +229,7 @@ Key features:
 
 +++
 
-##### :boom: Preview
+##### :boom: Preview :question:
 
 **App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service.**
 
@@ -243,7 +243,7 @@ Key features:
 
 +++
 
-##### :boom: Preview
+##### :boom: Preview :question:
 
 **Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
 Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
@@ -284,7 +284,7 @@ This delivers benefits including:
 
 ---
 
-### CosmosDB
+### CosmosDB :star:
 
 ##### :flight_arrival: Updated/New Features
 
@@ -316,7 +316,7 @@ This delivers benefits including:
 
 ### SQL Database
 
-##### :boom: Preview
+##### :boom: Preview :star:
 
 **In late August 2022, the following updates and enhancements were made to Azure SQL:**
 
@@ -340,7 +340,7 @@ This delivers benefits including:
 
 ### Event Hub
 
-##### :boom: Preview
+##### :boom: Preview :star:
 
 **Process your real time data streams in Azure Event Hubs using Azure Stream Analytics. The no code editor allows you to easily develop a Stream Analytics job without writing a single line of code. Within minutes, you can develop and run a job that tackles many scenarios.**
 
@@ -379,7 +379,7 @@ There are four new features which will help you build and monitor your jobs:
 
 +++
 
-##### :flight_arrival: Updated/New Features
+##### :flight_arrival: Updated/New Features :star:
 
 - The Kusto Emulator is a Docker Container encapsulating the Kusto Query Engine available locally in a Docker Container. 
 - The Kusto Emulator was designed to enable local development and automated testing and is a free offering under the license terms.
@@ -393,7 +393,7 @@ There are four new features which will help you build and monitor your jobs:
 
 ### AKS / Kubernetes Service
 
-##### :dizzy: GA
+##### :dizzy: GA :star:
 
 **AKS support for Kubernetes release 1.24 is now generally available.**
 
@@ -404,10 +404,10 @@ There are four new features which will help you build and monitor your jobs:
 
 +++
 
-##### :dizzy: GA
+##### :dizzy: GA :question:
 
 - Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, dedicated to one Azure subscription.
--  Dedicated hosts are the same physical servers used in our data centers, provided as a resource.
+- Dedicated hosts are the same physical servers used in our data centers, provided as a resource.
 - You can provision dedicated hosts within a region, availability zone, and fault domain. Then, you can place AKS VMs directly into your provisioned hosts, in whatever configuration best meets your needs.
 
 Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
@@ -418,7 +418,7 @@ Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 
 +++
 
-##### :flight_arrival: Updated/New Features
+##### :flight_arrival: Updated/New Features :question:
 
 **AKS now supports key management system (KMS) plugin integration enabling encryption at rest of your Kubernetes data in etcd using Azure Key Vault allowing you to store secrets in bring your own key (BYOK) encrypted etcd using KMS.**
 
@@ -444,7 +444,7 @@ Features:
 
 +++
 
-##### :boom: Preview
+##### :boom: Preview :star:
 
 - Azure offers a unique capability of mounting Blob Storage (or object storage) as a file system to a Kubernetes pod or application using BlobFuse or NFS 3.0 options.
 - Allowing you to use blob storage with a number of stateful Kubernetes applications including HPC, Analytics, image processing, and audio or video streaming. 
@@ -456,7 +456,7 @@ Features:
 
  +++
  
-##### :boom: Preview 
+##### :boom: Preview :star:
 
 **The AKS DevX extension for Visual Studio Code is in public preview. This extension enhances your day-to-day life as a developer on Azure Kubernetes Service and is focused on non-cluster developer experiences.**
 
@@ -467,7 +467,7 @@ Features:
 ---
 
 ### Virtual Network
-##### :flight_arrival: Updated/New Features
+##### :flight_arrival: Updated/New Features :star:
 
 **Network security groups (NSGs) support for private endpoints is now generally available.**
 
@@ -507,7 +507,7 @@ This functionality enables the following usage scenarios:
 
 +++
 
-##### :boom: Preview
+##### :boom: Preview :star:
 
 **AutoML Code Generation is now available for all 10 AutoML tasks across tabular, images & text data.**
 
@@ -530,7 +530,7 @@ This functionality enables the following usage scenarios:
 
 ---
 
-### Redis Cache
+### Redis Cache :star:
 ##### :moneybag: Pricing Updates
 
 **Save up to 55 percent on your usage of the Enterprise and Enterprise Flash tiers of Azure Cache for Redis by purchasing reserved instances.**
@@ -596,7 +596,7 @@ Setting this up is a simple, two step operation,
 
 ---
 
-### Azure Regions
+### Azure Regions :star:
 ##### :earth_africa: Region Updates
 
 - 3 Availability Zones in UAE North
