@@ -505,7 +505,6 @@ This functionality enables the following usage scenarios:
 
 [Documentation](https://azure.microsoft.com/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/)
 
-
 +++
 
 ##### :boom: Preview
@@ -541,6 +540,57 @@ This functionality enables the following usage scenarios:
 - Great way to maximize the cost efficiency of your Azure deployment and ensure you get the best deal.
 
 [Documentation](https://azure.microsoft.com/updates/general-availability-reserved-instance-pricing-for-azure-cache-for-redis-enterprise/)
+
+---
+
+### Stream Analytics
+##### :boom: Preview
+
+**Stream Analytics no-code editor was announced for public preview at Microsoft Build 2022. This month, it has been refreshed with several new capabilities including:**
+
+- Support new output sink: Azure SQL Database.
+- Support data enrichment scenario with reference data input sources from Azure SQL Database.
+- Added runtime logs with diagnostic logs for troubleshooting.
+- UI refreshed with new ribbon design to categorize inputs/outputs/operations.
+
+[Documentation](https://azure.microsoft.com/updates/public-preview-stream-analytics-nocode-editor-updates-in-august-2022/)
+
++++
+
+##### :flight_arrival: Updated/New Features
+
+- Stream Analytics allows you to use managed identities as an authentication mode when connecting to Azure Service Bus queues and topics. 
+- Solves a common challenge when building cloud applications related to credential management. 
+- Keeping the credentials secure is important and shouldn't be stored in developer workstations or checked into source control.
+
+[Documentation](https://azure.microsoft.com/updates/asa-servicebus-mi-ga/)
+
++++
+
+##### :dizzy: GA
+
+**You can easily configure an Azure Database for PostgreSQL instance as output to your Stream Analytics job with zero code. This functionality is now generally available.**
+
+[Documentation](https://azure.microsoft.com/updates/asa-postgresql-ga/)
+
++++
+
+**You can now use Stream Analytics clusters to securely connect your jobs to write to dedicated synapse SQL pools using managed private endpoints.**
+
+Setting this up is a simple, two step operation,
+
+- Add synapse SQL output to your job. 
+- Go to your Stream Analytics cluster to add a managed private endpoint that establishes a secure, private connection between your resources.
+
+[Documentation](https://azure.microsoft.com/updates/asa-synapsesql-pe/)
+
++++
+
+##### :flight_arrival: Updated/New Features
+
+**Announcing an up to 45% performance boost for CPU intensive jobs by default. This improvement allows you to reduce the number of streaming units assigned to such jobs and save on costs without impacting performance.**
+
+[Documentation](https://azure.microsoft.com/updates/asa-cpu-perf-increase/)
 
 ---
 
