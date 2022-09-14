@@ -575,6 +575,8 @@ This functionality enables the following usage scenarios:
 
 +++
 
+##### :flight_arrival: Updated/New Features
+
 **You can now use Stream Analytics clusters to securely connect your jobs to write to dedicated synapse SQL pools using managed private endpoints.**
 
 Setting this up is a simple, two step operation,
