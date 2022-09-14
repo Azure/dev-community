@@ -52,6 +52,21 @@ With Microsoft Dev Box, organizations can:
 
 [Documentation](https://azure.microsoft.com/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
 
++++
+
+##### :flight_arrival: Updated/New Features
+
+- Resource instance rules enable secure connectivity to a storage account by restricting access to specific resources of select Azure services.
+- Azure Storage provides a layered security model that enables you to secure and control access to your storage account. 
+- You can configure network access rules to limit access to your storage account from select virtual networks or IP address ranges. 
+- Some Azure services operate on multi-tenant infrastructure, so resources of these services cannot be isolated to a specific virtual network.
+
+**With resource instance rules, you can now configure your storage account to only allow access from specific resource instances of such Azure services. For example, Azure Synapse offers analytic capabilities that cannot be deployed into a virtual network. If your Synapse workspace uses such capabilities, you can configure a resource instance rule on a secured storage account to only allow traffic from that Synapse workspace.**
+
+- Resource instances must be in the same tenant as your storage account, but they may belong to any resource group or subscription in the tenant.
+
+[Documentation](https://azure.microsoft.com/updates/storage-resource-instance-rules-ga/)
+
 ---
 
 ### Virtual Machines
@@ -361,6 +376,18 @@ There are four new features which will help you build and monitor your jobs:
 **Azure Data Explorer (ADX) now supports ingesting data from S3 natively in a cost effective and scalable manner. Previously, you had to rely on complex ETL pipelines, or orchestrators to ingest data from S3.**
 
 [Documentation](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/azure-data-explorer-supports-native-ingestion-from-amazon-s3/ba-p/3606746)
+
++++
+
+##### :flight_arrival: Updated/New Features
+
+- The Kusto Emulator is a Docker Container encapsulating the Kusto Query Engine available locally in a Docker Container. 
+- The Kusto Emulator was designed to enable local development and automated testing and is a free offering under the license terms.
+- Automated testing can be done using the Kusto Emulator without provisioning an Azure Service and without connection to the internet. 
+- Efficient way to use Kusto Query Engine for automated tests. 
+- Local development can be done without relying on an internet connection or a provisioned service.
+
+[Documentation](https://azure.microsoft.com/updates/kusto-emulator/)
 
 ---
 
