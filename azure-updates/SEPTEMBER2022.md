@@ -196,7 +196,7 @@ Azure Monitor container insights allow you to monitor your container and Kuberne
 
 ---
 
-### App Services :question:
+### App Services
 
 ##### :flight_arrival: Updated/New Features 
 
@@ -229,7 +229,7 @@ Key features:
 
 +++
 
-##### :boom: Preview :question:
+##### :boom: Preview
 
 **App Service and Azure Functions now support referencing configuration key-values from the Azure App Configuration service.**
 
@@ -243,7 +243,7 @@ Key features:
 
 +++
 
-##### :boom: Preview :question:
+##### :boom: Preview
 
 **Azure App Configuration now supports replicating your configuration data in the configuration store to replicas in other Azure regions. 
 Available to standard tier subscribers, any updates or additions to key/values in the configuration store or in a replica will be automatically synchronized,
@@ -404,7 +404,7 @@ There are four new features which will help you build and monitor your jobs:
 
 +++
 
-##### :dizzy: GA :question:
+##### :dizzy: GA
 
 - Azure Dedicated Host is a service that provides physical servers, able to host one or more virtual machines, dedicated to one Azure subscription.
 - Dedicated hosts are the same physical servers used in our data centers, provided as a resource.
@@ -418,7 +418,7 @@ Using Azure Dedicated Hosts for nodes with your AKS cluster enables:
 
 +++
 
-##### :flight_arrival: Updated/New Features :question:
+##### :flight_arrival: Updated/New Features
 
 **AKS now supports key management system (KMS) plugin integration enabling encryption at rest of your Kubernetes data in etcd using Azure Key Vault allowing you to store secrets in bring your own key (BYOK) encrypted etcd using KMS.**
 
