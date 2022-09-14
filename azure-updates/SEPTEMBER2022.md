@@ -54,7 +54,7 @@ With Microsoft Dev Box, organizations can:
 
 +++
 
-##### :flight_arrival: Updated/New Features ❓
+##### :flight_arrival: Updated/New Features
 
 - Resource instance rules enable secure connectivity to a storage account by restricting access to specific resources of select Azure services.
 - Azure Storage provides a layered security model that enables you to secure and control access to your storage account. 
