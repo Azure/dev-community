@@ -25,7 +25,7 @@ How to start:
 
 | Date   | Topic                                 | Action |   
 |--------|---------------------------------------|--------------|
-| Sep 15 @ 4pm | News & Hot Topics - Microsoft DevBox | [Slides](./community-calls/2022-09-15/2022-09-15_News-&-hot-topics_Microsoft-Dev-Box.pdf)<br/>[Recording](./community-calls/2022-09-15\2022-09-15_News-&-Hot-Topics_Microsoft-Dev-Box.mp4)         |   
+| Sep 15 @ 4pm | News & Hot Topics - Microsoft DevBox | [Slides](./community-calls/2022-09-15/2022-09-15_News-&-hot-topics_Microsoft-Dev-Box.pdf)<br/>[Recording](./community-calls/2022-09-15/2022-09-15_News-&-Hot-Topics_Microsoft-Dev-Box.mp4)         |   
 | Oct 6 @ 4pm | Ask Me Anything - Cloud Native Application Development  |  [Register](https://mktoevents.com/Microsoft+Event/358196/157-GQE-382)             |   
 |  Oct 20 @ 4pm  | News & Hot Topics - BestSecret on Azure  | [Register](https://mktoevents.com/Microsoft+Event/358245/157-GQE-382) |   
 |  Nov 10 @ 4pm  | Ask Me Anything - [nominate a topic](https://github.com/Azure/dev-community/discussions/4)  | [Register](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
