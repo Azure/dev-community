@@ -108,6 +108,8 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Connect to PostgreSQLusing Python](https://docs.microsoft.com/en-us/azure/postgresql/single-server/connect-python) - Work with Azure Database for PostgreSQL and run SQL statements using Python (Article)
 * [Working with Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python) - Set up Azure Monitor for your Python app (Article)
 * [How to authenticate Python apps on Azure](https://docs.microsoft.com/en-us/azure/developer/python/sdk/authentication-overview) - Find out how to work with Azure identity from an SDK perspective (Article)
+* [Azure sdk for Python](https://github.com/Azure/azure-sdk-for-python) - Repository for active development of the Azure SDK for Python
+
 
 ## Guides, Books, Videos
 
