@@ -28,7 +28,7 @@ How to start:
 | Sep 15 @ 4pm | News & Hot Topics - Microsoft DevBox | [Slides](./community-calls/2022-09-15/2022-09-15_News-&-hot-topics_Microsoft-Dev-Box.pdf)<br/>[Recording](https://azdevcall.blob.core.windows.net/recordings/2022-09-15_News-%26-Hot-Topics_Microsoft-Dev-Box.mp4?sp=r&st=2022-09-20T12:29:12Z&se=2023-09-20T20:29:12Z&spr=https&sv=2021-06-08&sr=b&sig=XX2vl1deLhmAzEGLB3yKXv2TB3HNOG5WHpDDAc%2F8qvQ%3D)         |   
 | Oct 6 @ 4pm | Ask Me Anything - Cloud Native Application Development - [ask your question](https://github.com/Azure/dev-community/discussions/12)  |  [Register](https://mktoevents.com/Microsoft+Event/358196/157-GQE-382)             |   
 |  Oct 20 @ 4pm  | News & Hot Topics - BestSecret: empowering developers with minimal uncertainty and chaos | [Register](https://mktoevents.com/Microsoft+Event/358245/157-GQE-382) |   
-|  Nov 10 @ 4pm  | Ask Me Anything - [ask your question](https://github.com/Azure/dev-community/discussions/16)  | [Register](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
+|  Nov 10 @ 4pm  | Ask Me Anything - Cosmos DB - [ask your question](https://github.com/Azure/dev-community/discussions/16)  | [Register](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
 |  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Register](https://mktoevents.com/Microsoft+Event/358294/157-GQE-382) |   
 |  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure - [ask your question](https://github.com/Azure/dev-community/discussions/14) | [Register](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
 |  Dec 15 @ 4pm  | News & Hot Topics - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
