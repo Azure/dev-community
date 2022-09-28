@@ -153,9 +153,8 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 
 ## Cheat Sheets
-* [Azure CosmosDb Queries](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet)
+* [Azure Cosmos DB Queries](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet)
 * [Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
-* [Azure Cosmos DB query cheat sheets](https://learn.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet)
 
 ## Trainings
 * [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
