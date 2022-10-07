@@ -14,7 +14,7 @@
 ### Oct 6, 2022 - Cloud Native
 - #### Recording stream will be available soon 
 - #### [Recording (RAW)](./2022-10-06/2022-10-06_AskMeAnything-CloudNative.mp4)
-- #### Slides will be available soon 
+- #### [Slides](./2022-10-06/2022-10-06_AskMeAnything-CloudNative.pdf)
 
 ## ➡️ See next topics and register for upcoming Community Calls [here](../README.md#community-calls-in-cy22)
 
