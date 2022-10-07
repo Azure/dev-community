@@ -99,6 +99,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Use Azure AD in your app](https://docs.microsoft.com/en-us/learn/modules/cna-set-up-azure-ad-use-scale/) - Become familiar with Azure AD, which enables you to improve the functionality of cloud-native apps in multitenant scenarios (Self-Paced Learning)
 
 ### Python
+* [Azure sdk for Python](https://github.com/Azure/azure-sdk-for-python) - Repository for active development of the Azure SDK for Python 🔥🔥🔥🔥🔥
 * [Python for beginners](https://docs.microsoft.com/en-us/learn/paths/beginner-python/) - Explore what you can do with Python (Self-Paced Learning)
 * [Python for beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - Explore what you can do with Python (YouTube Video)
 * [Build an AI web app using Python and Flask](https://docs.microsoft.com/en-us/learn/modules/python-flask-build-ai-web-app/) - Use Python, Flask, and Azure Cognitive Services to build a web app (Self-Paced Learning)
@@ -108,7 +109,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Connect to PostgreSQLusing Python](https://docs.microsoft.com/en-us/azure/postgresql/single-server/connect-python) - Work with Azure Database for PostgreSQL and run SQL statements using Python (Article)
 * [Working with Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/app/opencensus-python) - Set up Azure Monitor for your Python app (Article)
 * [How to authenticate Python apps on Azure](https://docs.microsoft.com/en-us/azure/developer/python/sdk/authentication-overview) - Find out how to work with Azure identity from an SDK perspective (Article)
-* [Azure sdk for Python](https://github.com/Azure/azure-sdk-for-python) - Repository for active development of the Azure SDK for Python
+
 
 
 ## Guides, Books, Videos
