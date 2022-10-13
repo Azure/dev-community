@@ -1,6 +1,5 @@
 
-<img src="./assets/azure_developer_community_hub.png">
-
+![Azure Developer Community Hub Banner](./assets/azure_developer_community_hub.png)
 
 ### :mega: Hey developer friends!
 Welcome to the Azure Developer Community Hub with loads of content around developing on and for Azure.
@@ -19,7 +18,19 @@ How to start:
 - ⭐ Star this repo  
 
 
-## Community Calls in CY22
+## Community Calls
+
+Our _Community Calls_ cover a broad range of topics on the Azure cloud,
+developer tooling and industry trends. If you have topics of interest or want to
+help us come up with the most relevant topics please feel free to upvote,
+comment or create new topics for upcoming community calls [on our discussions
+page](https://github.com/Azure/dev-community/discussions/categories/community-call-topic-suggestions).
+We will source future topics from the highest voted suggestions.
+
+Once we've selected a topic for an upcoming community call we will create a new
+GitHub Issue from that topic and have the presenters assigned to that issue. We
+will upload the recording of the call and close the issue once it's available.
+
 
 <div align="center">
 
