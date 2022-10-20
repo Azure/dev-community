@@ -12,7 +12,7 @@
 
 ## Ask Me Anything
 ### Oct 6, 2022 - Cloud Native
-- #### Recording stream will be available soon 
+- #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-10-06_Ask-Me-Anything_Cloud-Native.mp4?sp=r&st=2022-10-20T14:23:44Z&se=2024-10-31T23:23:44Z&spr=https&sv=2021-06-08&sr=b&sig=dXSI%2BevDMmC1xsSa1l8TAGsJ3xJoMHJc%2BsCnoWEzMX4%3D)
 - #### [Recording (RAW)](./2022-10-06/2022-10-06_AskMeAnything-CloudNative.mp4)
 - #### [Slides](./2022-10-06/2022-10-06_AskMeAnything-CloudNative.pdf)
 
