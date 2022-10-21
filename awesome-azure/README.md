@@ -81,6 +81,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Migrate an ASP.NET web appto Azure with Visual Studio](https://docs.microsoft.com/en-us/learn/paths/migrate-aspnet-web-application/) - Find out how to take a .NET Framework web app and migrate it to Azure, solving a very common set of app migration challenges (Self-Paced Learning)
 
 ### Java
+* [Azure sdk for Java](https://github.com/Azure/azure-sdk-for-java) - Repository for active development of the Azure SDK for Java 🔥🔥🔥🔥
 * [Java for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM) - Explore what you can do with Java (YouTube Playlist)
 * [Static Web Apps](https://www.youtube.com/playlist?list=PLlrxD0HtieHgMPeBaDQFx9yNuFxx6S1VG) - Find tips and tricks to quickly get up to speed on Azure Static Web Apps (YouTube Playlist)
 * [Vue.js for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHh33qHLWEN9uv43ie17lYqA) - Explore Vue.js, a progressive front-end JavaScript framework designed to allow you to add dynamic capabilities to your web pages (YouTube Playlist)
