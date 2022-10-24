@@ -8,6 +8,13 @@
 - #### [Recording (RAW)](./2022-09-15/2022-09-15_News-&-Hot-Topics_Microsoft-Dev-Box.mp4)
 - #### [Slides](./2022-09-15/2022-09-15_News-&-hot-topics_Microsoft-Dev-Box.pdf)
 
+
+### Okt 20, 2022 - BestSecret: empowering developers with minimal uncertainty and chaos
+
+- #### Recording - available soon!
+- #### Recording (RAW) - available soon!
+- #### Slides - available soon!
+
 --- 
 
 ## Ask Me Anything
