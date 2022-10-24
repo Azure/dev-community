@@ -11,8 +11,8 @@
 
 ### Okt 20, 2022 - BestSecret: empowering developers with minimal uncertainty and chaos
 
-- #### Recording - available soon!
-- #### Recording (RAW) - available soon!
+- #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-10-20_News-%26-Hot-Topics_BestSecret.mp4?sp=r&st=2022-10-24T14:46:03Z&se=2024-10-24T22:46:03Z&spr=https&sv=2021-06-08&sr=b&sig=5r6rOb7XDm6WY%2BhAaCgQC9Wh7NuuCMpjEl4%2BbsLBm7A%3D)
+- #### [Recording (RAW)](./2022-10-20/2022-10-20_News-&-Hot-Topics_BestSecret.mp4)
 - #### Slides - available soon!
 
 --- 
