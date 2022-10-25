@@ -5,8 +5,9 @@
 |        | Format   | Level |Description                          |   
 |--------|---------|--------|-------------------------------------|
 | <img src="./assets/azure_adventure_day.jpg">| [Azure Adventure Day](https://aka.ms/azure-adventure-day) | Advanced | Azure Adventure Days are a fun way to measure your Kubernetes skills against other teams in a real-world, risk-free, and challenging environment (guided by a coach).  |   
-| <img src="">| [Azure Immersion Workshops](https://www.microsoft.com/de-de/techwiese/events/immersion-workshops.aspx) | Intermediate | Free, 1-day hands-on workshops delivered by a partner. |   
-| <img src="">| [Azure Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx)| Beginner | Free, 2-day virtual trainings delivered by a partner. |   
+| <img src="./assets/azure_immersion_workshop.jpg">| [Azure Immersion Workshops](https://www.microsoft.com/de-de/techwiese/events/immersion-workshops.aspx) | Intermediate | Free, 1-day hands-on workshops delivered by a partner. |   
+| <img src="./assets/azure_virtual_training_days.jpg">| [Azure Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx)| Beginner | Free, 2-day virtual trainings delivered by a partner. |   
+| <img src="./assets/cloud_skills_challenge.jpg">| [Cloud Skills Challenges](https://www.microsoft.com/de-de/techwiese/events/cloud-skills-challenge.aspx)| Beginner | A fun, free and interactive skilling program to compete against other learners. |   
 
 <br/>
 
