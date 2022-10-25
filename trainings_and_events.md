@@ -38,15 +38,15 @@
 <br/>
 
 
+### [HYBRID] Microsoft Reactor - coming soon!
 
-### [HYBRID] Reactor - coming soon!
-
-### [HYBRID] Ignite
-
+---
 ## Microsoft @ 3rd party events
 | Date   | Time   | Format & Topic | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
 | Nov 7-9 | fullday | **Bosch Connected Experience 2022** <br> one of Europe’s largest AIoT hackathons: bringing together major industry players from the building industry with the BCX crowd to advance the digitalization of commercial buildings. <br> Microsoft will not only provide Azure Subscriptions and services during the hackathon, but also Azure IoT Edge AI devices based on NVIDIA Jetson AGX Orin DevKits and Microsoft HoloLens for Mixed Reality. | EN | Berlin | [Apply for a free ticket](https://bosch-connected-world.com/hackathon/building/)
+
+---
 
 ## External
 
