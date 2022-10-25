@@ -22,7 +22,6 @@
 | Nov 28 & 29 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/365650/157-GQE-382)|
 | Nov 30 & Dec 1 | 9am - 4pm | **Azure Virtual Training Day: Modernize .NET Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/366180/157-GQE-382)|
 | Dec 1 | 9am - 4pm | **Azure Immersion Workshop: DevOps with GitHub** | DE |[Register now](https://mktoevents.com/Microsoft+Event/361551/157-GQE-382)|
-| Dec 2 | 9am - 5pm | **Azure Adventure Day - in Munich** | EN | [Register now]()|
 | Dec 8 | 9am - 4pm | **Azure Immersion Workshop: Modernize Java Apps** | DE | [Register now](https://mktoevents.com/Microsoft+Event/363777/157-GQE-382)|
 | Dec 14 & 15 | 9 - 12.15am | **Azure Virtual Training Day: DevOps with GitHub** | DE | [Register now](https://mktoevents.com/Microsoft+Event/367804/157-GQE-382)|
 | Dec 21 | 9 - 12.15am | **Azure Virtual Training Day: Linux OSS Database Migration** | DE | [Register now](https://mktoevents.com/Microsoft+Event/367981/157-GQE-382)|
