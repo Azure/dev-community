@@ -42,7 +42,7 @@ will upload the recording of the call and close the issue once it's available.
 |  Nov 10 @ 4pm  | Ask Me Anything - Cosmos DB - [ask your question](https://github.com/Azure/dev-community/discussions/16)  | [Register](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
 |  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Register](https://mktoevents.com/Microsoft+Event/358294/157-GQE-382) |   
 |  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure - [ask your question](https://github.com/Azure/dev-community/discussions/14) | [Register](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
-|  Dec 15 @ 4pm  | News & Hot Topics - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
+|  Dec 15 @ 4pm  | News & Hot Topics - Domain-driven design for highly distributed systems  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
 
 More info on the different formats on [aka.ms/azure4devs](https://aka.ms/azure4devs)  
 Find the archive (slides, recordings, demos) of previous calls [here](./community-calls).
