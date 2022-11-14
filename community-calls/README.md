@@ -23,6 +23,12 @@
 - #### [Recording (RAW)](./2022-10-06/2022-10-06_AskMeAnything-CloudNative.mp4)
 - #### [Slides](./2022-10-06/2022-10-06_AskMeAnything-CloudNative.pdf)
 
+### Nov 10, 2022 - Cosmos DB
+- #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-11-10_Ask-Me-Anything-Cosmos-DB.mp4?sp=r&st=2022-11-14T14:01:52Z&se=2024-11-14T22:01:52Z&spr=https&sv=2021-06-08&sr=b&sig=O83Rx6ghM63xHFb5q1cnxOdnbgK0o%2B0KxAjvVdvNijw%3D)
+- #### [Recording (RAW)](./2022-11-10/2022-11-10_AskMeAnything-CosmosDB.mp4)
+- #### [Slides](./2022-11-10/2022-11-10_AskMeAnything_CosmosDB.pdf)
+
+
 --- 
 ## ➡️ See next topics and register for upcoming Community Calls [here](../README.md#community-calls-in-cy22)
 
