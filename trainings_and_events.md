@@ -17,7 +17,6 @@
 
 | Date   | Time   | Format & Topic | Language                     |   Action |
 |--------|---------|--------|-------------------------------------|----------------|
-| Oct 27 | 9am - 4pm | **Azure Immersion Workshop: DevOps with GitHub** | DE|[Register now](https://mktoevents.com/Microsoft+Event/360315/157-GQE-382)|
 | Nov 17 | 9am - 4pm | **Azure Immersion Workshop: Cloud Native Apps** | DE|[Register now](https://mktoevents.com/Microsoft+Event/360979/157-GQE-382)|
 | Nov 28 & 29 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/365650/157-GQE-382)|
 | Nov 30 & Dec 1 | 9am - 12pm | **Azure Virtual Training Day: Modernize .NET Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/366180/157-GQE-382)|
@@ -44,7 +43,6 @@
 ## Microsoft @ 3rd party events
 | Date   | Time   | Format & Topic | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Nov 7-9 | fullday | **Bosch Connected Experience 2022** <br> one of Europe’s largest AIoT hackathons: bringing together major industry players from the building industry with the BCX crowd to advance the digitalization of commercial buildings. <br> Microsoft will not only provide Azure Subscriptions and services during the hackathon, but also Azure IoT Edge AI devices based on NVIDIA Jetson AGX Orin DevKits and Microsoft HoloLens for Mixed Reality. | EN | Berlin | [Apply for a free ticket](https://bosch-connected-world.com/hackathon/building/)
 
 ---
 
