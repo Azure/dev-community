@@ -5,11 +5,11 @@ All of the training formats presented here are free of charge.
 
 |        | Format   | Level |Description                          |   
 |--------|---------|--------|-------------------------------------|
-| <img src="./assets/azure_adventure_day.jpg">| [Azure Adventure Day](https://aka.ms/azure-adventure-day) | Advanced | Azure Adventure Days are a fun way to measure your Kubernetes skills against other teams in a real-world, risk-free, and challenging environment (guided by a coach).  |   
-| <img src="./assets/azure_immersion_workshop.jpg">| [Azure Immersion Workshops](https://www.microsoft.com/de-de/techwiese/events/immersion-workshops.aspx) | Intermediate | Free, 1-day hands-on workshops delivered by a partner. |   
-| <img src="./assets/azure_virtual_training_days.jpg">| [Azure Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx)| Beginner | Free, 2-day virtual trainings delivered by a partner. |   
-| <img src="./assets/cloud_skills_challenge.jpg">| [Cloud Skills Challenges](https://www.microsoft.com/de-de/techwiese/events/cloud-skills-challenge.aspx)| Beginner | A fun, free and interactive skilling program to compete against other learners. |   
-| <img src="./assets/MSFT_Reactor_Logo.png"> | [Microsoft Reactor Popup Berlin](https://www.microsoft.com/de-de/techwiese/events/microsoft-reactor.aspx) | All Levels | Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, develop new ideas. |
+| <img src="./assets/azure_adventure_day.jpg" width="150" height="150">| [Azure Adventure Day](https://aka.ms/azure-adventure-day) | Advanced | Azure Adventure Days are a fun way to measure your Kubernetes skills against other teams in a real-world, risk-free, and challenging environment (guided by a coach).  |   
+| <img src="./assets/azure_immersion_workshop.jpg" width="150" height="150">| [Azure Immersion Workshops](https://www.microsoft.com/de-de/techwiese/events/immersion-workshops.aspx) | Intermediate | Free, 1-day hands-on workshops delivered by a partner. |   
+| <img src="./assets/azure_virtual_training_days.jpg" width="150" height="150">| [Azure Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx)| Beginner | Free, 2-day virtual trainings delivered by a partner. |   
+| <img src="./assets/cloud_skills_challenge.jpg" width="150" height="150">| [Cloud Skills Challenges](https://www.microsoft.com/de-de/techwiese/events/cloud-skills-challenge.aspx)| Beginner | A fun, free and interactive skilling program to compete against other learners. |   
+| <img src="./assets/MSFT_Reactor_Logo.png" width="400" height="80"> | [Microsoft Reactor Popup Berlin](https://www.microsoft.com/de-de/techwiese/events/microsoft-reactor.aspx) | All Levels | Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, develop new ideas. |
 
 <br/>
 
