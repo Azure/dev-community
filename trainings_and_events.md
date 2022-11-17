@@ -1,6 +1,7 @@
 # Trainings & Events
 
 ## Overview of available training formats
+All of the training formats presented here are free of charge.
 
 |        | Format   | Level |Description                          |   
 |--------|---------|--------|-------------------------------------|
@@ -8,6 +9,7 @@
 | <img src="./assets/azure_immersion_workshop.jpg">| [Azure Immersion Workshops](https://www.microsoft.com/de-de/techwiese/events/immersion-workshops.aspx) | Intermediate | Free, 1-day hands-on workshops delivered by a partner. |   
 | <img src="./assets/azure_virtual_training_days.jpg">| [Azure Virtual Training Days](https://www.microsoft.com/de-de/techwiese/events/microsoft-training-days.aspx)| Beginner | Free, 2-day virtual trainings delivered by a partner. |   
 | <img src="./assets/cloud_skills_challenge.jpg">| [Cloud Skills Challenges](https://www.microsoft.com/de-de/techwiese/events/cloud-skills-challenge.aspx)| Beginner | A fun, free and interactive skilling program to compete against other learners. |   
+| <img src="./assets/MSFT_Reactor_Logo.png"> | [Microsoft Reactor Popup Berlin](https://www.microsoft.com/de-de/techwiese/events/microsoft-reactor.aspx) | All Levels | Microsoft Reactor connects you with the developers and startups that share your goals. Learn new skills, meet new peers, develop new ideas. |
 
 <br/>
 
@@ -37,12 +39,19 @@
 <br/>
 
 
-### [HYBRID] Microsoft Reactor - coming soon!
+### [HYBRID] Microsoft Reactor Popup Berlin!
+| Date   | Time   | Topic | Language                     |   Location | Action |
+|--------|---------|--------|-------------------------------------|------------|--------|
+| Nov 23 | 5 - 9pm | **Grand Opening - Cloud Native** | EN | Berlin Kreuzberg or virtual | [Register now](https://developer.microsoft.com/en-us/reactor/events/17581/) 
+
+<br/>
 
 ---
 ## Microsoft @ 3rd party events
-| Date   | Time   | Format & Topic | Language                     |   Location | Action |
+| Date   | Time   | Topic | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
+
+<br/>
 
 ---
 
