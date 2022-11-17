@@ -60,8 +60,11 @@ All of the training formats presented here are free of charge.
 ### Conferences
 
 ##### [HYBRID] Container Days
-##### [VIRTUAL] Azure Solution Summit
-##### [IN-PERSON] Bits & Pretzels
+##### [HYBRID] Azure Solution Summit
+| Date   | Time   | Format  | Language                     |   Location | Action |
+|--------|---------|--------|-------------------------------------|------------|--------|
+| Mar 14 - 15 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) | Registration opens in CY23
+
 
 ### Meetups
 
