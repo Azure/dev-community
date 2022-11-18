@@ -15,6 +15,14 @@
 - #### [Recording (RAW)](./2022-10-20/2022-10-20_News-&-Hot-Topics_BestSecret.mp4)
 - #### [Slides](./2022-10-20/2022-10-20_News-&-Hot-Topics_BestSecret.pdf)
 
+
+### Nov 17, 2022 - Java on Azure
+
+- #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-11-17_News-%26-Hot-Topics_Java-on-Azure.mp4?sp=r&st=2022-11-18T09:29:24Z&se=2024-11-18T17:29:24Z&spr=https&sv=2021-06-08&sr=b&sig=HDiJ1RfDWKfxv25cMs3V%2BEkCrpYci4dAZVy1JHP9GCU%3D)
+- #### [Recording (RAW)](./2022-11-17/2022-11-17_News-&-Hot-Topics_Java-on-Azure.mp4)
+- #### [Slides](./2022-11-17/2022-11-17_News-&-Hot-Topics_Java-on-Azure.pdf)
+
+
 --- 
 
 ## Ask Me Anything
