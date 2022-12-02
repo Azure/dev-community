@@ -42,8 +42,6 @@
 - #### Slides - coming soon!
 
 
-https://github.com/Azure/dev-community/blob/main/community-calls/2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.mp4
-
 --- 
 ## ➡️ See next topics and register for upcoming Community Calls [here](../README.md#community-calls-in-cy22)
 
