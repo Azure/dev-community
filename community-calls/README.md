@@ -36,6 +36,13 @@
 - #### [Recording (RAW)](./2022-11-10/2022-11-10_AskMeAnything-CosmosDB.mp4)
 - #### [Slides](./2022-11-10/2022-11-10_AskMeAnything_CosmosDB.pdf)
 
+### Dec 1, 2022 - Java on Azure
+- #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-12-01_AskMeAnything_Java-on-Azure.mp4?sp=r&st=2022-12-02T14:48:07Z&se=2022-12-02T22:48:07Z&spr=https&sv=2021-06-08&sr=b&sig=dSmSFeQCfg0B23MdsldgvLhFuddbK2j2uZxxkko8MLg%3D)
+- #### [Recording (RAW)](./2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.mp4)
+- #### Slides - coming soon!
+
+
+https://github.com/Azure/dev-community/blob/main/community-calls/2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.mp4
 
 --- 
 ## ➡️ See next topics and register for upcoming Community Calls [here](../README.md#community-calls-in-cy22)
