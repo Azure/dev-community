@@ -29,12 +29,15 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Programming Languages](#programming-languages)
   * [.NET](#net)
   * [Java](#java)  
-  * [JavaScript/TypeScript/Node.js](#javascripttypescriptnodejs)
+  * [JavaScript/TypeScript/Node.js](#javascripttypescriptnodejs-and-related-frameworks)
   * [Python](#python)
   * Rust
   * Go
   * Ruby
   * PowerShell
+
+* [Topics](#topics)
+  * [Cloud native](#cloud-native)
 
 * Azure Hero Services
   * [Azure Kubernetes Service](#aks)
@@ -53,13 +56,12 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
   * Microservices
   * Service Driven
 
-* [Guides, Books, Videos](#guides-books-videos)
-  * [Videos](#videos)
-  * [Free Ebooks](#free-ebooks)
-
-* [Cheat Sheets](#cheat-sheets)
- 
-* [Trainings](#trainings)
+* [Other content / Cross-topic](#other-content--cross-topic)
+  * [Channels & Livestreams](#-channels--livestreams)
+  * [On-demand webinars](#-on-demand-webinars)
+  * [Free Ebooks](#-free-ebooks)
+  * [Cheat Sheets](#-cheat-sheets)
+  * [Trainings](#-trainings)
 
 * [Dev Tools](#dev-tools)
   * [VS Code](#vscode)
@@ -160,12 +162,12 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [DE](https://azure.microsoft.com/de-de/resources/minimize-risks-and-costs-with-the-azure-developer-proof-of-concept-guide/) | [EN](https://azure.microsoft.com/en-us/resources/minimize-risks-and-costs-with-the-azure-developer-proof-of-concept-guide/) - Azure Proof of Concept Guide for Developers (2020)
 
 
-## 🤓 Cheat Sheets
+### 🤓 Cheat Sheets
 * [Azure Cosmos DB Queries](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/query-cheat-sheet)
 * [Azure Developer's Cheat Sheet](https://github.com/milanm/azure-cheat-sheet)
 
 
-## 💡 Trainings
+### 💡 Trainings
 * [AzureDeveloperCollege](https://github.com/azuredevcollege/trainingdays) - 5 days of training for developers new to Microsoft Azure.
 * [AnyoneCanCode](https://github.com/microsoft/anyonecancode) - Great for beginners without any Cloud experiance
 * [AzureAdventureDay](https://www.microsoft.com/de-de/techwiese/events/azure-adventure-day.aspx) - One Day Adventure Training for Azure Kubernetes Serivce
