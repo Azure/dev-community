@@ -25,7 +25,7 @@ All of the training formats presented here are free of charge.
 | Dec 28 & 29 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/368475/157-GQE-382)|
 | Jan 23 & 24 | 9 - 11.30am | **Azure Virtual Training Day: Cloud-Native Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/371448/157-GQE-382)|
 | Feb 13 & 14 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/374103/157-GQE-382)|
-| Feb 22 & 23 | 9 - 12pm/11.30am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/376369/157-GQE-382)|
+| Feb 22 & 23 | 9 - 12pm/11.30am | **Azure Virtual Training Day: Modernize .NET Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/376369/157-GQE-382)|
 
 <br/>
 
