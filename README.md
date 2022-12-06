@@ -58,12 +58,14 @@ We are still working on the first draft of it, though. And you're invited to con
 Browse through tons of tutorials, demos, blog articles, libraries, helper tools or learning resources for topics like:
 
 - [Programming Languages](./awesome-azure/README.md#programming-languages)
+- [Topics](./awesome-azure/README.md#topics)
 - [Azure Hero Services](./awesome-azure/README.md#azure-hero-services)
 - [Azure Architectures](./awesome-azure/README.md#azure-architectures)
-- [Video Content](./awesome-azure/README.md#video-content)
-- [Cheat Sheets](./awesome-azure/README.md#cheat-sheets)
-- [Free Ebooks](./awesome-azure/README.md#free-ebooks)
-- [Trainings](./awesome-azure/README.md#trainings)
+- [Channels & Livestreams](./awesome-azure/README.md#-channels--livestreams)
+- [On-demand webinars](./awesome-azure/README.md#-on-demand-webinars)
+- [Cheat Sheets](./awesome-azure/README.md#-cheat-sheets)
+- [Free Ebooks](./awesome-azure/README.md#-free-ebooks)
+- [Trainings](./awesome-azure/README.md#-trainings)
 - [Dev Tools](./awesome-azure/README.md#dev-tools)
 
 ## Azure Updates
