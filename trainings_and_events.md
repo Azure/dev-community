@@ -19,10 +19,6 @@ All of the training formats presented here are free of charge.
 
 | Date   | Time   | Format & Topic | Language                     |   Action |
 |--------|---------|--------|-------------------------------------|----------------|
-| Nov 17 | 9am - 4pm | **Azure Immersion Workshop: Cloud Native Apps** | DE|[Register now](https://mktoevents.com/Microsoft+Event/360979/157-GQE-382)|
-| Nov 28 & 29 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/365650/157-GQE-382)|
-| Nov 30 & Dec 1 | 9am - 12pm | **Azure Virtual Training Day: Modernize .NET Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/366180/157-GQE-382)|
-| Dec 1 | 9am - 4pm | **Azure Immersion Workshop: DevOps with GitHub** | DE |[Register now](https://mktoevents.com/Microsoft+Event/361551/157-GQE-382)|
 | Dec 8 | 9am - 4pm | **Azure Immersion Workshop: Modernize Java Apps** | DE | [Register now](https://mktoevents.com/Microsoft+Event/363777/157-GQE-382)|
 | Dec 14 & 15 | 9 - 12.15am | **Azure Virtual Training Day: DevOps with GitHub** | DE | [Register now](https://mktoevents.com/Microsoft+Event/367804/157-GQE-382)|
 | Dec 21 | 9 - 12.15am | **Azure Virtual Training Day: Linux OSS Database Migration** | DE | [Register now](https://mktoevents.com/Microsoft+Event/367981/157-GQE-382)|
@@ -34,7 +30,7 @@ All of the training formats presented here are free of charge.
 ### [IN-PERSON] Training Events
 | Date   | Time   | Format & Topic | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Dec 2 | 9.30am - 5pm | **Azure Adventure Day** | EN |Munich (Microsoft Office) | [Register now](https://msevents.microsoft.com/event?id=228049368)
+| Dec 13 | 9am - 6pm | **Azure Developer Community Day** | EN |Munich (Microsoft Office) | [Register now](https://azuredev.org/)
 
 <br/>
 
@@ -42,7 +38,8 @@ All of the training formats presented here are free of charge.
 ### [HYBRID] Microsoft Reactor Popup Berlin!
 | Date   | Time   | Topic | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Nov 23 | 5 - 9pm | **Grand Opening - Cloud Native** | EN | Berlin Kreuzberg or virtual | [Register now](https://developer.microsoft.com/en-us/reactor/events/17581/) 
+| Nov 23 | 5 - 9pm | **Grand Opening - Cloud Native** | EN | Berlin Kreuzberg or virtual | [Recording](https://developer.microsoft.com/en-us/reactor/events/17581/) 
+| Dec 15 | 4 - 8pm | **Cloud Native Azure Services and Best Practices** | EN | Berlin Kreuzberg or virtual | [Register now!](https://developer.microsoft.com/en-us/reactor/events/17743/) 
 
 <br/>
 
