@@ -68,7 +68,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 
 ## Legend
 
-📘 Ebooks | 📄 Documentation | 🎥 Video or Webinar | 📑 PDF Guides | 💡 Trainings | 🤓 Cheat Sheets | 🧰 Dev Tools
+📘 Ebook | 📄 Documentation | 🎥 Video or Webinar | 📑 PDF Guide | 💡 Training | 🤓 Cheat Sheet | 🧰 Dev Tool
 
 ## Programming Languages
 
