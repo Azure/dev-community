@@ -66,6 +66,10 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 * [Dev Tools](#dev-tools)
   * [VS Code](#vscode)
 
+## Legend
+
+📘 Ebooks | 📄 Documentation | 🎥 Video or Webinar | 📑 PDF Guides | 💡 Trainings | 🤓 Cheat Sheets | 🧰 Dev Tools
+
 ## Programming Languages
 
 ### .NET
