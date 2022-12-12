@@ -43,7 +43,10 @@ will upload the recording of the call and close the issue once it's available.
 |  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Slides](./community-calls/2022-11-17/2022-11-17_News-&-Hot-Topics_Java-on-Azure.pdf)<br/> [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-11-17_News-%26-Hot-Topics_Java-on-Azure.mp4?sp=r&st=2022-11-18T09:29:24Z&se=2024-11-18T17:29:24Z&spr=https&sv=2021-06-08&sr=b&sig=HDiJ1RfDWKfxv25cMs3V%2BEkCrpYci4dAZVy1JHP9GCU%3D) |   
 |  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure | [Slides](./community-calls/2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.pdf)<br/>[Recording](https://azdevcall.blob.core.windows.net/recordings/2022-12-01_AskMeAnything_Java-on-Azure.mp4?sp=r&st=2022-12-02T14:48:07Z&se=2022-12-02T22:48:07Z&spr=https&sv=2021-06-08&sr=b&sig=dSmSFeQCfg0B23MdsldgvLhFuddbK2j2uZxxkko8MLg%3D) |
 |  Dec 15 @ 4pm  | News & Hot Topics - Domain-driven design for highly distributed systems  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
-
+|  Jan 12 @ 4pm  | Ask Me Anything - Applied Serverless Architecture patterns | [Register](https://msevents.microsoft.com/event?id=2836637809) |
+|  Jan 19 @ 4pm  | News & Hot Topics - .NET MAUI  | [Register](https://reactor.microsoft.com/en-us/reactor/events/17744/) |   
+  
+  
 More info on the different formats on [aka.ms/azure4devs](https://aka.ms/azure4devs)  
 Find the archive (slides, recordings, demos) of previous calls [here](./community-calls).
 
