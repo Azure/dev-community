@@ -38,12 +38,15 @@ will upload the recording of the call and close the issue once it's available.
 |--------|---------------------------------------|--------------|
 | Sep 15 @ 4pm | News & Hot Topics - Microsoft DevBox | [Slides](./community-calls/2022-09-15/2022-09-15_News-&-hot-topics_Microsoft-Dev-Box.pdf)<br/>[Recording](https://azdevcall.blob.core.windows.net/recordings/2022-09-15_News-%26-Hot-Topics_Microsoft-Dev-Box.mp4?sp=r&st=2022-09-20T12:29:12Z&se=2023-09-20T20:29:12Z&spr=https&sv=2021-06-08&sr=b&sig=XX2vl1deLhmAzEGLB3yKXv2TB3HNOG5WHpDDAc%2F8qvQ%3D)         |   
 | Oct 6 @ 4pm | Ask Me Anything - Cloud Native Application Development | [Slides](./community-calls/2022-10-06/2022-10-06_AskMeAnything-CloudNative.pdf)<br/>[Recording](https://azdevcall.blob.core.windows.net/recordings/2022-10-06_Ask-Me-Anything_Cloud-Native.mp4?sp=r&st=2022-10-20T14:23:44Z&se=2024-10-31T23:23:44Z&spr=https&sv=2021-06-08&sr=b&sig=dXSI%2BevDMmC1xsSa1l8TAGsJ3xJoMHJc%2BsCnoWEzMX4%3D)  |  
-|  Oct 20 @ 4pm  | News & Hot Topics - BestSecret: empowering developers with minimal uncertainty and chaos | [Register](https://mktoevents.com/Microsoft+Event/358245/157-GQE-382) |   
-|  Nov 10 @ 4pm  | Ask Me Anything - Cosmos DB - [ask your question](https://github.com/Azure/dev-community/discussions/16)  | [Register](https://mktoevents.com/Microsoft+Event/358367/157-GQE-382) |   
-|  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Register](https://mktoevents.com/Microsoft+Event/358294/157-GQE-382) |   
-|  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure - [ask your question](https://github.com/Azure/dev-community/discussions/14) | [Register](https://mktoevents.com/Microsoft+Event/358350/157-GQE-382) |
-|  Dec 15 @ 4pm  | News & Hot Topics - [nominate a topic](https://github.com/Azure/dev-community/discussions/5)  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
-
+|  Oct 20 @ 4pm  | News & Hot Topics - BestSecret: empowering developers with minimal uncertainty and chaos | [Slides](./community-calls/2022-10-20/2022-10-20_News-&-Hot-Topics_BestSecret.pdf)<br/> [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-10-20_News-%26-Hot-Topics_BestSecret.mp4?sp=r&st=2022-10-24T14:46:03Z&se=2024-10-24T22:46:03Z&spr=https&sv=2021-06-08&sr=b&sig=5r6rOb7XDm6WY%2BhAaCgQC9Wh7NuuCMpjEl4%2BbsLBm7A%3D) |   
+|  Nov 10 @ 4pm  | Ask Me Anything - Cosmos DB  | [Slides](./community-calls/2022-11-10/2022-11-10_AskMeAnything_CosmosDB.pdf)<br/>[Recording](https://azdevcall.blob.core.windows.net/recordings/2022-11-10_Ask-Me-Anything-Cosmos-DB.mp4?sp=r&st=2022-11-14T14:01:52Z&se=2024-11-14T22:01:52Z&spr=https&sv=2021-06-08&sr=b&sig=O83Rx6ghM63xHFb5q1cnxOdnbgK0o%2B0KxAjvVdvNijw%3D) |   
+|  Nov 17 @ 4pm  | News & Hot Topics - Java on Azure  | [Slides](./community-calls/2022-11-17/2022-11-17_News-&-Hot-Topics_Java-on-Azure.pdf)<br/> [Recording](https://azdevcall.blob.core.windows.net/recordings/2022-11-17_News-%26-Hot-Topics_Java-on-Azure.mp4?sp=r&st=2022-11-18T09:29:24Z&se=2024-11-18T17:29:24Z&spr=https&sv=2021-06-08&sr=b&sig=HDiJ1RfDWKfxv25cMs3V%2BEkCrpYci4dAZVy1JHP9GCU%3D) |   
+|  Dec 1 @ 4pm  | Ask Me Anything - Java on Azure | [Slides](./community-calls/2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.pdf)<br/>[Recording](https://azdevcall.blob.core.windows.net/recordings/2022-12-01_AskMeAnything_Java-on-Azure.mp4?sp=r&st=2022-12-02T14:48:07Z&se=2022-12-02T22:48:07Z&spr=https&sv=2021-06-08&sr=b&sig=dSmSFeQCfg0B23MdsldgvLhFuddbK2j2uZxxkko8MLg%3D) |
+|  Dec 15 @ 4pm  | News & Hot Topics - Domain-driven design for highly distributed systems  | [Register](https://mktoevents.com/Microsoft+Event/358070/157-GQE-382) |   
+|  Jan 12 @ 4pm  | Ask Me Anything - Applied Serverless Architecture patterns | [Register](https://msevents.microsoft.com/event?id=2836637809) |
+|  Jan 19 @ 4pm  | News & Hot Topics - .NET MAUI  | [Register](https://reactor.microsoft.com/en-us/reactor/events/17744/) |   
+  
+  
 More info on the different formats on [aka.ms/azure4devs](https://aka.ms/azure4devs)  
 Find the archive (slides, recordings, demos) of previous calls [here](./community-calls).
 
@@ -58,12 +61,14 @@ We are still working on the first draft of it, though. And you're invited to con
 Browse through tons of tutorials, demos, blog articles, libraries, helper tools or learning resources for topics like:
 
 - [Programming Languages](./awesome-azure/README.md#programming-languages)
+- [Topics](./awesome-azure/README.md#topics)
 - [Azure Hero Services](./awesome-azure/README.md#azure-hero-services)
 - [Azure Architectures](./awesome-azure/README.md#azure-architectures)
-- [Video Content](./awesome-azure/README.md#video-content)
-- [Cheat Sheets](./awesome-azure/README.md#cheat-sheets)
-- [Free Ebooks](./awesome-azure/README.md#free-ebooks)
-- [Trainings](./awesome-azure/README.md#trainings)
+- [Channels & Livestreams](./awesome-azure/README.md#-channels--livestreams)
+- [On-demand webinars](./awesome-azure/README.md#-on-demand-webinars)
+- [Cheat Sheets](./awesome-azure/README.md#-cheat-sheets)
+- [Free Ebooks](./awesome-azure/README.md#-free-ebooks)
+- [Trainings](./awesome-azure/README.md#-trainings)
 - [Dev Tools](./awesome-azure/README.md#dev-tools)
 
 ## Azure Updates
