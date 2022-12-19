@@ -73,6 +73,7 @@ Review the [Contributing Guidelines](../CONTRIBUTING.md#awesome-azure).
 ## Programming Languages
 
 ### .NET
+* [Azure sdk for .NET](https://github.com/Azure/azure-sdk-for-net) - Repository for active development of the Azure SDK for .NET 🔥🔥🔥🔥🔥
 * [.NET Microservices Sample Reference Application](https://github.com/dotnet-architecture/eShopOnContainers) :fire::fire::fire::fire::fire:
 * 🎩 [C#-First steps](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/) - Learn the basic syntax and thought processes required to build simple applications using C# (Self-Paced Learning)
 * 🎩 [.NET testing](https://docs.microsoft.com/en-us/learn/modules/visual-studio-test-tools/) - Start testing your C# apps using Visual Studio tools (Self-Paced Learning)
