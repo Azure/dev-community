@@ -45,6 +45,7 @@ will upload the recording of the call and close the issue once it's available.
 |  Dec 15 @ 4pm  | News & Hot Topics - Domain-driven design for highly distributed systems  | [Slides](./community-calls/2022-12-15/2022-12-15_News-&-Hot-Topics_Domain-driven-design.pdf)<br/> [Recording](https://reactor.microsoft.com/en-us/reactor/events/17743/) |   
 |  Jan 12 @ 4pm  | Ask Me Anything - Applied Serverless Architecture patterns - [Ask your question](https://github.com/Azure/dev-community/discussions/28) | [Register](https://msevents.microsoft.com/event?id=2836637809) |
 |  Jan 19 @ 4pm  | News & Hot Topics - .NET MAUI  | [Register](https://reactor.microsoft.com/en-us/reactor/events/17744/) |   
+|  Feb 2 @ 4pm  | Ask Me Anything - Azure Container Apps - [Ask your question](https://github.com/Azure/dev-community/discussions/30) | [Register](https://msevents.microsoft.com/event?id=1183806401) |
   
   
 More info on the different formats on [aka.ms/azure4devs](https://aka.ms/azure4devs)  
