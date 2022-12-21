@@ -43,7 +43,7 @@ All of the training formats presented here are free of charge.
 | Feb 9 | 9am - 4pm | **Azure Immersion Workshop: Cloud Native Apps** | DE | [Register now](https://mktoevents.com/Microsoft+Event/378182/157-GQE-382)|
 | Feb 13 & 14 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/374103/157-GQE-382)|
 | Feb 22 & 23 | 9 - 12pm/11.30am | **Azure Virtual Training Day: Modernize .NET Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/376369/157-GQE-382)|
-
+|Ongoing | On-demand | **Cloud Skills Challenges** | Several languages | [Register now](https://www.microsoft.com/de-de/techwiese/events/cloud-skills-challenge.aspx)
 <br/>
 
 ---
