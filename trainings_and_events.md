@@ -15,12 +15,27 @@ All of the training formats presented here are free of charge.
 
 ## Microsoft hosted
 
+### [IN-PERSON] Training Events
+| Date   | Time   | Format & Topic | Language                     |   Location | Action |
+|--------|---------|--------|-------------------------------------|------------|--------|
+| Mar 14 - 15 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) | Registration opens in CY23
+
+<br/>
+
+
+### [HYBRID] Microsoft Reactor Popup Berlin!
+| Date   | Time   | Topic | Language                     |   Location | Action |
+|--------|---------|--------|-------------------------------------|------------|--------|
+| Jan 19 | 4 - 8pm | **.NET Conf After Party** | EN | Berlin Kreuzberg or virtual | [Register now!](https://reactor.microsoft.com/en-us/reactor/events/17744/) 
+| Feb 16 | 4 - 8pm | **TBD - Save the date** | EN | Berlin Kreuzberg or virtual | Registration available soon 
+
+
+<br/>
+
 ### [VIRTUAL] Training Events
 
 | Date   | Time   | Format & Topic | Language                     |   Action |
 |--------|---------|--------|-------------------------------------|----------------|
-| Dec 8 | 9am - 4pm | **Azure Immersion Workshop: Modernize Java Apps** | DE | [Register now](https://mktoevents.com/Microsoft+Event/363777/157-GQE-382)|
-| Dec 14 & 15 | 9 - 12.15am | **Azure Virtual Training Day: DevOps with GitHub** | DE | [Register now](https://mktoevents.com/Microsoft+Event/367804/157-GQE-382)|
 | Dec 21 | 9 - 12.15am | **Azure Virtual Training Day: Linux OSS Database Migration** | DE | [Register now](https://mktoevents.com/Microsoft+Event/367981/157-GQE-382)|
 | Dec 28 & 29 | 9 - 11.15am | **Azure Virtual Training Day: Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/368475/157-GQE-382)|
 | Jan 23 & 24 | 9 - 11.30am | **Azure Virtual Training Day: Cloud-Native Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/371448/157-GQE-382)|
@@ -31,42 +46,17 @@ All of the training formats presented here are free of charge.
 
 <br/>
 
-### [IN-PERSON] Training Events
-| Date   | Time   | Format & Topic | Language                     |   Location | Action |
-|--------|---------|--------|-------------------------------------|------------|--------|
-| Dec 13 | 9am - 6pm | **Azure Developer Community Day** | EN |Munich (Microsoft Office) | [Register now](https://azuredev.org/)
-
-<br/>
-
-
-### [HYBRID] Microsoft Reactor Popup Berlin!
-| Date   | Time   | Topic | Language                     |   Location | Action |
-|--------|---------|--------|-------------------------------------|------------|--------|
-| Nov 23 | 5 - 9pm | **Grand Opening - Cloud Native** | EN | Berlin Kreuzberg or virtual | [Recording](https://developer.microsoft.com/en-us/reactor/events/17581/) 
-| Dec 15 | 4 - 8pm | **Cloud Native Azure Services and Best Practices** | EN | Berlin Kreuzberg or virtual | [Register now!](https://developer.microsoft.com/en-us/reactor/events/17743/) 
-
-<br/>
-
----
-## Microsoft @ 3rd party events
-| Date   | Time   | Topic | Language                     |   Location | Action |
-|--------|---------|--------|-------------------------------------|------------|--------|
-
-<br/>
-
 ---
 
 ## External
-
-### Conferences
-
-##### [HYBRID] Container Days
-##### [HYBRID] Azure Solution Summit
-| Date   | Time   | Format  | Language                     |   Location | Action |
+### [IN-PERSON] Conferences
+| Date   | Time   | Event Name | Language                     |   Location | More information |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Mar 14 - 15 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) | Registration opens in CY23
+| Mar 21-23 | Full day | JavaLand 2023 | EN & DE | Phantasialand Brühl | [Website](https://www.javaland.eu/de/home/)|
+<br/>
+
+
 
 
 ### Meetups
 
-##### [HYBRID] Azure Meetup Rosenheim
