@@ -23,6 +23,12 @@
 - #### [Slides](./2022-11-17/2022-11-17_News-&-Hot-Topics_Java-on-Azure.pdf)
 
 
+### Dec 15, 2022 - Domain-driven design for highly distributed applications
+
+- #### [Recording](https://reactor.microsoft.com/en-us/reactor/events/17743/)
+- #### [Slides](./2022-12-15/2022-12-15_News-&-Hot-Topics_Domain-driven-design.pdf)
+
+
 --- 
 
 ## Ask Me Anything
