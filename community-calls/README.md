@@ -47,6 +47,10 @@
 - #### [Recording (RAW)](./2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.mp4)
 - #### [Slides](./2022-12-01/2022-12-01_AskMeAnything_Java-on-Azure.pdf)
 
+### Jan 12, 2023 - Serverless
+- #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2023-01-12_AskMeAnything_Serverless.mp4?sp=r&st=2023-01-17T11:49:13Z&se=2023-01-17T19:49:13Z&spr=https&sv=2021-06-08&sr=b&sig=6BA5kd4XelBegz4YelOIhThW%2FsccrgFc%2BrAWo3jbXb0%3D)
+- #### [Recording (RAW)](./2023-01-12/2023-01-12_AskMeAnything_Serverless.mp4)
+- #### [Slides](./2023-01-12/2023-01-12_AskMeAnything_Serverless.pdf)
 
 --- 
 ## ➡️ See next topics and register for upcoming Community Calls [here](../README.md#community-calls-in-cy22)
