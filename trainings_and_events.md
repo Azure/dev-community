@@ -25,7 +25,7 @@ All of the training formats presented here are free of charge.
 ### [HYBRID] Training Events
 | Date   | Time   | Event Name | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Mar 14 - 17 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) | Registration opens very soon
+| Mar 14 - 17 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) & virtual | Registration opens very soon
 
 <br/>
 
