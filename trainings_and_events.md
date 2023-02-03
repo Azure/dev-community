@@ -18,7 +18,14 @@ All of the training formats presented here are free of charge.
 ### [IN-PERSON] Training Events
 | Date   | Time   | Event Name | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Mar 14 - 15 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) | Registration opens in CY23
+| Mar 15 | Full day (9.30am - 5pm) | **Azure Adventure Day: Fundamentals** | EN | Munich (Microsoft Office) | [Register now](https://msevents.microsoft.com/event?id=2122185213)
+
+<br/>
+
+### [HYBRID] Training Events
+| Date   | Time   | Event Name | Language                     |   Location | Action |
+|--------|---------|--------|-------------------------------------|------------|--------|
+| Mar 14 - 17 | Full day | **Azure Solution Summit** | EN | Munich (Microsoft Office) | Registration opens very soon
 
 <br/>
 
@@ -36,8 +43,6 @@ All of the training formats presented here are free of charge.
 
 | Date   | Time   | Format | Topic | Language                     |   Action |
 |--------|---------|--------|----------------|---------------------|----------------|
-| Jan 23 & 24 | 9 - 11.30am | Azure Virtual Training Day | **Cloud-Native Apps** | DE |[Register now](https://mktoevents.com/Microsoft+Event/371448/157-GQE-382)|
-| Jan 26 | 9am - 4pm | Azure Immersion Workshop | **DevOps with GitHub** | DE | [Register now](https://mktoevents.com/Microsoft+Event/377005/157-GQE-382)|
 | Feb 8 | 9am - 4pm | Azure Immersion Workshop | **Database Modernization** | DE | [Register now](https://mktoevents.com/Microsoft+Event/379295/157-GQE-382)|
 | Feb 9 | 9am - 4pm | Azure Immersion Workshop | **Cloud Native Apps** | DE | [Register now](https://mktoevents.com/Microsoft+Event/378182/157-GQE-382)|
 | Feb 13 & 14 | 9 - 11.15am | Azure Virtual Training Day | **Fundamentals** | DE |[Register now](https://mktoevents.com/Microsoft+Event/374103/157-GQE-382)|
