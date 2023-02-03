@@ -45,7 +45,7 @@ will upload the recording of the call and close the issue once it's available.
 |  Dec 15 @ 4pm  | News & Hot Topics - Domain-driven design for highly distributed systems  | [Slides](./community-calls/2022-12-15/2022-12-15_News-&-Hot-Topics_Domain-driven-design.pdf)<br/> [Recording](https://reactor.microsoft.com/en-us/reactor/events/17743/) |   
 |  Jan 12 @ 4pm  | Ask Me Anything - Applied Serverless Architecture patterns | [Slides](./community-calls/2023-01-12/2023-01-12_AskMeAnything_Serverless.pdf)</br>[Recording](https://azdevcall.blob.core.windows.net/recordings/2023-01-12_AskMeAnything_Serverless.mp4?sp=r&st=2023-01-17T11:49:13Z&se=2023-01-17T19:49:13Z&spr=https&sv=2021-06-08&sr=b&sig=6BA5kd4XelBegz4YelOIhThW%2FsccrgFc%2BrAWo3jbXb0%3D) |
 |  Jan 19 @ 4pm  | News & Hot Topics - .NET MAUI  | [Register](https://reactor.microsoft.com/en-us/reactor/events/17744/) |   
-|  Feb 2 @ 4pm  | Ask Me Anything - Azure Container Apps - [Ask your question](https://github.com/Azure/dev-community/discussions/30) | [Register](https://msevents.microsoft.com/event?id=1183806401) |
+|  Feb 2 @ 4pm  | Ask Me Anything - Azure Container Apps | [Slides](./community-calls/2023-02-02/2023-02-02_AskMeAnything_ContainerApps.pdf)</br>[Recording](https://azdevcall.blob.core.windows.net/recordings/2023-02-02_AskMeAnything%20ContainerApps.mp4?sp=r&st=2023-02-03T13:16:48Z&se=2024-12-01T11:16:48Z&spr=https&sv=2021-06-08&sr=b&sig=f0FNfiqPQytuOfdLtC2%2Fyn2qRiTvmiVyfjWvRZq5TGU%3D) |
 |  Feb 16 @ **5pm**  | News & Hot Topics - Azure Mission-Critical  | [Register](https://reactor.microsoft.com/en-us/reactor/events/18250/) |   
   
   
