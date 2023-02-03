@@ -53,7 +53,7 @@
 - #### [Slides](./2023-01-12/2023-01-12_AskMeAnything_Serverless.pdf)
 
 
-### Jan 12, 2023 - Serverless
+### Feb 2, 2023 - Container Apps
 - #### [Recording](https://azdevcall.blob.core.windows.net/recordings/2023-02-02_AskMeAnything%20ContainerApps.mp4?sp=r&st=2023-02-03T13:16:48Z&se=2024-12-01T11:16:48Z&spr=https&sv=2021-06-08&sr=b&sig=f0FNfiqPQytuOfdLtC2%2Fyn2qRiTvmiVyfjWvRZq5TGU%3D)
 - #### [Recording (RAW)](./2023-02-02/2023-02-02_AskMeAnything_ContainerApps.mp4)
 - #### [Slides](./2023-02-02/2023-02-02_AskMeAnything_ContainerApps.pdf)
