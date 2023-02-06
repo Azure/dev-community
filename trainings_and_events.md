@@ -34,8 +34,7 @@ All of the training formats presented here are free of charge.
 ### [HYBRID] Microsoft Reactor Popup Berlin!
 | Date   | Time   | Topic | Language                     |   Location | Action |
 |--------|---------|--------|-------------------------------------|------------|--------|
-| Jan 19 | 4 - 8pm | **.NET Conf After Party** | EN | Berlin Kreuzberg or virtual | [Register now!](https://reactor.microsoft.com/en-us/reactor/events/17744/) 
-| Feb 16 | 4 - 8pm | **Mastering applications at scale on Azure** | EN | Berlin Kreuzberg or virtual | [Register now!](https://reactor.microsoft.com/en-us/reactor/events/18250/) 
+| Feb 16 | 4 - 8pm | **Mastering applications at scale on Azure** | EN | Berlin Mitte (Microsoft Office) or virtual | [Register now!](https://reactor.microsoft.com/en-us/reactor/events/18250/) 
 
 
 <br/>
