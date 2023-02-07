@@ -29,6 +29,12 @@
 - #### [Slides](./2022-12-15/2022-12-15_News-&-Hot-Topics_Domain-driven-design.pdf)
 
 
+### Jan 19, 2023 - .NET Maui
+
+- #### [Recording](https://www.youtube.com/watch?v=Yoko2HkPNGU)
+- #### [Slides](./community-calls/2023-01-19/2023-01-19_News-&-Hot-Topics_Maui.pdf)
+
+
 --- 
 
 ## Ask Me Anything
