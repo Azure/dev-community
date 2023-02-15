@@ -36,6 +36,7 @@ will upload the recording of the call and close the issue once it's available.
 
 | Date   | Topic                                 | Action |   
 |--------|---------------------------------------|--------------|
+|  Apr 20 @ 4pm  | Ask Me Anything - Tbd | [Register](https://msevents.microsoft.com/event?id=2980203899) |
 |  Mar 2 @ 4pm  | Ask Me Anything - Optimizing costs for cloud native - [Ask your question](https://github.com/Azure/dev-community/discussions/33) | [Register](https://msevents.microsoft.com/event?id=1797763111) |
 |  Feb 16 @ **5pm**  | News & Hot Topics - Azure Mission-Critical  | [Register](https://reactor.microsoft.com/en-us/reactor/events/18250/) |   
 |  Feb 2 @ 4pm  | Ask Me Anything - Azure Container Apps | [Slides](./community-calls/2023-02-02/2023-02-02_AskMeAnything_ContainerApps.pdf)</br>[Recording](https://azdevcall.blob.core.windows.net/recordings/2023-02-02_AskMeAnything%20ContainerApps.mp4?sp=r&st=2023-02-03T13:16:48Z&se=2024-12-01T11:16:48Z&spr=https&sv=2021-06-08&sr=b&sig=f0FNfiqPQytuOfdLtC2%2Fyn2qRiTvmiVyfjWvRZq5TGU%3D) |
