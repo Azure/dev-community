@@ -32,7 +32,13 @@
 ### Jan 19, 2023 - .NET Maui
 
 - #### [Recording](https://www.youtube.com/watch?v=Yoko2HkPNGU)
-- #### [Slides](./community-calls/2023-01-19/2023-01-19_News-&-Hot-Topics_Maui.pdf)
+- #### [Slides](./2023-01-19/2023-01-19_News-&-Hot-Topics_Maui.pdf)
+
+
+### Feb 16, 2023 - Azure Mission-Critical
+
+- #### [Recording](https://www.youtube.com/watch?v=HHRi6tAHaws)
+- #### [Slides](./2023-02-16/23-02-16_News-&-hot-topics_Azure_Mission_Critical.pdf)
 
 
 --- 
